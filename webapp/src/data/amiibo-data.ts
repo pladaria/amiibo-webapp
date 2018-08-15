@@ -23,244 +23,484 @@ export default {
     ],
     "games": {
         "273841": {
-            "name": "animal_crossing_new_leaf_splatoon"
+            "name": "Animal Crossing: New Leaf - Welcome amiibo",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingNewLeaf_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingNewLeaf_WelcomeAmiibo_image500w.jpg",
+            "dateRelease": "2016-11-25T00:00:00Z"
         },
         "765384": {
-            "name": "mario_kart_8"
+            "name": "Mario Kart 8",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioKart8_PEGI3_image500w.png",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioKart8_image500w.jpg",
+            "dateRelease": "2014-05-30T00:00:00Z"
         },
         "858506": {
-            "name": "shovelknight_wiiu"
+            "name": "Shovel Knight",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_ShovelKnight_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_ShovelKnight_image500w.jpg",
+            "dateRelease": "2015-10-30T00:00:00Z"
         },
         "858507": {
-            "name": "shovelknight_3ds"
+            "name": "Shovel Knight: Treasure Trove",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
+            "dateRelease": "2015-10-30T00:00:00Z"
         },
         "864329": {
-            "name": "super_smash_bros_for_3ds"
+            "name": "Super Smash Bros. for Nintendo 3DS",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_SuperSmashBros_enGB_image300w.png",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_SuperSmashBrosNintendo3DS_image500w.jpg",
+            "dateRelease": "2014-10-03T00:00:00Z"
         },
         "864849": {
-            "name": "super_smash_bros_for_wii_u"
+            "name": "Super Smash Bros. for Wii U",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperSmashBrosForWiiU_PEGI12_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperSmashBrosForWiiU_image500w.jpg",
+            "dateRelease": "2014-11-28T00:00:00Z"
         },
         "891849": {
-            "name": "hyrule_warriors_others"
+            "name": "Hyrule Warriors",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_HyruleWarriors_PEGI_image300w.png",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_HyruleWarriors_image500w.jpg",
+            "dateRelease": "2014-09-19T00:00:00Z"
         },
         "892510": {
-            "name": "splatoon"
+            "name": "Splatoon",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_Splatoon_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_Splatoon_image500w.jpg",
+            "dateRelease": "2015-05-29T00:00:00Z"
         },
         "892537": {
-            "name": "yoshi_woolly_world_pokemon"
+            "name": "Yoshi's Woolly World",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_YoshisWoollyWorld_UKV_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_YoshisWoollyWorld_image500w.jpg",
+            "dateRelease": "2015-06-26T00:00:00Z"
         },
         "892704": {
-            "name": "super_mario_maker_others"
+            "name": "Super Mario Maker",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperMarioMaker_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperMarioMaker_image500w.jpg",
+            "dateRelease": "2015-09-11T00:00:00Z"
         },
         "892779": {
-            "name": "mario_party_10_others"
+            "name": "Mario Party 10",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioParty10_NS_EUR_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioParty10_image500w.jpg",
+            "dateRelease": "2015-03-20T00:00:00Z"
         },
         "892923": {
-            "name": "captain_toad_others"
+            "name": "Captain Toad: Treasure Tracker",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_CaptainToadTreasureTracker_NS_EUR_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_CaptainToadTreasureTracker_image500w.jpg",
+            "dateRelease": "2015-01-02T00:00:00Z"
         },
         "893013": {
-            "name": "kirby_and_the_rainbow_paintbrush"
+            "name": "Kirby and the Rainbow Paintbrush",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_KirbyAndTheRainbowPaintbrush_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_KirbyAndTheRainbowPaintbrush_enGB_image500w.jpg",
+            "dateRelease": "2015-05-08T00:00:00Z"
         },
         "893260": {
-            "name": "the_legend_of_zelda_breath_of_the_wild_others"
+            "name": "The Legend of Zelda: Breath of the Wild",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaBreathOfTheWild_PEGI_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
+            "dateRelease": "2017-03-03T00:00:00Z"
         },
         "893949": {
-            "name": "code_name_steam"
+            "name": "Code Name: S.T.E.A.M.",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CodenameSTEAM_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_CodenameSTEAM_image500w.jpg",
+            "dateRelease": "2015-05-15T00:00:00Z"
         },
         "954437": {
-            "name": "ace_combat_assault_horizon_legacy"
+            "name": "ACE COMBAT ASSAULT HORIZON LEGACY +",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AceCombatAssaultHorizonLegacyPlus_PEGI12_image300w.jpg",
+            "squareImageUrl": "",
+            "dateRelease": "2015-02-13T00:00:00Z"
         },
         "961136": {
-            "name": "xenoblade_chronicles_3D"
+            "name": "Xenoblade Chronicles 3D",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_XenobladeChronicles3D_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/new_nintendo_3ds_19/SQ_N3DS_XenobladeChronicles3D_enGB_image500w.jpg",
+            "dateRelease": "2015-04-02T00:00:00Z"
         },
         "986009": {
-            "name": "amiibo_touch_and_play"
+            "name": "amiibo Touch & Play: Nintendo Classics Highlights",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_amiiboTouchAndPlay_image300w.png",
+            "squareImageUrl": "",
+            "dateRelease": "2015-04-30T00:00:00Z"
         },
         "1009406": {
-            "name": "animal_crossing_happy_home_designer_ac_amiibo_cards"
+            "name": "Animal Crossing: Happy Home Designer",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingHappyHomeDesigner_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingHappyHomeDesigner_image500w.jpg",
+            "dateRelease": "2015-10-02T00:00:00Z"
         },
         "1021489": {
-            "name": "chibi_robo_zip_lash_other"
+            "name": "Chibi-Robo! Zip Lash",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_ChibiRoboZipLash_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_ChibiRoboZipLash_image500w.jpg",
+            "dateRelease": "2015-11-06T00:00:00Z"
         },
         "1025884": {
-            "name": "metroid_prime_federation_force"
+            "name": "Metroid Prime: Federation Force",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidPrimeFederationForce_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidPrimeFederationForce_image500w.jpg",
+            "dateRelease": "2016-09-02T00:00:00Z"
         },
         "1025970": {
-            "name": "hyrulewarriors_legends_other"
+            "name": "Hyrule Warriors: Legends",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HyruleWarriorsLegends_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HyruleWarriorsLegends_image500w.jpg",
+            "dateRelease": "2016-03-24T00:00:00Z"
         },
         "1026071": {
-            "name": "fire_emblem_fates_special"
+            "name": "Fire Emblem Fates",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_FireEmblemFates_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemFates_700x700_enGB_image500w.jpg",
+            "dateRelease": "2016-05-20T00:00:00Z"
         },
         "1026132": {
-            "name": "stra_fox_zero_falco"
+            "name": "Star Fox Zero",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_StarFoxZero_EUR_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxZero_image500w.jpg",
+            "dateRelease": "2016-04-22T00:00:00Z"
         },
         "1026137": {
-            "name": "animal_crossing_amiibo_festival_cards"
+            "name": "Animal Crossing: amiibo Festival",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_AnimalCrossingAmiiboFestival_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
+            "dateRelease": "2015-11-20T00:00:00Z"
         },
         "1026139": {
-            "name": "mario_tennis_ultra_smash"
+            "name": "Mario Tennis: Ultra Smash",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioTennisUltraSmash_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioTennisUltraSmash_image500w.jpg",
+            "dateRelease": "2015-11-20T00:00:00Z"
         },
         "1026141": {
-            "name": "skylanders_superchargers"
+            "name": "Skylanders SuperChargers",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_SkylandersSuperChargers_image300w.jpg",
+            "squareImageUrl": "",
+            "dateRelease": "2015-09-25T00:00:00Z"
         },
         "1026143": {
-            "name": "mario_and_luigi"
+            "name": "Mario & Luigi: Paper Jam Bros.",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndLuigiPaperJamBros_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiPaperJamBros_image500w.jpg",
+            "dateRelease": "2015-12-04T00:00:00Z"
         },
         "1026451": {
-            "name": "mario_and_sonic_rio_olympics_2016_wiiu_others"
+            "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioAndSonicAtTheRio2016OlympicGames_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
+            "dateRelease": "2016-06-24T00:00:00Z"
         },
         "1026505": {
-            "name": "mario_and_sonic_rio_olympics_2016_3ds_mario"
+            "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
+            "dateRelease": "2016-04-08T00:00:00Z"
         },
         "1054663": {
-            "name": "new_style_boutique_2_other"
+            "name": "Nintendo presents: New Style Boutique 2 - Fashion Forward",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique2FashionForward_UKV_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique2FashionForward_enGB_image500w.jpg",
+            "dateRelease": "2015-11-20T00:00:00Z"
         },
         "1062553": {
-            "name": "mega_man_legacy_collection"
+            "name": "Mega Man Legacy Collection",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_MegaManLegacyCollection_image300w.jpg",
+            "squareImageUrl": "",
+            "dateRelease": "2016-02-23T00:00:00Z"
         },
         "1081362": {
-            "name": "word_puzzles_3ds"
+            "name": "Word Puzzles by POWGI",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
+            "squareImageUrl": "",
+            "dateRelease": "2016-01-28T00:00:00Z"
         },
         "1081363": {
-            "name": "word_puzzles_wiiu"
+            "name": "Word Puzzles by POWGI",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
+            "squareImageUrl": "",
+            "dateRelease": "2016-01-28T00:00:00Z"
         },
         "1082222": {
-            "name": "thelegendofzelda_twilightprincess_hd_link"
+            "name": "The Legend of Zelda: Twilight Princess HD",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaTwilightPrincessHD_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaTwilightPrincessHD_image500w.jpg",
+            "dateRelease": "2016-03-04T00:00:00Z"
         },
         "1086374": {
-            "name": "pokken_tournament_other"
+            "name": "Pokkén Tournament",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_PokkenTournament_enGB_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_PokkenTournamentv2_700x700_image500w.jpg",
+            "dateRelease": "2016-03-18T00:00:00Z"
         },
         "1091342": {
-            "name": "kirby_planet_robobot_other"
+            "name": "Kirby: Planet Robobot",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyPlanetRobobot_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyPlanetRobobot_image500w.jpg",
+            "dateRelease": "2016-06-10T00:00:00Z"
         },
         "1091572": {
-            "name": "star_fox_guard_special"
+            "name": "Star Fox Guard",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_StarFoxGuard_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxGuard_image500w.jpg",
+            "dateRelease": "2016-04-22T00:00:00Z"
         },
         "1101292": {
-            "name": "mini_mario_friends_wiiu_all"
+            "name": "Mini Mario & Friends: amiibo Challenge",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
+            "dateRelease": "2016-04-28T00:00:00Z"
         },
         "1101346": {
-            "name": "mini_mario_friends_all"
+            "name": "Mini Mario & Friends: amiibo Challenge",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
+            "dateRelease": "2016-04-28T00:00:00Z"
         },
         "1109483": {
-            "name": "teddy_together"
+            "name": "Teddy Together",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_TeddyTogether_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_TeddyTogether_enGB_image500w.jpg",
+            "dateRelease": "2016-07-01T00:00:00Z"
         },
         "1114009": {
-            "name": "mario_party_star_rush_other"
+            "name": "Mario Party: Star Rush",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyStarRush_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyStarRush_image500w.jpg",
+            "dateRelease": "2016-10-07T00:00:00Z"
         },
         "1125616": {
-            "name": "metroid_prime_blast_ball"
+            "name": "Metroid Prime: Blast Ball",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
+            "dateRelease": "2016-07-21T00:00:00Z"
         },
         "1132221": {
-            "name": "azure_striker_2_shovel_knight"
+            "name": "Azure Striker GUNVOLT 2",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
+            "dateRelease": "2016-09-29T00:00:00Z"
         },
         "1136168": {
-            "name": "picross_3d_round_2"
+            "name": "Picross 3D: Round 2",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Picross3DRound2_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Picross3DRound2_image500w.jpg",
+            "dateRelease": "2016-12-02T00:00:00Z"
         },
         "1136169": {
-            "name": "hey_pikmin_others"
+            "name": "Hey! PIKMIN",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HeyPikmin_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HeyPikmin_image500w.jpg",
+            "dateRelease": "2017-07-28T00:00:00Z"
         },
         "1136171": {
-            "name": "poochy&yoshi_woolly_world_pokemon"
+            "name": "Poochy & Yoshi's Woolly World",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_PoochyAndYoshisWoollyWorld_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_PoochyAndYoshisWoollyWorld_image500w.jpg",
+            "dateRelease": "2017-02-03T00:00:00Z"
         },
         "1136172": {
-            "name": "mario_sports_superstars_other"
+            "name": "Mario Sports Superstars",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioSportsSuperstars_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioSportsSuperstars_image500w.jpg",
+            "dateRelease": "2017-03-10T00:00:00Z"
         },
         "1173281": {
-            "name": "mario_kart_8_deluxe"
+            "name": "Mario Kart 8 Deluxe",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioKart8Deluxe_PEGI_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioKart8Deluxe_image500w.jpg",
+            "dateRelease": "2017-04-28T00:00:00Z"
         },
         "1173295": {
-            "name": "splatoon_2_octoling"
+            "name": "Splatoon 2",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Splatoon2_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Splatoon2_image500w.jpg",
+            "dateRelease": "2017-07-21T00:00:00Z"
         },
         "1173332": {
-            "name": "super_mario_odyssey"
+            "name": "Super Mario Odyssey",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioOdyssey_PEGI_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioOdyssey_image500w.jpg",
+            "dateRelease": "2017-10-27T00:00:00Z"
         },
         "1173609": {
-            "name": "switch_the_legend_of_zelda_breath_of_the_wild_others"
+            "name": "The Legend of Zelda: Breath of the Wild",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheLegendOfZeldaBreathOfTheWild_PEGI_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
+            "dateRelease": "2017-03-03T00:00:00Z"
         },
         "1175211": {
-            "name": "fire_emblem_echoes_others"
+            "name": "Fire Emblem Echoes: Shadows of Valentia",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_FireEmblemEchoesShadowsOfValentia_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemEchoes_image500w.jpg",
+            "dateRelease": "2017-05-19T00:00:00Z"
         },
         "1175315": {
-            "name": "fire_emblem_warriors_switch_all"
+            "name": "Fire Emblem Warriors",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_FireEmblemWarriors_PEGI_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
+            "dateRelease": "2017-10-20T00:00:00Z"
         },
         "1175329": {
-            "name": "fire_emblem_warriors_3ds_all"
+            "name": "Fire Emblem Warriors",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_FireEmblemWarriors_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
+            "dateRelease": "2017-10-20T00:00:00Z"
         },
         "1177455": {
-            "name": "the_elder_scrolls_v_skyrim"
+            "name": "The Elder Scrolls V: Skyrim",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheElderScrollsVSkyrim_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_TheElderScrollsVSkyrim_image500w.jpg",
+            "dateRelease": "2017-11-17T00:00:00Z"
         },
         "1200313": {
-            "name": "shovelknight_treasure_trove_switch"
+            "name": "Shovel Knight: Treasure Trove",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
+            "dateRelease": "2017-03-03T00:00:00Z"
         },
         "1203712": {
-            "name": "bye_bye_boxboy"
+            "name": "BYE-BYE BOXBOY!",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
+            "dateRelease": "2017-03-23T00:00:00Z"
         },
         "1213275": {
-            "name": "team_kirby_clash_deluxe_others"
+            "name": "Team Kirby Clash Deluxe",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
+            "dateRelease": "2017-04-13T00:00:00Z"
         },
         "1214727": {
-            "name": "kirbys_blowout_blast"
+            "name": "Kirby's Blowout Blast",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
+            "dateRelease": "2017-07-06T00:00:00Z"
         },
         "1225809": {
-            "name": "miitopia_other"
+            "name": "Miitopia",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Miitopia_UKV_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Miitopia_image500w.jpg",
+            "dateRelease": "2017-07-28T00:00:00Z"
         },
         "1231536": {
-            "name": "pokken_tournament_DX"
+            "name": "Pokkén Tournament DX",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
+            "dateRelease": "2017-09-22T00:00:00Z"
         },
         "1233954": {
-            "name": "mario_rabbids_kingdom_battle"
+            "name": "Mario + Rabbids Kingdom Battle",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioAndRabbidsKingdomBattle_PEGI_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioAndRabbidsKingdomBattle_EU_image500w.jpg",
+            "dateRelease": "2017-08-29T00:00:00Z"
         },
         "1233956": {
-            "name": "kirby_star_allies_all"
+            "name": "Kirby Star Allies",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_KirbyStarAllies_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_KirbyStarAllies_image500w.jpg",
+            "dateRelease": "2018-03-16T00:00:00Z"
         },
         "1234232": {
-            "name": "metroid_samus_returns_metroid"
+            "name": "Metroid: Samus Returns",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidSamusReturns_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidSamusReturns_image500w.jpg",
+            "dateRelease": "2017-09-15T00:00:00Z"
         },
         "1234324": {
-            "name": "mario_and_luigi_superstarsaga_bowsersminions_enemies"
+            "name": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioLuigi_SuperstarSaga_UKV_image300w.png",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiSuperstarSagaPlusBowsersMinions_enGB_image500w.jpg",
+            "dateRelease": "2017-10-06T00:00:00Z"
         },
         "1260979": {
-            "name": "azure_striker_gunvolt_striker_pack"
+            "name": "Azure Striker GUNVOLT: STRIKER PACK",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_AzureStrikerGunvoltStrickerPack_PEGI_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_AzureStrikerGunvoltStrickerPack_image500w.jpg",
+            "dateRelease": "2017-12-01T00:00:00Z"
         },
         "1264661": {
-            "name": "kirby_battle_royale"
+            "name": "Kirby Battle Royale",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyBattleRoyale_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyBattleRoyale_image500w.jpg",
+            "dateRelease": "2017-11-03T00:00:00Z"
         },
         "1275927": {
-            "name": "mario_party_100_others"
+            "name": "Mario Party: The Top 100",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyTheTop100_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyTheTop100_image500w.jpg",
+            "dateRelease": "2017-12-22T00:00:00Z"
         },
         "1275928": {
-            "name": "new_style_boutique_3_other"
+            "name": "Nintendo presents: New Style Boutique 3 – Styling Star",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique3StylingStar_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique3StylingStar_enGB_image500w.jpg",
+            "dateRelease": "2017-11-24T00:00:00Z"
         },
         "1313750": {
-            "name": "bayonetta_2_all"
+            "name": "Bayonetta 2",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Bayonetta2_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Bayonetta2_image500w.jpg",
+            "dateRelease": "2018-02-16T00:00:00Z"
         },
         "1325790": {
-            "name": "dark_souls_remastered"
+            "name": "Dark Souls: Remastered",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
+            "dateRelease": "2018-10-19T00:00:00Z"
         },
         "1325999": {
-            "name": "hyrule_warriors_definitive_edition_all"
+            "name": "Hyrule Warriors: Definitive Edition",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_HyruleWarriorsDefinitiveEdition_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_HyruleWarriorsDefinitiveEdition_image500w.jpg",
+            "dateRelease": "2018-05-18T00:00:00Z"
         },
         "1329566": {
-            "name": "detective_pikachu"
+            "name": "Detective Pikachu",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_DetectivePikachu_enGB_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_DetectivePikachu_enGB_image500w.jpg",
+            "dateRelease": "2018-03-23T00:00:00Z"
         },
         "1347594": {
-            "name": "little_nightmares_complete_edition_pacman"
+            "name": "Little Nightmares Complete Edition",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_LittleNightmaresCompleteEdition_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_LittleNightmaresCompleteEdition_image500w.jpg",
+            "dateRelease": "2018-05-18T00:00:00Z"
         },
         "1348071": {
-            "name": "captain_toad_switch_all"
+            "name": "Captain Toad: Treasure Tracker",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_CaptainToadTreasureTracker_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
+            "dateRelease": "2018-07-13T00:00:00Z"
         },
         "1348072": {
-            "name": "captain_toad_3ds_all"
+            "name": "Captain Toad: Treasure Tracker",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CaptainToadTreasureTracker_UKV_image300w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
+            "dateRelease": "2018-07-13T00:00:00Z"
         },
         "1348073": {
-            "name": "warioware_gold_others"
+            "name": "WarioWare Gold",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_WarioWareGold_UKV_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_WarioWareGold_image500w.jpg",
+            "dateRelease": "2018-07-27T00:00:00Z"
         },
         "1375284": {
-            "name": "mega_man_legacy_collection_switch"
+            "name": "Mega Man Legacy Collection",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
+            "dateRelease": "2018-05-22T00:00:00Z"
         },
         "1375285": {
-            "name": "mega_man_legacy_collection_2_switch"
+            "name": "Mega Man Legacy Collection 2",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
+            "dateRelease": "2018-05-22T00:00:00Z"
         }
     },
     "amiibos": [

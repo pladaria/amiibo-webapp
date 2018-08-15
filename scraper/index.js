@@ -11,6 +11,7 @@ const allGames = {};
 const allGameSeries = new Set();
 
 const addProtocol = url => url.replace(/^\/\//, 'https://');
+const clean = str => str.replace(/[®™]/g, '').trim();
 
 const allAmiibos = figuresData.map(doc => {
     const {
@@ -32,7 +33,7 @@ const allAmiibos = figuresData.map(doc => {
     const compatibleGames = compatibleGamesIds.map((id, i) => {
         const game = {
             // id,
-            name: doc.compatible_games_display_name_txt[i],
+            name: doc.compatible_games_display_name_txt[i], // will be overwritten later
             // url: doc.compatible_games_list_url_txt[i],
         };
 
@@ -67,14 +68,15 @@ Object.keys(allGames).forEach(id => {
         title: name,
         image_url: imageUrl,
         image_url_sq_s: squareImageUrl = '',
+        date_from: dateRelease,
     } = game;
     allGames[id] = {
-        name,
+        name: clean(name),
         imageUrl: addProtocol(imageUrl),
         squareImageUrl: addProtocol(squareImageUrl),
+        dateRelease,
     };
 });
-console.log(allGames);
 
 writeFileSync(
     'amiibo-data.ts',
