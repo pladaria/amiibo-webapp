@@ -3,11 +3,14 @@ const { writeFileSync } = require('fs');
 const raw = require('./dump/data.js');
 
 const groups = raw.grouped.type.groups;
-const figuresData = groups.filter(g => g.groupValue === 'figur')[0].doclist.docs;
-//const gamesData = groups.filter(g => g.groupValue === 'game')[0].doclist.docs;
+const figuresData = groups.filter(g => g.groupValue === 'figur')[0].doclist
+    .docs;
+const gamesData = groups.filter(g => g.groupValue === 'game')[0].doclist.docs;
 
 const allGames = {};
 const allGameSeries = new Set();
+
+const addProtocol = url => url.replace(/^\/\//, 'https://');
 
 const allAmiibos = figuresData.map(doc => {
     const {
@@ -38,7 +41,9 @@ const allAmiibos = figuresData.map(doc => {
         return {
             id,
             rank: doc[`compatible_games_compatibility_rank_${id}_s`],
-            description: doc[`compatible_games_compatibility_desc_lineup_${id}_t`].trim(),
+            description: doc[
+                `compatible_games_compatibility_desc_lineup_${id}_t`
+            ].trim(),
         };
     });
 
@@ -47,7 +52,7 @@ const allAmiibos = figuresData.map(doc => {
         number,
         name,
         //url,
-        figureImageUrl: figureImageUrl.replace(/^\/\//, 'https://'),
+        figureImageUrl: addProtocol(figureImageUrl),
         //dateChange,
         dateRelease,
         collection,
@@ -55,6 +60,21 @@ const allAmiibos = figuresData.map(doc => {
         compatibleGames: compatibleGames.sort((a, b) => b.rank - a.rank),
     };
 });
+
+Object.keys(allGames).forEach(id => {
+    const game = gamesData.find(game => game.fs_id === id);
+    const {
+        title: name,
+        image_url: imageUrl,
+        image_url_sq_s: squareImageUrl = '',
+    } = game;
+    allGames[id] = {
+        name,
+        imageUrl: addProtocol(imageUrl),
+        squareImageUrl: addProtocol(squareImageUrl),
+    };
+});
+console.log(allGames);
 
 writeFileSync(
     'amiibo-data.ts',
