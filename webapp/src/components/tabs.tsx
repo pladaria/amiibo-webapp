@@ -1,8 +1,22 @@
 import * as React from 'react';
-import { TextTransformProperty } from 'csstype';
+import {
+    TextTransformProperty,
+    AppearanceProperty,
+    PositionProperty,
+} from 'csstype';
 
-const styleTabs = { display: 'flex', background: 'red' };
+const styleTabs = {
+    display: 'flex',
+    background: 'red',
+    boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
+    zIndex: 1,
+    position: 'fixed' as PositionProperty,
+    width: '100%',
+};
+
 const styleTab = {
+    appearance: 'none' as AppearanceProperty,
+    background: 'transparent',
     flexGrow: 1,
     fontSize: 14,
     display: 'flex',
@@ -13,8 +27,11 @@ const styleTab = {
     height: 48,
     textTransform: 'uppercase' as TextTransformProperty,
     color: 'white',
+    border: 'none',
+    outline: 'none',
     borderBottom: '2px solid transparent',
 };
+
 const styleTabSelected = {
     ...styleTab,
     borderBottom: '2px solid white',
@@ -22,20 +39,60 @@ const styleTabSelected = {
 
 interface TabProps {
     selected?: boolean;
+    value: string;
+    onSelect?: (value: string) => void;
 }
 
-class Tab extends React.Component<TabProps> {
+export class Tab extends React.Component<TabProps> {
+    handleClick = () => {
+        if (this.props.onSelect) {
+            this.props.onSelect(this.props.value);
+        }
+    };
+
     render() {
-        const { selected } = this.props;
-        return <span style={selected ? styleTabSelected : styleTab}>{this.props.children}</span>;
+        const { selected, children } = this.props;
+        return (
+            <button
+                type="button"
+                style={selected ? styleTabSelected : styleTab}
+                onClick={this.handleClick}
+            >
+                {children}
+            </button>
+        );
     }
 }
 
-class Tabs extends React.Component {
-    static Tab = Tab;
+interface TabsProps {
+    value: string;
+    onChange: (value: string) => void;
+}
+
+class Tabs extends React.Component<TabsProps> {
+    handleChange = (value: string) => {
+        if (this.props.value !== value) {
+            this.props.onChange(value);
+        }
+    };
 
     render() {
-        return <div style={styleTabs}>{this.props.children}</div>;
+        const { children, value } = this.props;
+        return (
+            <div style={styleTabs}>
+                {React.Children.map(
+                    children,
+                    (child: React.ReactElement<TabProps>) => {
+                        const tabValue = child.props.value;
+                        const selected = tabValue === value;
+                        return React.cloneElement(child as any, {
+                            selected,
+                            onSelect: () => this.handleChange(tabValue),
+                        });
+                    }
+                )}
+            </div>
+        );
     }
 }
 

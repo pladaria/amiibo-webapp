@@ -1,9 +1,19 @@
 import * as React from 'react';
-import { getAmiibosData, getGamesData, getGameSeriesData } from './data/amiibos';
-import './App.css';
-import Tabs from './components/tabs';
+import {
+    getAmiibosData,
+    getGamesData,
+    getGameSeriesData,
+} from './data/amiibos';
+import './app.css';
+import Tabs, { Tab } from './components/tabs';
 
-class App extends React.Component {
+interface AppState {
+    selectedTab: string;
+}
+class App extends React.Component<{}, AppState> {
+    state = {
+        selectedTab: 'all',
+    };
     getItems() {
         return getAmiibosData();
     }
@@ -16,37 +26,56 @@ class App extends React.Component {
         return getGamesData();
     }
 
+    handleTabChange = (value: string) => {
+        this.setState({ selectedTab: value });
+    };
+
+    renderSection = () => {
+        switch (this.state.selectedTab) {
+            case 'all':
+                return (
+                    <div>
+                        {this.getItems().map(amiibo => (
+                            <div key={amiibo.id}>
+                                <img width="100%" src={amiibo.figureImageUrl} />
+                                <div>{amiibo.name}</div>
+                            </div>
+                        ))}
+                    </div>
+                );
+            case 'series':
+                return (
+                    <div>
+                        {this.getGameSeries().map(name => (
+                            <div key={name}>{name}</div>
+                        ))}
+                    </div>
+                );
+            case 'games':
+                return (
+                    <div>
+                        {Object.values(this.getGames()).map(({ name }) => (
+                            <div key={name}>{name}</div>
+                        ))}
+                    </div>
+                );
+            default:
+                return null;
+        }
+    };
+
     render() {
         return (
             <div>
-                <div>HEADER</div>
-                <Tabs>
-                    <Tabs.Tab selected>All Amiibos</Tabs.Tab>
-                    <Tabs.Tab>Game Series</Tabs.Tab>
-                    <Tabs.Tab>Games</Tabs.Tab>
+                <Tabs
+                    value={this.state.selectedTab}
+                    onChange={this.handleTabChange}
+                >
+                    <Tab value="all">All Amiibos</Tab>
+                    <Tab value="series">Game Series</Tab>
+                    <Tab value="games">Games</Tab>
                 </Tabs>
-                <div>
-                    <select>
-                        {this.getGameSeries().map(name => (
-                            <option key={name}>{name}</option>
-                        ))}
-                    </select>
-                </div>
-                <div>
-                    <select>
-                        {Object.values(this.getGames()).map(({ name }) => (
-                            <option key={name}>{name}</option>
-                        ))}
-                    </select>
-                </div>
-                <div>
-                    {this.getItems().map(amiibo => (
-                        <div key={amiibo.id}>
-                            <img height={100} src={amiibo.figureImageUrl} />
-                            {amiibo.name}
-                        </div>
-                    ))}
-                </div>
+                <div style={{ paddingTop: 48 }}>{this.renderSection()}</div>
             </div>
         );
     }
