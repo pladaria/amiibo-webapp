@@ -20267,6 +20267,7 @@ export default {
             "name": "Shadow Mewtwo",
             "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_PokkenTournament3_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
+            "collection": "",
             "gameSeries": [
                 "pokemon"
             ],
@@ -35758,6 +35759,7 @@ export default {
             "name": "Solaire of Astora",
             "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_DarkSoulsRemastered_Amiibo_SolaireOfAstora_image500w.jpg",
             "dateRelease": "2050-12-31T00:00:00Z",
+            "collection": "",
             "gameSeries": [
                 "other"
             ],

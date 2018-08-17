@@ -20,7 +20,7 @@ const allAmiibos = figuresData.map(doc => {
         url,
         figure_number_s: number,
         figure_image_url_s: figureImageUrl,
-        figure_collection_s: collection,
+        figure_collection_s: collection = '', // undefined for some amiibos
         fs_id: id,
         change_date: dateChange,
         date_from: dateRelease,

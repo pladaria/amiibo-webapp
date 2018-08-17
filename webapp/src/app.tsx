@@ -6,6 +6,7 @@ import {
 } from './data/amiibos';
 import './app.css';
 import Tabs, { Tab } from './components/tabs';
+import AmiibosGallery from './components/amiibos-gallery';
 
 interface AppState {
     selectedTab: string;
@@ -31,61 +32,26 @@ class App extends React.Component<{}, AppState> {
     };
 
     renderSection = () => {
-        switch (this.state.selectedTab) {
-            case 'all':
-                return (
-                    <div
-                        style={{
-                            display: 'flex',
-                            flexDirection: 'row',
-                            flexWrap: 'wrap',
-                            justifyContent: 'space-around',
-                        }}
-                    >
-                        {this.getItems().map(amiibo => (
-                            <div
-                                key={amiibo.id}
-                                style={{
-                                    flexGrow: 0,
-                                    flexShrink: 0,
-                                    width: 120,
-                                    textAlign: 'center',
-                                    fontSize: 13,
-                                    marginBottom: 20,
-                                    color: '#444',
-                                }}
-                            >
-                                <img
-                                    width="120"
-                                    src={amiibo.figureImageUrl}
-                                    style={{ display: 'block' }}
-                                />
-                                <div style={{ marginTop: 8 }}>
-                                    {amiibo.name}
-                                </div>
-                            </div>
-                        ))}
-                    </div>
-                );
-            case 'series':
-                return (
-                    <div>
-                        {this.getGameSeries().map(name => (
-                            <div key={name}>{name}</div>
-                        ))}
-                    </div>
-                );
-            case 'games':
-                return (
-                    <div>
-                        {Object.entries(this.getGames()).map(([id, game]) => (
-                            <div key={id}>{game.name}</div>
-                        ))}
-                    </div>
-                );
-            default:
-                return null;
-        }
+        const isVisible = (section: string) => ({
+            display: this.state.selectedTab === section ? '' : 'none',
+        });
+        return (
+            <>
+                <div style={isVisible('all')}>
+                    <AmiibosGallery />
+                </div>
+                <div style={isVisible('series')}>
+                    {this.getGameSeries().map(name => (
+                        <div key={name}>{name}</div>
+                    ))}
+                </div>
+                <div style={isVisible('games')}>
+                    {Object.entries(this.getGames()).map(([id, game]) => (
+                        <div key={id}>{game.name}</div>
+                    ))}
+                </div>
+            </>
+        );
     };
 
     render() {
