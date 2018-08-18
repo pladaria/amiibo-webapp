@@ -1,74 +1,33 @@
 import * as React from 'react';
-import {
-    getAmiibosData,
-    getGamesData,
-    getGameSeriesData,
-} from './data/amiibos';
 import './app.css';
-import Tabs, { Tab } from './components/tabs';
+import { Tabs, Tab, TabContent } from './components/tabs';
 import AmiibosGallery from './components/amiibos-gallery';
+import GamesGallery from './components/games-gallery';
+import AmiiboDetail from './components/amiibo-detail';
+import { Route, match } from 'react-router-dom';
+import GameDetail from './components/game-detail';
 
-interface AppState {
-    selectedTab: string;
-}
-class App extends React.Component<{}, AppState> {
-    state = {
-        selectedTab: 'all',
-    };
-    getItems() {
-        return getAmiibosData();
-    }
+const App: React.StatelessComponent = () => (
+    <>
+        <Tabs>
+            <Tab path="/amiibos" title="Amiibos" />
+            <Tab path="/games" title="Games" />
+        </Tabs>
 
-    getGameSeries() {
-        return getGameSeriesData();
-    }
+        <TabContent path="/amiibos/:id?" children={<AmiibosGallery />} />
 
-    getGames() {
-        return getGamesData();
-    }
+        <TabContent path="/games" children={<GamesGallery />} />
 
-    handleTabChange = (value: string) => {
-        this.setState({ selectedTab: value });
-    };
+        <Route
+            path="/amiibos/:id"
+            render={({ match }) => <AmiiboDetail id={match.params.id} />}
+        />
 
-    renderSection = () => {
-        const isVisible = (section: string) => ({
-            display: this.state.selectedTab === section ? '' : 'none',
-        });
-        return (
-            <>
-                <div style={isVisible('all')}>
-                    <AmiibosGallery />
-                </div>
-                <div style={isVisible('series')}>
-                    {this.getGameSeries().map(name => (
-                        <div key={name}>{name}</div>
-                    ))}
-                </div>
-                <div style={isVisible('games')}>
-                    {Object.entries(this.getGames()).map(([id, game]) => (
-                        <div key={id}>{game.name}</div>
-                    ))}
-                </div>
-            </>
-        );
-    };
-
-    render() {
-        return (
-            <div>
-                <Tabs
-                    value={this.state.selectedTab}
-                    onChange={this.handleTabChange}
-                >
-                    <Tab value="all">All Amiibos</Tab>
-                    <Tab value="series">Game Series</Tab>
-                    <Tab value="games">Games</Tab>
-                </Tabs>
-                <div style={{ paddingTop: 48 }}>{this.renderSection()}</div>
-            </div>
-        );
-    }
-}
+        <Route
+            path="/games/:id"
+            render={({ match }) => <GameDetail id={match.params.id} />}
+        />
+    </>
+);
 
 export default App;

@@ -21,488 +21,1110 @@ export default {
         "mario_and_luigi",
         "yoshi"
     ],
-    "games": {
-        "273841": {
+    "games": [
+        {
+            "id": "273841",
             "name": "Animal Crossing: New Leaf - Welcome amiibo",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingNewLeaf_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingNewLeaf_WelcomeAmiibo_image500w.jpg",
-            "dateRelease": "2016-11-25T00:00:00Z"
+            "dateRelease": "2016-11-25T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "animal_life",
+                "simulation"
+            ]
         },
-        "765384": {
+        {
+            "id": "765384",
             "name": "Mario Kart 8",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioKart8_PEGI3_image500w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioKart8_image500w.jpg",
-            "dateRelease": "2014-05-30T00:00:00Z"
+            "dateRelease": "2014-05-30T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "party",
+                "racing"
+            ]
         },
-        "858506": {
+        {
+            "id": "858506",
             "name": "Shovel Knight",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_ShovelKnight_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_ShovelKnight_image500w.jpg",
-            "dateRelease": "2015-10-30T00:00:00Z"
+            "dateRelease": "2015-10-30T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Yacht Club Games",
+            "categories": [
+                "platformer"
+            ]
         },
-        "858507": {
+        {
+            "id": "858507",
             "name": "Shovel Knight: Treasure Trove",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
-            "dateRelease": "2015-10-30T00:00:00Z"
+            "dateRelease": "2015-10-30T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Yacht Club Games",
+            "categories": [
+                "platformer"
+            ]
         },
-        "864329": {
+        {
+            "id": "864329",
             "name": "Super Smash Bros. for Nintendo 3DS",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_SuperSmashBros_enGB_image300w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_SuperSmashBrosNintendo3DS_image500w.jpg",
-            "dateRelease": "2014-10-03T00:00:00Z"
+            "dateRelease": "2014-10-03T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "fighting"
+            ]
         },
-        "864849": {
+        {
+            "id": "864849",
             "name": "Super Smash Bros. for Wii U",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperSmashBrosForWiiU_PEGI12_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperSmashBrosForWiiU_image500w.jpg",
-            "dateRelease": "2014-11-28T00:00:00Z"
+            "dateRelease": "2014-11-28T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "fighting"
+            ]
         },
-        "891849": {
+        {
+            "id": "891849",
             "name": "Hyrule Warriors",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_HyruleWarriors_PEGI_image300w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_HyruleWarriors_image500w.jpg",
-            "dateRelease": "2014-09-19T00:00:00Z"
+            "dateRelease": "2014-09-19T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Koei Tecmo Games",
+            "publisher": "Nintendo",
+            "categories": [
+                "action"
+            ]
         },
-        "892510": {
+        {
+            "id": "892510",
             "name": "Splatoon",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_Splatoon_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_Splatoon_image500w.jpg",
-            "dateRelease": "2015-05-29T00:00:00Z"
+            "dateRelease": "2015-05-29T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "shooter"
+            ]
         },
-        "892537": {
+        {
+            "id": "892537",
             "name": "Yoshi's Woolly World",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_YoshisWoollyWorld_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_YoshisWoollyWorld_image500w.jpg",
-            "dateRelease": "2015-06-26T00:00:00Z"
+            "dateRelease": "2015-06-26T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Good-Feel",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "892704": {
+        {
+            "id": "892704",
             "name": "Super Mario Maker",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperMarioMaker_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperMarioMaker_image500w.jpg",
-            "dateRelease": "2015-09-11T00:00:00Z"
+            "dateRelease": "2015-09-11T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "892779": {
+        {
+            "id": "892779",
             "name": "Mario Party 10",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioParty10_NS_EUR_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioParty10_image500w.jpg",
-            "dateRelease": "2015-03-20T00:00:00Z"
+            "dateRelease": "2015-03-20T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "party"
+            ]
         },
-        "892923": {
+        {
+            "id": "892923",
             "name": "Captain Toad: Treasure Tracker",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_CaptainToadTreasureTracker_NS_EUR_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_CaptainToadTreasureTracker_image500w.jpg",
-            "dateRelease": "2015-01-02T00:00:00Z"
+            "dateRelease": "2015-01-02T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer",
+                "puzzle"
+            ]
         },
-        "893013": {
+        {
+            "id": "893013",
             "name": "Kirby and the Rainbow Paintbrush",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_KirbyAndTheRainbowPaintbrush_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_KirbyAndTheRainbowPaintbrush_enGB_image500w.jpg",
-            "dateRelease": "2015-05-08T00:00:00Z"
+            "dateRelease": "2015-05-08T00:00:00Z",
+            "system": "Wii U",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "893260": {
+        {
+            "id": "893260",
             "name": "The Legend of Zelda: Breath of the Wild",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaBreathOfTheWild_PEGI_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
-            "dateRelease": "2017-03-03T00:00:00Z"
+            "dateRelease": "2017-03-03T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "893949": {
+        {
+            "id": "893949",
             "name": "Code Name: S.T.E.A.M.",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CodenameSTEAM_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_CodenameSTEAM_image500w.jpg",
-            "dateRelease": "2015-05-15T00:00:00Z"
+            "dateRelease": "2015-05-15T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "INTELLIGENT SYSTEMS",
+            "publisher": "Nintendo",
+            "categories": [
+                "shooter",
+                "strategy"
+            ]
         },
-        "954437": {
+        {
+            "id": "954437",
             "name": "ACE COMBAT ASSAULT HORIZON LEGACY +",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AceCombatAssaultHorizonLegacyPlus_PEGI12_image300w.jpg",
             "squareImageUrl": "",
-            "dateRelease": "2015-02-13T00:00:00Z"
+            "dateRelease": "2015-02-13T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Project Aces",
+            "publisher": "BANDAI NAMCO Entertainment",
+            "categories": [
+                "action"
+            ]
         },
-        "961136": {
+        {
+            "id": "961136",
             "name": "Xenoblade Chronicles 3D",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_XenobladeChronicles3D_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/new_nintendo_3ds_19/SQ_N3DS_XenobladeChronicles3D_enGB_image500w.jpg",
-            "dateRelease": "2015-04-02T00:00:00Z"
+            "dateRelease": "2015-04-02T00:00:00Z",
+            "system": "New Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure",
+                "rpg"
+            ]
         },
-        "986009": {
+        {
+            "id": "986009",
             "name": "amiibo Touch & Play: Nintendo Classics Highlights",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_amiiboTouchAndPlay_image300w.png",
             "squareImageUrl": "",
-            "dateRelease": "2015-04-30T00:00:00Z"
+            "dateRelease": "2015-04-30T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "other"
+            ]
         },
-        "1009406": {
+        {
+            "id": "1009406",
             "name": "Animal Crossing: Happy Home Designer",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingHappyHomeDesigner_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingHappyHomeDesigner_image500w.jpg",
-            "dateRelease": "2015-10-02T00:00:00Z"
+            "dateRelease": "2015-10-02T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "animal_life",
+                "simulation"
+            ]
         },
-        "1021489": {
+        {
+            "id": "1021489",
             "name": "Chibi-Robo! Zip Lash",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_ChibiRoboZipLash_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_ChibiRoboZipLash_image500w.jpg",
-            "dateRelease": "2015-11-06T00:00:00Z"
+            "dateRelease": "2015-11-06T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "1025884": {
+        {
+            "id": "1025884",
             "name": "Metroid Prime: Federation Force",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidPrimeFederationForce_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidPrimeFederationForce_image500w.jpg",
-            "dateRelease": "2016-09-02T00:00:00Z"
+            "dateRelease": "2016-09-02T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "shooter"
+            ]
         },
-        "1025970": {
+        {
+            "id": "1025970",
             "name": "Hyrule Warriors: Legends",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HyruleWarriorsLegends_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HyruleWarriorsLegends_image500w.jpg",
-            "dateRelease": "2016-03-24T00:00:00Z"
+            "dateRelease": "2016-03-24T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "KOEI TECMO GAMES",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "1026071": {
+        {
+            "id": "1026071",
             "name": "Fire Emblem Fates",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_FireEmblemFates_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemFates_700x700_enGB_image500w.jpg",
-            "dateRelease": "2016-05-20T00:00:00Z"
+            "dateRelease": "2016-05-20T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Intelligent Systems",
+            "publisher": "Nintendo",
+            "categories": [
+                "strategy"
+            ]
         },
-        "1026132": {
+        {
+            "id": "1026132",
             "name": "Star Fox Zero",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_StarFoxZero_EUR_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxZero_image500w.jpg",
-            "dateRelease": "2016-04-22T00:00:00Z"
+            "dateRelease": "2016-04-22T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Platinum Games",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "shooter"
+            ]
         },
-        "1026137": {
+        {
+            "id": "1026137",
             "name": "Animal Crossing: amiibo Festival",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_AnimalCrossingAmiiboFestival_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
-            "dateRelease": "2015-11-20T00:00:00Z"
+            "dateRelease": "2015-11-20T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "animal_life",
+                "board_game",
+                "party"
+            ]
         },
-        "1026139": {
+        {
+            "id": "1026139",
             "name": "Mario Tennis: Ultra Smash",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioTennisUltraSmash_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioTennisUltraSmash_image500w.jpg",
-            "dateRelease": "2015-11-20T00:00:00Z"
+            "dateRelease": "2015-11-20T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Camelot",
+            "publisher": "Nintendo",
+            "categories": [
+                "sports",
+                "tennis"
+            ]
         },
-        "1026141": {
+        {
+            "id": "1026141",
             "name": "Skylanders SuperChargers",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_SkylandersSuperChargers_image300w.jpg",
             "squareImageUrl": "",
-            "dateRelease": "2015-09-25T00:00:00Z"
+            "dateRelease": "2015-09-25T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Vicarious Visions",
+            "publisher": "Activision",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "1026143": {
+        {
+            "id": "1026143",
             "name": "Mario & Luigi: Paper Jam Bros.",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndLuigiPaperJamBros_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiPaperJamBros_image500w.jpg",
-            "dateRelease": "2015-12-04T00:00:00Z"
+            "dateRelease": "2015-12-04T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "AlphaDream",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure",
+                "rpg"
+            ]
         },
-        "1026451": {
+        {
+            "id": "1026451",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioAndSonicAtTheRio2016OlympicGames_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
-            "dateRelease": "2016-06-24T00:00:00Z"
+            "dateRelease": "2016-06-24T00:00:00Z",
+            "system": "Wii U",
+            "developer": "SEGA",
+            "publisher": "Nintendo",
+            "categories": [
+                "party",
+                "sports"
+            ]
         },
-        "1026505": {
+        {
+            "id": "1026505",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
-            "dateRelease": "2016-04-08T00:00:00Z"
+            "dateRelease": "2016-04-08T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "SEGA",
+            "publisher": "Nintendo",
+            "categories": [
+                "party",
+                "sports"
+            ]
         },
-        "1054663": {
+        {
+            "id": "1054663",
             "name": "Nintendo presents: New Style Boutique 2 - Fashion Forward",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique2FashionForward_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique2FashionForward_enGB_image500w.jpg",
-            "dateRelease": "2015-11-20T00:00:00Z"
+            "dateRelease": "2015-11-20T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "syn Sophia",
+            "publisher": "Nintendo",
+            "categories": [
+                "lifestyle",
+                "simulation"
+            ]
         },
-        "1062553": {
+        {
+            "id": "1062553",
             "name": "Mega Man Legacy Collection",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_MegaManLegacyCollection_image300w.jpg",
             "squareImageUrl": "",
-            "dateRelease": "2016-02-23T00:00:00Z"
+            "dateRelease": "2016-02-23T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Digital Eclipse",
+            "publisher": "CAPCOM",
+            "categories": [
+                "action",
+                "arcade",
+                "platformer"
+            ]
         },
-        "1081362": {
+        {
+            "id": "1081362",
             "name": "Word Puzzles by POWGI",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
             "squareImageUrl": "",
-            "dateRelease": "2016-01-28T00:00:00Z"
+            "dateRelease": "2016-01-28T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Lightwood Games",
+            "categories": [
+                "education",
+                "puzzle"
+            ]
         },
-        "1081363": {
+        {
+            "id": "1081363",
             "name": "Word Puzzles by POWGI",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
             "squareImageUrl": "",
-            "dateRelease": "2016-01-28T00:00:00Z"
+            "dateRelease": "2016-01-28T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Lightwood Games",
+            "categories": [
+                "education",
+                "puzzle"
+            ]
         },
-        "1082222": {
+        {
+            "id": "1082222",
             "name": "The Legend of Zelda: Twilight Princess HD",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaTwilightPrincessHD_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaTwilightPrincessHD_image500w.jpg",
-            "dateRelease": "2016-03-04T00:00:00Z"
+            "dateRelease": "2016-03-04T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "1086374": {
+        {
+            "id": "1086374",
             "name": "Pokkén Tournament",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_PokkenTournament_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_PokkenTournamentv2_700x700_image500w.jpg",
-            "dateRelease": "2016-03-18T00:00:00Z"
+            "dateRelease": "2016-03-18T00:00:00Z",
+            "system": "Wii U",
+            "developer": "BANDAI NAMCO Entertainment",
+            "publisher": "The Pokémon Company",
+            "categories": [
+                "arcade",
+                "fighting"
+            ]
         },
-        "1091342": {
+        {
+            "id": "1091342",
             "name": "Kirby: Planet Robobot",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyPlanetRobobot_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyPlanetRobobot_image500w.jpg",
-            "dateRelease": "2016-06-10T00:00:00Z"
+            "dateRelease": "2016-06-10T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "HAL Laboratory, Inc",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "1091572": {
+        {
+            "id": "1091572",
             "name": "Star Fox Guard",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_StarFoxGuard_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxGuard_image500w.jpg",
-            "dateRelease": "2016-04-22T00:00:00Z"
+            "dateRelease": "2016-04-22T00:00:00Z",
+            "system": "Wii U",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "puzzle",
+                "strategy"
+            ]
         },
-        "1101292": {
+        {
+            "id": "1101292",
             "name": "Mini Mario & Friends: amiibo Challenge",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
-            "dateRelease": "2016-04-28T00:00:00Z"
+            "dateRelease": "2016-04-28T00:00:00Z",
+            "system": "Wii U",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "puzzle"
+            ]
         },
-        "1101346": {
+        {
+            "id": "1101346",
             "name": "Mini Mario & Friends: amiibo Challenge",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
-            "dateRelease": "2016-04-28T00:00:00Z"
+            "dateRelease": "2016-04-28T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "puzzle"
+            ]
         },
-        "1109483": {
+        {
+            "id": "1109483",
             "name": "Teddy Together",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_TeddyTogether_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_TeddyTogether_enGB_image500w.jpg",
-            "dateRelease": "2016-07-01T00:00:00Z"
+            "dateRelease": "2016-07-01T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Arika",
+            "publisher": "Nintendo",
+            "categories": [
+                "animal_life",
+                "simulation"
+            ]
         },
-        "1114009": {
+        {
+            "id": "1114009",
             "name": "Mario Party: Star Rush",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyStarRush_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyStarRush_image500w.jpg",
-            "dateRelease": "2016-10-07T00:00:00Z"
+            "dateRelease": "2016-10-07T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "party"
+            ]
         },
-        "1125616": {
+        {
+            "id": "1125616",
             "name": "Metroid Prime: Blast Ball",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
-            "dateRelease": "2016-07-21T00:00:00Z"
+            "dateRelease": "2016-07-21T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "first_person_shooter",
+                "sports"
+            ]
         },
-        "1132221": {
+        {
+            "id": "1132221",
             "name": "Azure Striker GUNVOLT 2",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
-            "dateRelease": "2016-09-29T00:00:00Z"
+            "dateRelease": "2016-09-29T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Inti Creates",
+            "publisher": "",
+            "categories": [
+                "action",
+                "platformer"
+            ]
         },
-        "1136168": {
+        {
+            "id": "1136168",
             "name": "Picross 3D: Round 2",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Picross3DRound2_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Picross3DRound2_image500w.jpg",
-            "dateRelease": "2016-12-02T00:00:00Z"
+            "dateRelease": "2016-12-02T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "puzzle"
+            ]
         },
-        "1136169": {
+        {
+            "id": "1136169",
             "name": "Hey! PIKMIN",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HeyPikmin_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HeyPikmin_image500w.jpg",
-            "dateRelease": "2017-07-28T00:00:00Z"
+            "dateRelease": "2017-07-28T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Arzest",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure",
+                "platformer"
+            ]
         },
-        "1136171": {
+        {
+            "id": "1136171",
             "name": "Poochy & Yoshi's Woolly World",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_PoochyAndYoshisWoollyWorld_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_PoochyAndYoshisWoollyWorld_image500w.jpg",
-            "dateRelease": "2017-02-03T00:00:00Z"
+            "dateRelease": "2017-02-03T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Good-Feel",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer"
+            ]
         },
-        "1136172": {
+        {
+            "id": "1136172",
             "name": "Mario Sports Superstars",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioSportsSuperstars_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioSportsSuperstars_image500w.jpg",
-            "dateRelease": "2017-03-10T00:00:00Z"
+            "dateRelease": "2017-03-10T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "sports"
+            ]
         },
-        "1173281": {
+        {
+            "id": "1173281",
             "name": "Mario Kart 8 Deluxe",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioKart8Deluxe_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioKart8Deluxe_image500w.jpg",
-            "dateRelease": "2017-04-28T00:00:00Z"
+            "dateRelease": "2017-04-28T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "party",
+                "racing"
+            ]
         },
-        "1173295": {
+        {
+            "id": "1173295",
             "name": "Splatoon 2",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Splatoon2_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Splatoon2_image500w.jpg",
-            "dateRelease": "2017-07-21T00:00:00Z"
+            "dateRelease": "2017-07-21T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "shooter"
+            ]
         },
-        "1173332": {
+        {
+            "id": "1173332",
             "name": "Super Mario Odyssey",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioOdyssey_PEGI_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioOdyssey_image500w.jpg",
-            "dateRelease": "2017-10-27T00:00:00Z"
+            "dateRelease": "2017-10-27T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure",
+                "platformer"
+            ]
         },
-        "1173609": {
+        {
+            "id": "1173609",
             "name": "The Legend of Zelda: Breath of the Wild",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheLegendOfZeldaBreathOfTheWild_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
-            "dateRelease": "2017-03-03T00:00:00Z"
+            "dateRelease": "2017-03-03T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "1175211": {
+        {
+            "id": "1175211",
             "name": "Fire Emblem Echoes: Shadows of Valentia",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_FireEmblemEchoesShadowsOfValentia_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemEchoes_image500w.jpg",
-            "dateRelease": "2017-05-19T00:00:00Z"
+            "dateRelease": "2017-05-19T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Intelligent Systems",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure",
+                "strategy"
+            ]
         },
-        "1175315": {
+        {
+            "id": "1175315",
             "name": "Fire Emblem Warriors",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_FireEmblemWarriors_PEGI_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
-            "dateRelease": "2017-10-20T00:00:00Z"
+            "dateRelease": "2017-10-20T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "KOEI TECMO GAMES",
+            "publisher": "Nintendo",
+            "categories": [
+                "action"
+            ]
         },
-        "1175329": {
+        {
+            "id": "1175329",
             "name": "Fire Emblem Warriors",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_FireEmblemWarriors_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
-            "dateRelease": "2017-10-20T00:00:00Z"
+            "dateRelease": "2017-10-20T00:00:00Z",
+            "system": "New Nintendo 3DS",
+            "developer": "KOEI TECMO GAMES",
+            "publisher": "Nintendo",
+            "categories": [
+                "action"
+            ]
         },
-        "1177455": {
+        {
+            "id": "1177455",
             "name": "The Elder Scrolls V: Skyrim",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheElderScrollsVSkyrim_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_TheElderScrollsVSkyrim_image500w.jpg",
-            "dateRelease": "2017-11-17T00:00:00Z"
+            "dateRelease": "2017-11-17T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Bethesda Softworks",
+            "categories": [
+                "action",
+                "rpg"
+            ]
         },
-        "1200313": {
+        {
+            "id": "1200313",
             "name": "Shovel Knight: Treasure Trove",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
-            "dateRelease": "2017-03-03T00:00:00Z"
+            "dateRelease": "2017-03-03T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Yacht Club Games",
+            "categories": [
+                "action",
+                "adventure",
+                "platformer"
+            ]
         },
-        "1203712": {
+        {
+            "id": "1203712",
             "name": "BYE-BYE BOXBOY!",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
-            "dateRelease": "2017-03-23T00:00:00Z"
+            "dateRelease": "2017-03-23T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer",
+                "puzzle"
+            ]
         },
-        "1213275": {
+        {
+            "id": "1213275",
             "name": "Team Kirby Clash Deluxe",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
-            "dateRelease": "2017-04-13T00:00:00Z"
+            "dateRelease": "2017-04-13T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo",
+            "categories": [
+                "action"
+            ]
         },
-        "1214727": {
+        {
+            "id": "1214727",
             "name": "Kirby's Blowout Blast",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
-            "dateRelease": "2017-07-06T00:00:00Z"
+            "dateRelease": "2017-07-06T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "platformer"
+            ]
         },
-        "1225809": {
+        {
+            "id": "1225809",
             "name": "Miitopia",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Miitopia_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Miitopia_image500w.jpg",
-            "dateRelease": "2017-07-28T00:00:00Z"
+            "dateRelease": "2017-07-28T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure",
+                "simulation"
+            ]
         },
-        "1231536": {
+        {
+            "id": "1231536",
             "name": "Pokkén Tournament DX",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
-            "dateRelease": "2017-09-22T00:00:00Z"
+            "dateRelease": "2017-09-22T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "BANDAI NAMCO Entertainment",
+            "publisher": "Nintendo",
+            "categories": [
+                "fighting"
+            ]
         },
-        "1233954": {
+        {
+            "id": "1233954",
             "name": "Mario + Rabbids Kingdom Battle",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioAndRabbidsKingdomBattle_PEGI_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioAndRabbidsKingdomBattle_EU_image500w.jpg",
-            "dateRelease": "2017-08-29T00:00:00Z"
+            "dateRelease": "2017-08-29T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "Ubisoft Paris / Ubisoft Milan / Ubisoft Montpellier / Ubisoft Bucharest",
+            "publisher": "Ubisoft",
+            "categories": [
+                "adventure",
+                "strategy"
+            ]
         },
-        "1233956": {
+        {
+            "id": "1233956",
             "name": "Kirby Star Allies",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_KirbyStarAllies_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_KirbyStarAllies_image500w.jpg",
-            "dateRelease": "2018-03-16T00:00:00Z"
+            "dateRelease": "2018-03-16T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "HAL Laboratory, Inc",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure",
+                "platformer"
+            ]
         },
-        "1234232": {
+        {
+            "id": "1234232",
             "name": "Metroid: Samus Returns",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidSamusReturns_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidSamusReturns_image500w.jpg",
-            "dateRelease": "2017-09-15T00:00:00Z"
+            "dateRelease": "2017-09-15T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "MercurySteam Entertainment / Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure",
+                "platformer"
+            ]
         },
-        "1234324": {
+        {
+            "id": "1234324",
             "name": "Mario & Luigi: Superstar Saga + Bowser's Minions",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioLuigi_SuperstarSaga_UKV_image300w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiSuperstarSagaPlusBowsersMinions_enGB_image500w.jpg",
-            "dateRelease": "2017-10-06T00:00:00Z"
+            "dateRelease": "2017-10-06T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "ALPHADREAM",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure",
+                "platformer"
+            ]
         },
-        "1260979": {
+        {
+            "id": "1260979",
             "name": "Azure Striker GUNVOLT: STRIKER PACK",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_AzureStrikerGunvoltStrickerPack_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_AzureStrikerGunvoltStrickerPack_image500w.jpg",
-            "dateRelease": "2017-12-01T00:00:00Z"
+            "dateRelease": "2017-12-01T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Inti Creates",
+            "categories": [
+                "action"
+            ]
         },
-        "1264661": {
+        {
+            "id": "1264661",
             "name": "Kirby Battle Royale",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyBattleRoyale_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyBattleRoyale_image500w.jpg",
-            "dateRelease": "2017-11-03T00:00:00Z"
+            "dateRelease": "2017-11-03T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "fighting"
+            ]
         },
-        "1275927": {
+        {
+            "id": "1275927",
             "name": "Mario Party: The Top 100",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyTheTop100_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyTheTop100_image500w.jpg",
-            "dateRelease": "2017-12-22T00:00:00Z"
+            "dateRelease": "2017-12-22T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "board_game",
+                "party"
+            ]
         },
-        "1275928": {
+        {
+            "id": "1275928",
             "name": "Nintendo presents: New Style Boutique 3 – Styling Star",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique3StylingStar_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique3StylingStar_enGB_image500w.jpg",
-            "dateRelease": "2017-11-24T00:00:00Z"
+            "dateRelease": "2017-11-24T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "lifestyle",
+                "simulation"
+            ]
         },
-        "1313750": {
+        {
+            "id": "1313750",
             "name": "Bayonetta 2",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Bayonetta2_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Bayonetta2_image500w.jpg",
-            "dateRelease": "2018-02-16T00:00:00Z"
+            "dateRelease": "2018-02-16T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "PlatinumGames",
+            "publisher": "Nintendo",
+            "categories": [
+                "action"
+            ]
         },
-        "1325790": {
+        {
+            "id": "1325790",
             "name": "Dark Souls: Remastered",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
-            "dateRelease": "2018-10-19T00:00:00Z"
+            "dateRelease": "2018-10-19T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "FromSoftware",
+            "publisher": "BANDAI NAMCO Entertainment Europe S.A.S.",
+            "categories": [
+                "action",
+                "rpg"
+            ]
         },
-        "1325999": {
+        {
+            "id": "1325999",
             "name": "Hyrule Warriors: Definitive Edition",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_HyruleWarriorsDefinitiveEdition_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_HyruleWarriorsDefinitiveEdition_image500w.jpg",
-            "dateRelease": "2018-05-18T00:00:00Z"
+            "dateRelease": "2018-05-18T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "KOEI TECMO GAMES CO., LTD.",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ]
         },
-        "1329566": {
+        {
+            "id": "1329566",
             "name": "Detective Pikachu",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_DetectivePikachu_enGB_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_DetectivePikachu_enGB_image500w.jpg",
-            "dateRelease": "2018-03-23T00:00:00Z"
+            "dateRelease": "2018-03-23T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "The Pokémon Company",
+            "publisher": "Nintendo",
+            "categories": [
+                "adventure"
+            ]
         },
-        "1347594": {
+        {
+            "id": "1347594",
             "name": "Little Nightmares Complete Edition",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_LittleNightmaresCompleteEdition_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_LittleNightmaresCompleteEdition_image500w.jpg",
-            "dateRelease": "2018-05-18T00:00:00Z"
+            "dateRelease": "2018-05-18T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "BANDAI NAMCO Entertainment",
+            "categories": [
+                "action",
+                "adventure",
+                "puzzle"
+            ]
         },
-        "1348071": {
+        {
+            "id": "1348071",
             "name": "Captain Toad: Treasure Tracker",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_CaptainToadTreasureTracker_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
-            "dateRelease": "2018-07-13T00:00:00Z"
+            "dateRelease": "2018-07-13T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "platformer",
+                "puzzle"
+            ]
         },
-        "1348072": {
+        {
+            "id": "1348072",
             "name": "Captain Toad: Treasure Tracker",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CaptainToadTreasureTracker_UKV_image300w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
-            "dateRelease": "2018-07-13T00:00:00Z"
+            "dateRelease": "2018-07-13T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "puzzle"
+            ]
         },
-        "1348073": {
+        {
+            "id": "1348073",
             "name": "WarioWare Gold",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_WarioWareGold_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_WarioWareGold_image500w.jpg",
-            "dateRelease": "2018-07-27T00:00:00Z"
+            "dateRelease": "2018-07-27T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "Nintendo / INTELLIGENT SYSTEMS",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "party"
+            ]
         },
-        "1375284": {
+        {
+            "id": "1375284",
             "name": "Mega Man Legacy Collection",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
-            "dateRelease": "2018-05-22T00:00:00Z"
+            "dateRelease": "2018-05-22T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "CAPCOM Europe",
+            "categories": [
+                "action",
+                "platformer"
+            ]
         },
-        "1375285": {
+        {
+            "id": "1375285",
             "name": "Mega Man Legacy Collection 2",
             "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
-            "dateRelease": "2018-05-22T00:00:00Z"
+            "dateRelease": "2018-05-22T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "",
+            "publisher": "CAPCOM",
+            "categories": [
+                "action",
+                "platformer"
+            ]
         }
-    },
+    ],
     "amiibos": [
         {
             "id": "932503",
@@ -20267,7 +20889,7 @@ export default {
             "name": "Shadow Mewtwo",
             "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_PokkenTournament3_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
-            "collection": "",
+            "collection": "Other",
             "gameSeries": [
                 "pokemon"
             ],
@@ -35759,7 +36381,7 @@ export default {
             "name": "Solaire of Astora",
             "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_DarkSoulsRemastered_Amiibo_SolaireOfAstora_image500w.jpg",
             "dateRelease": "2050-12-31T00:00:00Z",
-            "collection": "",
+            "collection": "Other",
             "gameSeries": [
                 "other"
             ],

@@ -2,9 +2,15 @@ import data from './amiibo-data';
 
 export const getAmiibosData = () => data.amiibos;
 
-type Amiibo = typeof data.amiibos[0];
+export type Amiibo = typeof data.amiibos[0];
+export type Game = typeof data.games[0];
 
-export const getAmiibosDataGroupedByCollection = () => {
+export const getAmiibo = (id: string) =>
+    data.amiibos.find(amiibo => amiibo.id === id);
+
+export const getGame = (id: string) => data.games.find(game => game.id === id);
+
+export const getAmiibosGroupedByCollection = () => {
     const groups = new Map<string, Amiibo[]>();
     data.amiibos.forEach(amiibo => {
         let collection = amiibo.collection;
@@ -46,6 +52,5 @@ export const getAmiibosDataGroupedByCollection = () => {
     return entries;
 };
 
-export const getGameSeriesData = () => data.gameSeries;
-
-export const getGamesData = () => data.games;
+export const getGames = () =>
+    [...data.games].sort((a, b) => (a.dateRelease < b.dateRelease ? 1 : -1));

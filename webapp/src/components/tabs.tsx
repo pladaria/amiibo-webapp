@@ -1,20 +1,17 @@
 import * as React from 'react';
-import {
-    TextTransformProperty,
-    AppearanceProperty,
-    PositionProperty,
-} from 'csstype';
+import { Route, NavLink, match } from 'react-router-dom';
 
-const styleTabs = {
+const styleTabs: React.CSSProperties = {
     display: 'flex',
     background: 'red',
     boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
-    position: 'fixed' as PositionProperty,
+    position: 'sticky',
+    top: 0,
     width: '100%',
 };
 
-const styleTab = {
-    appearance: 'none' as AppearanceProperty,
+const styleTab: React.CSSProperties = {
+    textDecoration: 'none',
     background: 'transparent',
     flexGrow: 1,
     fontSize: 14,
@@ -24,7 +21,7 @@ const styleTab = {
     fontWeight: 500,
     letterSpacing: 1,
     height: 48,
-    textTransform: 'uppercase' as TextTransformProperty,
+    textTransform: 'uppercase',
     color: 'white',
     border: 'none',
     outline: 'none',
@@ -32,67 +29,40 @@ const styleTab = {
 };
 
 const styleTabSelected = {
-    ...styleTab,
     borderBottom: '2px solid white',
 };
 
+export const Tabs: React.StatelessComponent = ({ children }) => (
+    <div style={styleTabs}>{children}</div>
+);
 interface TabProps {
-    selected?: boolean;
-    value: string;
-    onSelect?: (value: string) => void;
+    path: string;
+    title: string;
 }
 
-export class Tab extends React.Component<TabProps> {
-    handleClick = () => {
-        if (this.props.onSelect) {
-            this.props.onSelect(this.props.value);
-        }
-    };
+export const Tab: React.StatelessComponent<TabProps> = ({ path, title }) => (
+    <NavLink to={path} style={styleTab} activeStyle={styleTabSelected}>
+        {title}
+    </NavLink>
+);
 
-    render() {
-        const { selected, children } = this.props;
-        return (
-            <button
-                type="button"
-                style={selected ? styleTabSelected : styleTab}
-                onClick={this.handleClick}
-            >
-                {children}
-            </button>
-        );
-    }
+interface TabContentProps {
+    path: string;
 }
 
-interface TabsProps {
-    value: string;
-    onChange: (value: string) => void;
-}
+const getTabContentStyle = (match: match<void>) =>
+    ({
+        display: match ? '' : 'none',
+    } as React.CSSProperties);
 
-class Tabs extends React.Component<TabsProps> {
-    handleChange = (value: string) => {
-        if (this.props.value !== value) {
-            this.props.onChange(value);
-        }
-    };
-
-    render() {
-        const { children, value } = this.props;
-        return (
-            <div style={styleTabs}>
-                {React.Children.map(
-                    children,
-                    (child: React.ReactElement<TabProps>) => {
-                        const tabValue = child.props.value;
-                        const selected = tabValue === value;
-                        return React.cloneElement(child as any, {
-                            selected,
-                            onSelect: () => this.handleChange(tabValue),
-                        });
-                    }
-                )}
-            </div>
-        );
-    }
-}
-
-export default Tabs;
+export const TabContent: React.StatelessComponent<TabContentProps> = ({
+    path,
+    children,
+}) => (
+    <Route
+        path={path}
+        children={({ match }) => (
+            <div style={getTabContentStyle(match)}>{children}</div>
+        )}
+    />
+);

@@ -1,6 +1,20 @@
-* {
+html {
+    box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+* {
+    box-sizing: inherit;
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+}
 body {
-    background: #f0f0f0;
+    background: #eeeeee;
+}
+h2 {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
 }

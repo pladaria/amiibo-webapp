@@ -20,7 +20,7 @@ const allAmiibos = figuresData.map(doc => {
         url,
         figure_number_s: number,
         figure_image_url_s: figureImageUrl,
-        figure_collection_s: collection = '', // undefined for some amiibos
+        figure_collection_s: collection = 'Other', // undefined for some amiibos
         fs_id: id,
         change_date: dateChange,
         date_from: dateRelease,
@@ -66,15 +66,32 @@ Object.keys(allGames).forEach(id => {
     const game = gamesData.find(game => game.fs_id === id);
     const {
         title: name,
-        image_url: imageUrl,
+        image_url: imageUrl = '',
         image_url_sq_s: squareImageUrl = '',
         date_from: dateRelease,
+        system_names_txt: system,
+        developer = '',
+        publisher = '',
+        game_categories_txt: categories,
     } = game;
+
+    if (system.length !== 1) {
+        console.error('multiple systems:', game);
+    }
+    if (!categories) {
+        console.error(('missing categories', game));
+    }
+
     allGames[id] = {
+        id,
         name: clean(name),
-        imageUrl: addProtocol(imageUrl),
-        squareImageUrl: addProtocol(squareImageUrl),
+        imageUrl: imageUrl ? addProtocol(imageUrl) : '',
+        squareImageUrl: squareImageUrl ? addProtocol(squareImageUrl) : '',
         dateRelease,
+        system: system[0],
+        developer,
+        publisher,
+        categories,
     };
 });
 
@@ -84,7 +101,7 @@ writeFileSync(
         JSON.stringify(
             {
                 gameSeries: [...allGameSeries],
-                games: allGames,
+                games: Object.values(allGames),
                 amiibos: allAmiibos,
             },
             null,

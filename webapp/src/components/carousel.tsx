@@ -1,28 +1,17 @@
 import * as React from 'react';
+import Card from './card';
 
-const styleContainer = {
-    background: 'white',
-    borderRadius: 4,
-    paddingTop: 16,
-    margin: 8,
-    boxShadow: '0px 2px 4px 0px rgba(0,0,0,0.2)',
-    border: '1px solid #ddd',
-    borderBottom: '1px solid #ccc',
-};
-
-const styleTitle = {
-    fontWeight: 500,
-    color: '#666',
+const styleTitle: React.CSSProperties = {
     fontSize: 14,
-    padding: 0,
-    margin: '0 0 8px 16px',
+    padding: '16px 0 8px 16px',
 };
 
-const styleItems: React.CSSProperties = {
+const styleCarousel: React.CSSProperties = {
     display: 'flex',
     paddingBottom: 16,
     overflowX: 'auto',
     overflowY: 'hidden',
+    WebkitOverflowScrolling: 'touch',
 };
 
 interface Props {
@@ -30,9 +19,9 @@ interface Props {
 }
 
 const Carousel: React.StatelessComponent<Props> = ({ title, children }) => (
-    <div style={styleContainer}>
+    <Card>
         <h2 style={styleTitle}>{title}</h2>
-        <div style={styleItems}>{children}</div>
-    </div>
+        <div style={styleCarousel}>{children}</div>
+    </Card>
 );
 export default Carousel;
