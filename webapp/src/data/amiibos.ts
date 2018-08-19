@@ -1,4 +1,5 @@
 import data from './amiibo-data';
+import AmiibosGallery from '../components/amiibos-gallery';
 
 export const getAmiibosData = () => data.amiibos;
 
@@ -51,6 +52,11 @@ export const getAmiibosGroupedByCollection = () => {
 
     return entries;
 };
+
+export const getAmiibosByGame = (id: string) =>
+    data.amiibos.filter(amiibo =>
+        amiibo.compatibleGames.some(game => game.id === id)
+    );
 
 export const getGames = () =>
     [...data.games].sort((a, b) => (a.dateRelease < b.dateRelease ? 1 : -1));

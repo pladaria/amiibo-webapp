@@ -38,9 +38,8 @@ const styleGameDescription: React.CSSProperties = {
 };
 
 const styleFigureContainer: React.CSSProperties = {
-    width: 400,
-    maxWidth: 400,
-    height: 440,
+    width: 360,
+    height: 400,
     position: 'relative',
 };
 
@@ -58,13 +57,14 @@ const styleCompatibleGamesHeader: React.CSSProperties = {
 };
 
 const styleFigureImage: React.CSSProperties = {
-    width: '100%',
+    width: 360,
     display: 'block',
     position: 'absolute',
     bottom: 0,
 };
 
 const styleAmiiboName: React.CSSProperties = {
+    fontSize: 24,
     padding: '0px 16px 16px 16px',
     textAlign: 'center',
 };

@@ -14,13 +14,15 @@ const style: React.CSSProperties = {
 
 const styleBackButton: React.CSSProperties = {
     position: 'absolute',
-    top: 0,
+    top: 8,
+    left: 8,
     border: 'none',
     appearance: 'none',
-    width: 40,
-    height: 40,
+    width: 32,
+    height: 32,
     outline: 'none',
-    background: `transparent 50% 50% no-repeat url(${IconArrowBack} `,
+    borderRadius: '50%',
+    background: `rgba(255, 255, 255, 0.5) 50% 50% no-repeat url(${IconArrowBack} `,
 };
 
 interface Props {

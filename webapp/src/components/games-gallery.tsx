@@ -2,6 +2,7 @@ import * as React from 'react';
 import Card from './card';
 import { getGames } from '../data/amiibos';
 import { Link } from 'react-router-dom';
+import Tag from './tag';
 
 const styleGame: React.CSSProperties = {
     padding: 16,
@@ -39,14 +40,6 @@ const styleCategories: React.CSSProperties = {
     marginBottom: 2,
 };
 
-const styleCategory: React.CSSProperties = {
-    background: '#eee',
-    padding: '2px 8px',
-    marginRight: 8,
-    borderRadius: 16,
-    fontSize: 11,
-};
-
 interface GameProps {
     id: string;
     name: string;
@@ -72,9 +65,7 @@ const Game: React.StatelessComponent<GameProps> = ({
             </div>
             <div style={styleCategories}>
                 {categories.map(c => (
-                    <span key={c} style={styleCategory}>
-                        {c}
-                    </span>
+                    <Tag key={c}>{c}</Tag>
                 ))}
             </div>
         </div>
