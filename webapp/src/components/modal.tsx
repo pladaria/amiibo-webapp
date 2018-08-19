@@ -6,8 +6,9 @@ const style: React.CSSProperties = {
     bottom: 0,
     left: 0,
     right: 0,
-    background: 'white',
-    overflow: 'auto',
+    overflowY: 'auto',
+    overflowX: 'hidden',
+    background: '#eeeeee',
 };
 
 const Modal: React.StatelessComponent = ({ children }) => (

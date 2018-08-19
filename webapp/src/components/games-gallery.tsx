@@ -67,8 +67,8 @@ const Game: React.StatelessComponent<GameProps> = ({
         <img style={styleCover} src={cover} />
         <div style={styleDescription}>
             <div>
-                <h2 style={styleTitle}>{name}</h2>
                 <div>{system}</div>
+                <h2 style={styleTitle}>{name}</h2>
             </div>
             <div style={styleCategories}>
                 {categories.map(c => (

@@ -58,7 +58,7 @@ const allAmiibos = figuresData.map(doc => {
         dateRelease,
         collection,
         gameSeries,
-        compatibleGames: compatibleGames.sort((a, b) => b.rank - a.rank),
+        compatibleGames,
     };
 });
 
@@ -73,6 +73,7 @@ Object.keys(allGames).forEach(id => {
         developer = '',
         publisher = '',
         game_categories_txt: categories,
+        game_series_txt: gameSeries = [],
     } = game;
 
     if (system.length !== 1) {
@@ -92,7 +93,28 @@ Object.keys(allGames).forEach(id => {
         developer,
         publisher,
         categories,
+        gameSeries: gameSeries,
     };
+});
+
+allAmiibos.forEach(amiibo => {
+    amiibo.compatibleGames.sort((gameA, gameB) => {
+        if (
+            amiibo.gameSeries.some(series =>
+                allGames[gameA.id].gameSeries.includes(series)
+            )
+        ) {
+            return -1;
+        }
+        if (
+            amiibo.gameSeries.some(series =>
+                allGames[gameB.id].gameSeries.includes(series)
+            )
+        ) {
+            return 1;
+        }
+        return gameA.rank > gameB.rank ? -1 : 1;
+    });
 });
 
 writeFileSync(
@@ -100,7 +122,6 @@ writeFileSync(
     'export default ' +
         JSON.stringify(
             {
-                gameSeries: [...allGameSeries],
                 games: Object.values(allGames),
                 amiibos: allAmiibos,
             },
