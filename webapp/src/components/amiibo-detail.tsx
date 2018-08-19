@@ -37,17 +37,44 @@ const styleGameDescription: React.CSSProperties = {
     fontSize: 13,
 };
 
+const styleFigureContainer: React.CSSProperties = {
+    width: 400,
+    maxWidth: 400,
+    height: 440,
+    position: 'relative',
+};
+
+const styleAmiiboContainer: React.CSSProperties = {
+    background: 'white',
+    boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+};
+
+const styleCompatibleGamesHeader: React.CSSProperties = {
+    margin: 16,
+    color: '#444',
+};
+
+const styleFigureImage: React.CSSProperties = {
+    width: '100%',
+    display: 'block',
+    position: 'absolute',
+    bottom: 0,
+};
+
+const styleAmiiboName: React.CSSProperties = {
+    padding: '0px 16px 16px 16px',
+    textAlign: 'center',
+};
+
 interface GameProps {
     id: string;
     description: string;
-    rank: string;
 }
 
-const Game: React.StatelessComponent<GameProps> = ({
-    id,
-    description,
-    rank,
-}) => {
+const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
     const game = getGame(id);
     if (!game) {
         return null;
@@ -55,7 +82,7 @@ const Game: React.StatelessComponent<GameProps> = ({
     const cover = game.squareImageUrl || game.imageUrl;
     const { name, system } = game;
     return (
-        <Link to={`/games/${id}`} style={styleGame}>
+        <Link to={`/games/${id}`} style={styleGame} key={id}>
             <img style={styleCover} src={cover} />
             <div style={styleGameDescription}>
                 <div>
@@ -70,6 +97,7 @@ const Game: React.StatelessComponent<GameProps> = ({
 
 interface Props {
     id: string;
+    onGoBack: () => void;
 }
 
 interface State {
@@ -89,31 +117,24 @@ class AmiiboDetail extends React.Component<Props, State> {
         }
 
         const { amiibo } = this.state;
+        const { onGoBack } = this.props;
         return (
-            <Modal>
-                <div
-                    style={{
-                        background: 'white',
-                        boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
-                    }}
-                >
-                    <img
-                        style={{
-                            width: '100%',
-                            display: 'block',
-                        }}
-                        src={amiibo.figureImageUrl}
-                    />
-                    <div
-                        style={{
-                            padding: '0px 16px 16px 16px',
-                            textAlign: 'center',
-                        }}
-                    >
-                        <h1>{amiibo.name}</h1>
+            <Modal onGoBack={onGoBack}>
+                <div style={styleAmiiboContainer}>
+                    <div style={styleFigureContainer}>
+                        <img
+                            style={styleFigureImage}
+                            src={amiibo.figureImageUrl}
+                        />
                     </div>
+                    <h1 style={styleAmiiboName}>{amiibo.name}</h1>
                 </div>
-                <Card>{amiibo.compatibleGames.map(Game)}</Card>
+                <Card>
+                    <div style={styleCompatibleGamesHeader}>
+                        Compatible games
+                    </div>
+                    {amiibo.compatibleGames.map(Game)}
+                </Card>
             </Modal>
         );
     }

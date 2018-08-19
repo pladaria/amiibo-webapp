@@ -4,7 +4,7 @@ import { Tabs, Tab, TabContent } from './components/tabs';
 import AmiibosGallery from './components/amiibos-gallery';
 import GamesGallery from './components/games-gallery';
 import AmiiboDetail from './components/amiibo-detail';
-import { Route, match } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import GameDetail from './components/game-detail';
 
 const App: React.StatelessComponent = () => (
@@ -16,11 +16,16 @@ const App: React.StatelessComponent = () => (
 
         <TabContent path="/amiibos/:id?" children={<AmiibosGallery />} />
 
-        <TabContent path="/games" children={<GamesGallery />} />
+        <TabContent path="/games/:id?" children={<GamesGallery />} />
 
         <Route
             path="/amiibos/:id"
-            render={({ match }) => <AmiiboDetail id={match.params.id} />}
+            render={({ match, history }) => (
+                <AmiiboDetail
+                    id={match.params.id}
+                    onGoBack={() => history.goBack()}
+                />
+            )}
         />
 
         <Route

@@ -36,12 +36,12 @@ const styleDescription: React.CSSProperties = {
 };
 
 const styleCategories: React.CSSProperties = {
-    marginBottom: 4,
+    marginBottom: 2,
 };
 
 const styleCategory: React.CSSProperties = {
-    border: '1px solid #ddd',
-    padding: '0px 8px 2px 8px',
+    background: '#eee',
+    padding: '2px 8px',
     marginRight: 8,
     borderRadius: 16,
     fontSize: 11,

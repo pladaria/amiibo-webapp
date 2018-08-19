@@ -50,9 +50,9 @@ interface TabContentProps {
     path: string;
 }
 
-const getTabContentStyle = (match: match<void>) =>
+const getTabContentStyle = (match: match<{ id: string }>) =>
     ({
-        display: match ? '' : 'none',
+        display: match && !match.params.id ? '' : 'none',
     } as React.CSSProperties);
 
 export const TabContent: React.StatelessComponent<TabContentProps> = ({
