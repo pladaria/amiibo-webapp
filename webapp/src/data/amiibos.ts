@@ -1,5 +1,4 @@
 import data from './amiibo-data';
-import AmiibosGallery from '../components/amiibos-gallery';
 
 export const getAmiibosData = () => data.amiibos;
 
