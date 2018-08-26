@@ -13,7 +13,7 @@
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject",
-    "postbuild": "rm -rf ../doc && mkdir -p ../doc && cp -r ./build/* ../doc"
+    "postbuild": "rm -rf ../docs && mkdir -p ../docs && cp -r ./build/* ../docs"
   },
   "devDependencies": {
     "@types/jest": "^23.3.1",
