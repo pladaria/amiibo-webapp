@@ -10,6 +10,7 @@ const style: React.CSSProperties = {
     overflowY: 'auto',
     overflowX: 'hidden',
     background: '#eeeeee',
+    WebkitOverflowScrolling: 'touch',
 };
 
 const styleBackButton: React.CSSProperties = {
