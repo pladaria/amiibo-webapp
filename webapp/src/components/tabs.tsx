@@ -41,7 +41,7 @@ interface TabProps {
 }
 
 export const Tab: React.StatelessComponent<TabProps> = ({ path, title }) => (
-    <NavLink to={path} style={styleTab} activeStyle={styleTabSelected}>
+    <NavLink replace to={path} style={styleTab} activeStyle={styleTabSelected}>
         {title}
     </NavLink>
 );
