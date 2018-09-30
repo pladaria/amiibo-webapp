@@ -1,9 +1,9 @@
 import * as React from 'react';
-import Modal from './modal';
 import { getAmiibo, getGame, Amiibo } from '../data/amiibos';
 import { Redirect } from 'react-router';
 import Card from './card';
 import { Link } from 'react-router-dom';
+import BackButton from './back-button';
 
 const styleGame: React.CSSProperties = {
     padding: 16,
@@ -38,9 +38,7 @@ const styleGameDescription: React.CSSProperties = {
 };
 
 const styleFigureContainer: React.CSSProperties = {
-    width: 360,
     height: 400,
-    position: 'relative',
 };
 
 const styleAmiiboContainer: React.CSSProperties = {
@@ -58,14 +56,13 @@ const styleCompatibleGamesHeader: React.CSSProperties = {
 
 const styleFigureImage: React.CSSProperties = {
     width: 360,
+    marginTop: -8,
     display: 'block',
-    position: 'absolute',
-    bottom: 0,
 };
 
 const styleAmiiboName: React.CSSProperties = {
     fontSize: 24,
-    padding: '0px 16px 16px 16px',
+    marginBottom: 16,
     textAlign: 'center',
 };
 
@@ -119,8 +116,9 @@ class AmiiboDetail extends React.Component<Props, State> {
         const { amiibo } = this.state;
         const { onGoBack } = this.props;
         return (
-            <Modal onGoBack={onGoBack}>
+            <>
                 <div style={styleAmiiboContainer}>
+                    <BackButton onGoBack={onGoBack} />
                     <div style={styleFigureContainer}>
                         <img
                             style={styleFigureImage}
@@ -135,7 +133,7 @@ class AmiiboDetail extends React.Component<Props, State> {
                     </div>
                     {amiibo.compatibleGames.map(Game)}
                 </Card>
-            </Modal>
+            </>
         );
     }
 }

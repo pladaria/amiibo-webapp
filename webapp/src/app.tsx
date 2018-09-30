@@ -9,14 +9,20 @@ import GameDetail from './components/game-detail';
 
 const App: React.StatelessComponent = () => (
     <>
-        <Tabs>
-            <Tab path="/amiibos" title="Amiibos" />
-            <Tab path="/games" title="Games" />
-        </Tabs>
-
-        <TabContent path="/amiibos/:id?" children={<AmiibosGallery />} />
-
-        <TabContent path="/games/:id?" children={<GamesGallery />} />
+        <Route
+            path="/(amiibos|games)"
+            exact
+            render={() => (
+                <>
+                    <Tabs>
+                        <Tab path="/amiibos" title="Amiibos" />
+                        <Tab path="/games" title="Games" />
+                    </Tabs>
+                    <TabContent path="/amiibos" children={<AmiibosGallery />} />
+                    <TabContent path="/games" children={<GamesGallery />} />
+                </>
+            )}
+        />
 
         <Route
             path="/amiibos/:id"
