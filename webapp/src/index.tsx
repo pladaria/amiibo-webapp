@@ -11,7 +11,18 @@ import 'pwacompat/pwacompat.min.js';
 
 ReactDOM.render(
     <HashRouter>
-        <ScrollContext>
+        <ScrollContext
+            shouldUpdateScroll={(
+                prevRouterProps: any,
+                { location, history }: { location?: any; history?: any } = {}
+            ) => {
+                if (history && history.action === 'PUSH') {
+                    return [0, 0];
+                }
+                console.log({ prevRouterProps, location, history });
+                return true;
+            }}
+        >
             <Switch>
                 <Route path="/(amiibos|games)/:id?" component={App} />
                 <Route render={() => <Redirect to="/amiibos" />} />
