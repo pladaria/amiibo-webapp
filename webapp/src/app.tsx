@@ -27,20 +27,14 @@ const App: React.StatelessComponent = () => (
         <Route
             path="/amiibos/:id"
             render={({ match, history }) => (
-                <AmiiboDetail
-                    id={match.params.id}
-                    onGoBack={() => history.goBack()}
-                />
+                <AmiiboDetail id={match.params.id} onGoBack={history.goBack} />
             )}
         />
 
         <Route
             path="/games/:id"
             render={({ match, history }) => (
-                <GameDetail
-                    id={match.params.id}
-                    onGoBack={() => history.goBack()}
-                />
+                <GameDetail id={match.params.id} onGoBack={history.goBack} />
             )}
         />
     </>

@@ -1,13 +1,13 @@
 import * as React from 'react';
-import Modal from './modal';
 import { getAmiibosByGame, getGame, Game, Amiibo } from '../data/amiibos';
 import { Redirect } from 'react-router';
 import Card from './card';
 import { Link } from 'react-router-dom';
 import Tag from './tag';
+import BackButton from './back-button';
 
 const styleAmiiboItem: React.CSSProperties = {
-    padding: 16,
+    padding: '16px 16px 16px 8px',
     display: 'flex',
     borderBottom: '1px solid #ddd',
     overflow: 'hidden',
@@ -21,12 +21,11 @@ const styleAmiiboName: React.CSSProperties = {
     overflow: 'hidden',
 };
 
-const styleAmiiboImage: React.CSSProperties = {
-    position: 'relative',
+const styleAmiiboImageContainer: React.CSSProperties = {
     flexShrink: 0,
     width: 75,
     height: 75,
-    marginRight: 16,
+    marginRight: 8,
 };
 
 const styleAmiiboDescription: React.CSSProperties = {
@@ -53,7 +52,7 @@ const styleCompatibleAmiibosHeader: React.CSSProperties = {
 
 const styleGameImage: React.CSSProperties = {
     width: '100%',
-    maxWidth: 400,
+    maxWidth: 500,
     display: 'block',
 };
 
@@ -74,11 +73,8 @@ const AmiiboItem: React.StatelessComponent<AmiiboProps> = ({
 }) => {
     return (
         <Link to={`/amiibos/${id}`} style={styleAmiiboItem} key={id}>
-            <div style={styleAmiiboImage}>
-                <img
-                    style={{ width: 75, position: 'absolute', bottom: 0 }}
-                    src={imageUrl}
-                />
+            <div style={styleAmiiboImageContainer}>
+                <img style={{ width: 75, marginTop: -8 }} src={imageUrl} />
             </div>
             <div style={styleAmiiboDescription}>
                 <div>
@@ -119,7 +115,8 @@ class GameDetail extends React.Component<Props, State> {
         const { game, amiibos } = this.state;
         const { onGoBack } = this.props;
         return (
-            <Modal onGoBack={onGoBack}>
+            <>
+                <BackButton onGoBack={onGoBack} />
                 <div style={styleGameContainer}>
                     <img
                         style={styleGameImage}
@@ -169,7 +166,7 @@ class GameDetail extends React.Component<Props, State> {
                         )
                     )}
                 </Card>
-            </Modal>
+            </>
         );
     }
 }
