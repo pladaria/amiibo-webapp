@@ -1,5 +1,5 @@
 {
-  "name": "amiibo-ts",
+  "name": "amiibo-webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
