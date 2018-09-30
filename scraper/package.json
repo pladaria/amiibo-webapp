@@ -6,5 +6,9 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "node-fetch": "^2.2.0"
+  },
+  "scripts": {
+    "clean": "rm -rf dump amiibo-data.ts",
+    "dump": ". dump-data.sh && node index.js && cp amiibo-data.ts ../webapp/src/data/amiibo-data.ts"
   }
 }

@@ -3,7 +3,7 @@ export default {
         {
             "id": "273841",
             "name": "Animal Crossing: New Leaf - Welcome amiibo",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingNewLeaf_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingNewLeaf_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingNewLeaf_WelcomeAmiibo_image500w.jpg",
             "dateRelease": "2016-11-25T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -784,7 +784,7 @@ export default {
         {
             "id": "1173295",
             "name": "Splatoon 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Splatoon2_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Splatoon2_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Splatoon2_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "system": "Nintendo Switch",
@@ -800,7 +800,7 @@ export default {
         {
             "id": "1173332",
             "name": "Super Mario Odyssey",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioOdyssey_PEGI_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioOdyssey_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioOdyssey_image500w.jpg",
             "dateRelease": "2017-10-27T00:00:00Z",
             "system": "Nintendo Switch",
@@ -852,7 +852,7 @@ export default {
         {
             "id": "1175315",
             "name": "Fire Emblem Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_FireEmblemWarriors_PEGI_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_FireEmblemWarriors_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "system": "Nintendo Switch",
@@ -884,7 +884,7 @@ export default {
         {
             "id": "1177455",
             "name": "The Elder Scrolls V: Skyrim",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheElderScrollsVSkyrim_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheElderScrollsVSkyrim_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_TheElderScrollsVSkyrim_image500w.jpg",
             "dateRelease": "2017-11-17T00:00:00Z",
             "system": "Nintendo Switch",
@@ -978,7 +978,7 @@ export default {
         {
             "id": "1231536",
             "name": "Pokkén Tournament DX",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
             "dateRelease": "2017-09-22T00:00:00Z",
             "system": "Nintendo Switch",
@@ -994,7 +994,7 @@ export default {
         {
             "id": "1233954",
             "name": "Mario + Rabbids Kingdom Battle",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioAndRabbidsKingdomBattle_PEGI_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioAndRabbidsKingdomBattle_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioAndRabbidsKingdomBattle_EU_image500w.jpg",
             "dateRelease": "2017-08-29T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1011,7 +1011,7 @@ export default {
         {
             "id": "1233956",
             "name": "Kirby Star Allies",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_KirbyStarAllies_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_KirbyStarAllies_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_KirbyStarAllies_image500w.jpg",
             "dateRelease": "2018-03-16T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1130,7 +1130,7 @@ export default {
         {
             "id": "1313750",
             "name": "Bayonetta 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Bayonetta2_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Bayonetta2_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Bayonetta2_image500w.jpg",
             "dateRelease": "2018-02-16T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1146,7 +1146,7 @@ export default {
         {
             "id": "1325790",
             "name": "Dark Souls: Remastered",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_DarkSoulsRemastered_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
             "dateRelease": "2018-10-19T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1161,7 +1161,7 @@ export default {
         {
             "id": "1325999",
             "name": "Hyrule Warriors: Definitive Edition",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_HyruleWarriorsDefinitiveEdition_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_HyruleWarriorsDefinitiveEdition_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_HyruleWarriorsDefinitiveEdition_image500w.jpg",
             "dateRelease": "2018-05-18T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1194,7 +1194,7 @@ export default {
         {
             "id": "1347594",
             "name": "Little Nightmares Complete Edition",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_LittleNightmaresCompleteEdition_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_LittleNightmaresCompleteEdition_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_LittleNightmaresCompleteEdition_image500w.jpg",
             "dateRelease": "2018-05-18T00:00:00Z",
             "system": "Nintendo Switch",
@@ -1210,7 +1210,7 @@ export default {
         {
             "id": "1348071",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_CaptainToadTreasureTracker_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_CaptainToadTreasureTracker_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "system": "Nintendo Switch",
