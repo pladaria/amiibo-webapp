@@ -16,7 +16,8 @@
         "noImplicitAny": true,
         "strictNullChecks": true,
         "suppressImplicitAnyIndexErrors": true,
-        "noUnusedLocals": false
+        "noUnusedLocals": false,
+        "skipLibCheck": true // WORKAROUND FOR TS BUG
     },
     "exclude": [
         "node_modules",

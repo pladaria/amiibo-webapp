@@ -5,6 +5,7 @@ import Card from './card';
 import { Link } from 'react-router-dom';
 import Tag from './tag';
 import BackButton from './back-button';
+import Img from 'react-lazy-img';
 
 const styleAmiiboItem: React.CSSProperties = {
     padding: '16px 16px 16px 8px',
@@ -74,7 +75,10 @@ const AmiiboItem: React.StatelessComponent<AmiiboProps> = ({
     return (
         <Link to={`/amiibos/${id}`} style={styleAmiiboItem} key={id}>
             <div style={styleAmiiboImageContainer}>
-                <img style={{ width: 75, marginTop: -8 }} src={imageUrl} />
+                <Img
+                    style={{ width: 75, height: 84, marginTop: -8 }}
+                    src={imageUrl}
+                />
             </div>
             <div style={styleAmiiboDescription}>
                 <div>

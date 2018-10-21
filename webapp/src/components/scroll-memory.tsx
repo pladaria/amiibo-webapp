@@ -4,56 +4,54 @@ import { UnregisterCallback } from 'history';
 
 type SavedLocation = { path: string; scroll: [number, number] };
 
-let locations: SavedLocation[] = [];
-let index = 0;
-
 class ScrollMemory extends React.Component<RouteComponentProps> {
     unregister: UnregisterCallback;
+    locations: SavedLocation[] = [];
+    index = 0;
 
     componentDidMount() {
-        locations.push({ path: this.props.location.pathname, scroll: [0, 0] });
+        this.locations.push({
+            path: this.props.location.pathname,
+            scroll: [0, 0],
+        });
 
         this.unregister = this.props.history.listen((location, action) => {
             const path = location.pathname;
             if (
-                index > 0 &&
-                locations[index - 1].path === path &&
+                this.index > 0 &&
+                this.locations[this.index - 1].path === path &&
                 action !== 'PUSH'
             ) {
-                index--;
+                this.index--;
             } else if (
-                locations.length > index + 1 &&
-                locations[index + 1].path === path &&
+                this.locations.length > this.index + 1 &&
+                this.locations[this.index + 1].path === path &&
                 action !== 'PUSH'
             ) {
-                index++;
+                this.index++;
             } else {
-                locations = locations.slice(0, index + 1);
-                locations.push({ path, scroll: [0, 0] });
-                index++;
+                this.locations = this.locations.slice(0, this.index + 1);
+                this.locations.push({ path, scroll: [0, 0] });
+                this.index++;
             }
             this.restoreScroll();
         });
 
-        window.addEventListener('touchstart', this.saveScroll);
-        window.addEventListener('mousedown', this.saveScroll);
-        window.addEventListener('keydown', this.saveScroll);
+        window.addEventListener('scroll', this.saveScroll);
     }
 
     componentWillUnmount() {
         this.unregister();
-        window.removeEventListener('touchstart', this.saveScroll);
-        window.removeEventListener('mousedown', this.saveScroll);
-        window.removeEventListener('keydown', this.saveScroll);
+        window.removeEventListener('scroll', this.saveScroll);
     }
 
     restoreScroll = () => {
-        const [x, y] = locations[index].scroll;
+        const [x, y] = this.locations[this.index].scroll;
         window.scrollTo(x, y);
     };
 
     saveScroll = () => {
-        locations[index].scroll = [window.scrollX, window.scrollY];
+        this.locations[this.index].scroll = [window.scrollX, window.scrollY];
     };
 
     render() {

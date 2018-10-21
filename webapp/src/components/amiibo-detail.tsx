@@ -4,6 +4,7 @@ import { Redirect } from 'react-router';
 import Card from './card';
 import { Link } from 'react-router-dom';
 import BackButton from './back-button';
+import Img from 'react-lazy-img';
 
 const styleGame: React.CSSProperties = {
     padding: 16,
@@ -20,11 +21,18 @@ const styleGameTitle: React.CSSProperties = {
     overflow: 'hidden',
 };
 
-const styleCover: React.CSSProperties = {
+const styleGameCover: React.CSSProperties = {
+    width: 75,
+    height: 75,
+    display: 'inline-block',
+};
+
+const styleGameCoverContainer: React.CSSProperties = {
     flexShrink: 0,
     width: 75,
     height: 75,
     marginRight: 16,
+    display: 'inline-block',
 };
 
 const styleGameDescription: React.CSSProperties = {
@@ -80,7 +88,9 @@ const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
     const { name, system } = game;
     return (
         <Link to={`/games/${id}`} style={styleGame} key={id}>
-            <img style={styleCover} src={cover} />
+            <div style={styleGameCoverContainer}>
+                <Img style={styleGameCover} src={cover} />
+            </div>
             <div style={styleGameDescription}>
                 <div>
                     <div>{system}</div>

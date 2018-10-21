@@ -3,6 +3,7 @@ import Carousel from './carousel';
 import { getAmiibosGroupedByCollection } from '../data/amiibos';
 import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
+import Img from 'react-lazy-img';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,
@@ -14,6 +15,7 @@ const styleAmiiboContainer: React.CSSProperties = {
 
 const styleImg: React.CSSProperties = {
     display: 'block',
+    width: 134,
     height: 150,
 };
 
@@ -36,7 +38,7 @@ const Amiibo: React.StatelessComponent<AmiiboProps> = ({
 }) => (
     <div style={styleAmiiboContainer} key={figureImageUrl}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
-            <img src={figureImageUrl} style={styleImg} />
+            <Img src={figureImageUrl} style={styleImg} offset={200} />
             <div style={styleName}>{cut(name, 40)}</div>
         </Link>
     </div>
