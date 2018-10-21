@@ -3,6 +3,7 @@ import Card from './card';
 import { getGames } from '../data/amiibos';
 import { Link } from 'react-router-dom';
 import Tag from './tag';
+import Img from 'react-lazy-img';
 
 const styleGame: React.CSSProperties = {
     padding: 16,
@@ -19,11 +20,16 @@ const styleTitle: React.CSSProperties = {
     overflow: 'hidden',
 };
 
-const styleCover: React.CSSProperties = {
+const styleGameCovercontainer: React.CSSProperties = {
     flexShrink: 0,
     width: 75,
     height: 75,
     marginRight: 16,
+};
+
+const styleGameCover: React.CSSProperties = {
+    width: 75,
+    height: 75,
 };
 
 const styleDescription: React.CSSProperties = {
@@ -57,7 +63,9 @@ const Game: React.StatelessComponent<GameProps> = ({
     system,
 }) => (
     <Link to={`/games/${id}`} style={styleGame}>
-        <img style={styleCover} src={cover} />
+        <div style={styleGameCovercontainer}>
+            <Img style={styleGameCover} src={cover} offset={200} />
+        </div>
         <div style={styleDescription}>
             <div>
                 <div>{system}</div>
