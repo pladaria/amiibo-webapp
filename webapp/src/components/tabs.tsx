@@ -6,6 +6,7 @@ const styleTabs: React.CSSProperties = {
     background: 'red',
     boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
     position: 'sticky',
+    zIndex: 1,
     top: 0,
     width: '100%',
 };
