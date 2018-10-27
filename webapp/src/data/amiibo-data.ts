@@ -3,8 +3,6 @@ export default {
         {
             "id": "273841",
             "name": "Animal Crossing: New Leaf - Welcome amiibo",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingNewLeaf_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingNewLeaf_WelcomeAmiibo_image500w.jpg",
             "dateRelease": "2016-11-25T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Nintendo",
@@ -20,8 +18,6 @@ export default {
         {
             "id": "765384",
             "name": "Mario Kart 8",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioKart8_PEGI3_image500w.png",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioKart8_image500w.jpg",
             "dateRelease": "2014-05-30T00:00:00Z",
             "system": "Wii U",
             "developer": "Nintendo",
@@ -37,8 +33,6 @@ export default {
         {
             "id": "858506",
             "name": "Shovel Knight",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_ShovelKnight_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_ShovelKnight_image500w.jpg",
             "dateRelease": "2015-10-30T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -51,8 +45,6 @@ export default {
         {
             "id": "858507",
             "name": "Shovel Knight: Treasure Trove",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
             "dateRelease": "2015-10-30T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -65,8 +57,6 @@ export default {
         {
             "id": "864329",
             "name": "Super Smash Bros. for Nintendo 3DS",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_SuperSmashBros_enGB_image500w.png",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_SuperSmashBrosNintendo3DS_image500w.jpg",
             "dateRelease": "2014-10-03T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -82,8 +72,6 @@ export default {
         {
             "id": "864849",
             "name": "Super Smash Bros. for Wii U",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperSmashBrosForWiiU_PEGI12_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperSmashBrosForWiiU_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -99,8 +87,6 @@ export default {
         {
             "id": "891849",
             "name": "Hyrule Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_HyruleWarriors_PEGI_image500w.png",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_HyruleWarriors_image500w.jpg",
             "dateRelease": "2014-09-19T00:00:00Z",
             "system": "Wii U",
             "developer": "Koei Tecmo Games",
@@ -113,8 +99,6 @@ export default {
         {
             "id": "892510",
             "name": "Splatoon",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_Splatoon_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_Splatoon_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -130,8 +114,6 @@ export default {
         {
             "id": "892537",
             "name": "Yoshi's Woolly World",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_YoshisWoollyWorld_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_YoshisWoollyWorld_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "system": "Wii U",
             "developer": "Good-Feel",
@@ -146,8 +128,6 @@ export default {
         {
             "id": "892704",
             "name": "Super Mario Maker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperMarioMaker_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperMarioMaker_image500w.jpg",
             "dateRelease": "2015-09-11T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -162,8 +142,6 @@ export default {
         {
             "id": "892779",
             "name": "Mario Party 10",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioParty10_NS_EUR_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioParty10_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -178,8 +156,6 @@ export default {
         {
             "id": "892923",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_CaptainToadTreasureTracker_NS_EUR_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2015-01-02T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -193,8 +169,6 @@ export default {
         {
             "id": "893013",
             "name": "Kirby and the Rainbow Paintbrush",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_KirbyAndTheRainbowPaintbrush_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_KirbyAndTheRainbowPaintbrush_enGB_image500w.jpg",
             "dateRelease": "2015-05-08T00:00:00Z",
             "system": "Wii U",
             "developer": "HAL Laboratory, Inc.",
@@ -209,8 +183,6 @@ export default {
         {
             "id": "893260",
             "name": "The Legend of Zelda: Breath of the Wild",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaBreathOfTheWild_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -226,8 +198,6 @@ export default {
         {
             "id": "893949",
             "name": "Code Name: S.T.E.A.M.",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CodenameSTEAM_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_CodenameSTEAM_image500w.jpg",
             "dateRelease": "2015-05-15T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "INTELLIGENT SYSTEMS",
@@ -241,8 +211,6 @@ export default {
         {
             "id": "954437",
             "name": "ACE COMBAT ASSAULT HORIZON LEGACY +",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AceCombatAssaultHorizonLegacyPlus_PEGI12_image300w.jpg",
-            "squareImageUrl": "",
             "dateRelease": "2015-02-13T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Project Aces",
@@ -255,8 +223,6 @@ export default {
         {
             "id": "961136",
             "name": "Xenoblade Chronicles 3D",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_XenobladeChronicles3D_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/new_nintendo_3ds_19/SQ_N3DS_XenobladeChronicles3D_enGB_image500w.jpg",
             "dateRelease": "2015-04-02T00:00:00Z",
             "system": "New Nintendo 3DS",
             "developer": "",
@@ -272,8 +238,6 @@ export default {
         {
             "id": "986009",
             "name": "amiibo Touch & Play: Nintendo Classics Highlights",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_AmiiboTouchAndPlay_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_AmiiboTouchAndPlay_image500w.jpg",
             "dateRelease": "2015-04-30T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -286,8 +250,6 @@ export default {
         {
             "id": "1009406",
             "name": "Animal Crossing: Happy Home Designer",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingHappyHomeDesigner_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingHappyHomeDesigner_image500w.jpg",
             "dateRelease": "2015-10-02T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -303,8 +265,6 @@ export default {
         {
             "id": "1021489",
             "name": "Chibi-Robo! Zip Lash",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_ChibiRoboZipLash_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_ChibiRoboZipLash_image500w.jpg",
             "dateRelease": "2015-11-06T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -317,8 +277,6 @@ export default {
         {
             "id": "1025884",
             "name": "Metroid Prime: Federation Force",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidPrimeFederationForce_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidPrimeFederationForce_image500w.jpg",
             "dateRelease": "2016-09-02T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -333,8 +291,6 @@ export default {
         {
             "id": "1025970",
             "name": "Hyrule Warriors: Legends",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HyruleWarriorsLegends_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HyruleWarriorsLegends_image500w.jpg",
             "dateRelease": "2016-03-24T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "KOEI TECMO GAMES",
@@ -348,8 +304,6 @@ export default {
         {
             "id": "1026071",
             "name": "Fire Emblem Fates",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_FireEmblemFates_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemFates_700x700_enGB_image500w.jpg",
             "dateRelease": "2016-05-20T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Intelligent Systems",
@@ -364,8 +318,6 @@ export default {
         {
             "id": "1026132",
             "name": "Star Fox Zero",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_StarFoxZero_EUR_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxZero_image500w.jpg",
             "dateRelease": "2016-04-22T00:00:00Z",
             "system": "Wii U",
             "developer": "Platinum Games",
@@ -381,8 +333,6 @@ export default {
         {
             "id": "1026137",
             "name": "Animal Crossing: amiibo Festival",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "system": "Wii U",
             "developer": "Nintendo",
@@ -399,8 +349,6 @@ export default {
         {
             "id": "1026139",
             "name": "Mario Tennis: Ultra Smash",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioTennisUltraSmash_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioTennisUltraSmash_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "system": "Wii U",
             "developer": "Camelot",
@@ -416,8 +364,6 @@ export default {
         {
             "id": "1026141",
             "name": "Skylanders SuperChargers",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_SkylandersSuperChargers_image500w.jpg",
-            "squareImageUrl": "",
             "dateRelease": "2015-09-25T00:00:00Z",
             "system": "Wii U",
             "developer": "Vicarious Visions",
@@ -431,8 +377,6 @@ export default {
         {
             "id": "1026143",
             "name": "Mario & Luigi: Paper Jam Bros.",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndLuigiPaperJamBros_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiPaperJamBros_image500w.jpg",
             "dateRelease": "2015-12-04T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "AlphaDream",
@@ -446,8 +390,6 @@ export default {
         {
             "id": "1026451",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioAndSonicAtTheRio2016OlympicGames_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
             "dateRelease": "2016-06-24T00:00:00Z",
             "system": "Wii U",
             "developer": "SEGA",
@@ -464,8 +406,6 @@ export default {
         {
             "id": "1026505",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
             "dateRelease": "2016-04-08T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "SEGA",
@@ -482,8 +422,6 @@ export default {
         {
             "id": "1054663",
             "name": "Nintendo presents: New Style Boutique 2 - Fashion Forward",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique2FashionForward_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique2FashionForward_enGB_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "syn Sophia",
@@ -499,8 +437,6 @@ export default {
         {
             "id": "1062553",
             "name": "Mega Man Legacy Collection",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_MegaManLegacyCollection_image500w.jpg",
-            "squareImageUrl": "",
             "dateRelease": "2016-02-23T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Digital Eclipse",
@@ -515,8 +451,6 @@ export default {
         {
             "id": "1081362",
             "name": "Word Puzzles by POWGI",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image500w.jpg",
-            "squareImageUrl": "",
             "dateRelease": "2016-01-28T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -530,8 +464,6 @@ export default {
         {
             "id": "1081363",
             "name": "Word Puzzles by POWGI",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image500w.jpg",
-            "squareImageUrl": "",
             "dateRelease": "2016-01-28T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -545,8 +477,6 @@ export default {
         {
             "id": "1082222",
             "name": "The Legend of Zelda: Twilight Princess HD",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaTwilightPrincessHD_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaTwilightPrincessHD_image500w.jpg",
             "dateRelease": "2016-03-04T00:00:00Z",
             "system": "Wii U",
             "developer": "Nintendo",
@@ -562,8 +492,6 @@ export default {
         {
             "id": "1086374",
             "name": "Pokkén Tournament",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_PokkenTournament_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_PokkenTournamentv2_700x700_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "system": "Wii U",
             "developer": "BANDAI NAMCO Entertainment",
@@ -579,8 +507,6 @@ export default {
         {
             "id": "1091342",
             "name": "Kirby: Planet Robobot",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyPlanetRobobot_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyPlanetRobobot_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "HAL Laboratory, Inc",
@@ -595,8 +521,6 @@ export default {
         {
             "id": "1091572",
             "name": "Star Fox Guard",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_StarFoxGuard_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxGuard_image500w.jpg",
             "dateRelease": "2016-04-22T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -613,8 +537,6 @@ export default {
         {
             "id": "1101292",
             "name": "Mini Mario & Friends: amiibo Challenge",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
             "dateRelease": "2016-04-28T00:00:00Z",
             "system": "Wii U",
             "developer": "Nintendo",
@@ -627,8 +549,6 @@ export default {
         {
             "id": "1101346",
             "name": "Mini Mario & Friends: amiibo Challenge",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
             "dateRelease": "2016-04-28T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Nintendo",
@@ -641,8 +561,6 @@ export default {
         {
             "id": "1109483",
             "name": "Teddy Together",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_TeddyTogether_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_TeddyTogether_enGB_image500w.jpg",
             "dateRelease": "2016-07-01T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Arika",
@@ -656,8 +574,6 @@ export default {
         {
             "id": "1114009",
             "name": "Mario Party: Star Rush",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyStarRush_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyStarRush_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -672,8 +588,6 @@ export default {
         {
             "id": "1125616",
             "name": "Metroid Prime: Blast Ball",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
             "dateRelease": "2016-07-21T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -689,8 +603,6 @@ export default {
         {
             "id": "1132221",
             "name": "Azure Striker GUNVOLT 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
             "dateRelease": "2016-09-29T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Inti Creates",
@@ -704,8 +616,6 @@ export default {
         {
             "id": "1136168",
             "name": "Picross 3D: Round 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Picross3DRound2_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Picross3DRound2_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -718,8 +628,6 @@ export default {
         {
             "id": "1136169",
             "name": "Hey! PIKMIN",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HeyPikmin_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HeyPikmin_image500w.jpg",
             "dateRelease": "2017-07-28T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Arzest",
@@ -735,8 +643,6 @@ export default {
         {
             "id": "1136171",
             "name": "Poochy & Yoshi's Woolly World",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_PoochyAndYoshisWoollyWorld_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_PoochyAndYoshisWoollyWorld_image500w.jpg",
             "dateRelease": "2017-02-03T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Good-Feel",
@@ -751,8 +657,6 @@ export default {
         {
             "id": "1136172",
             "name": "Mario Sports Superstars",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioSportsSuperstars_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioSportsSuperstars_image500w.jpg",
             "dateRelease": "2017-03-10T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -767,8 +671,6 @@ export default {
         {
             "id": "1173281",
             "name": "Mario Kart 8 Deluxe",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioKart8Deluxe_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioKart8Deluxe_image500w.jpg",
             "dateRelease": "2017-04-28T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -784,8 +686,6 @@ export default {
         {
             "id": "1173295",
             "name": "Splatoon 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Splatoon2_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Splatoon2_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -800,8 +700,6 @@ export default {
         {
             "id": "1173332",
             "name": "Super Mario Odyssey",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioOdyssey_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioOdyssey_image500w.jpg",
             "dateRelease": "2017-10-27T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -818,8 +716,6 @@ export default {
         {
             "id": "1173609",
             "name": "The Legend of Zelda: Breath of the Wild",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheLegendOfZeldaBreathOfTheWild_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "Nintendo",
@@ -835,8 +731,6 @@ export default {
         {
             "id": "1175211",
             "name": "Fire Emblem Echoes: Shadows of Valentia",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_FireEmblemEchoesShadowsOfValentia_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemEchoes_image500w.jpg",
             "dateRelease": "2017-05-19T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Intelligent Systems",
@@ -852,8 +746,6 @@ export default {
         {
             "id": "1175315",
             "name": "Fire Emblem Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_FireEmblemWarriors_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "KOEI TECMO GAMES",
@@ -868,8 +760,6 @@ export default {
         {
             "id": "1175329",
             "name": "Fire Emblem Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_FireEmblemWarriors_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "system": "New Nintendo 3DS",
             "developer": "KOEI TECMO GAMES",
@@ -884,8 +774,6 @@ export default {
         {
             "id": "1177455",
             "name": "The Elder Scrolls V: Skyrim",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_TheElderScrollsVSkyrim_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_TheElderScrollsVSkyrim_image500w.jpg",
             "dateRelease": "2017-11-17T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -899,8 +787,6 @@ export default {
         {
             "id": "1200313",
             "name": "Shovel Knight: Treasure Trove",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -915,8 +801,6 @@ export default {
         {
             "id": "1203712",
             "name": "BYE-BYE BOXBOY!",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
             "dateRelease": "2017-03-23T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "HAL Laboratory, Inc.",
@@ -930,8 +814,6 @@ export default {
         {
             "id": "1213275",
             "name": "Team Kirby Clash Deluxe",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
             "dateRelease": "2017-04-13T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "HAL Laboratory, Inc.",
@@ -946,8 +828,6 @@ export default {
         {
             "id": "1214727",
             "name": "Kirby's Blowout Blast",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
             "dateRelease": "2017-07-06T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "HAL Laboratory, Inc.",
@@ -963,8 +843,6 @@ export default {
         {
             "id": "1225809",
             "name": "Miitopia",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Miitopia_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Miitopia_image500w.jpg",
             "dateRelease": "2017-07-28T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -978,8 +856,6 @@ export default {
         {
             "id": "1231536",
             "name": "Pokkén Tournament DX",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_PokkenTournamentDX_image500w.jpg",
             "dateRelease": "2017-09-22T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "BANDAI NAMCO Entertainment",
@@ -994,8 +870,6 @@ export default {
         {
             "id": "1233954",
             "name": "Mario + Rabbids Kingdom Battle",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_MarioAndRabbidsKingdomBattle_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MarioAndRabbidsKingdomBattle_EU_image500w.jpg",
             "dateRelease": "2017-08-29T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "Ubisoft Paris / Ubisoft Milan / Ubisoft Montpellier / Ubisoft Bucharest",
@@ -1011,8 +885,6 @@ export default {
         {
             "id": "1233956",
             "name": "Kirby Star Allies",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_KirbyStarAllies_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_KirbyStarAllies_image500w.jpg",
             "dateRelease": "2018-03-16T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "HAL Laboratory, Inc",
@@ -1029,8 +901,6 @@ export default {
         {
             "id": "1234232",
             "name": "Metroid: Samus Returns",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidSamusReturns_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidSamusReturns_image500w.jpg",
             "dateRelease": "2017-09-15T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "MercurySteam Entertainment / Nintendo",
@@ -1047,8 +917,6 @@ export default {
         {
             "id": "1234324",
             "name": "Mario & Luigi: Superstar Saga + Bowser's Minions",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioLuigi_SuperstarSaga_UKV_image500w.png",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiSuperstarSagaPlusBowsersMinions_enGB_image500w.jpg",
             "dateRelease": "2017-10-06T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "ALPHADREAM",
@@ -1065,8 +933,6 @@ export default {
         {
             "id": "1260979",
             "name": "Azure Striker GUNVOLT: STRIKER PACK",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_AzureStrikerGunvoltStrickerPack_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_AzureStrikerGunvoltStrickerPack_image500w.jpg",
             "dateRelease": "2017-12-01T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -1079,8 +945,6 @@ export default {
         {
             "id": "1264661",
             "name": "Kirby Battle Royale",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyBattleRoyale_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyBattleRoyale_image500w.jpg",
             "dateRelease": "2017-11-03T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "HAL Laboratory, Inc.",
@@ -1096,8 +960,6 @@ export default {
         {
             "id": "1275927",
             "name": "Mario Party: The Top 100",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyTheTop100_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyTheTop100_image500w.jpg",
             "dateRelease": "2017-12-22T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -1113,8 +975,6 @@ export default {
         {
             "id": "1275928",
             "name": "Nintendo presents: New Style Boutique 3 – Styling Star",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique3StylingStar_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique3StylingStar_enGB_image500w.jpg",
             "dateRelease": "2017-11-24T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -1130,8 +990,6 @@ export default {
         {
             "id": "1313750",
             "name": "Bayonetta 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_Bayonetta2_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_Bayonetta2_image500w.jpg",
             "dateRelease": "2018-02-16T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "PlatinumGames",
@@ -1146,8 +1004,6 @@ export default {
         {
             "id": "1325790",
             "name": "Dark Souls: Remastered",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_DarkSoulsRemastered_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_DarkSoulsRemastered_image500w.jpg",
             "dateRelease": "2018-10-19T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "FromSoftware",
@@ -1161,8 +1017,6 @@ export default {
         {
             "id": "1325999",
             "name": "Hyrule Warriors: Definitive Edition",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_HyruleWarriorsDefinitiveEdition_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_HyruleWarriorsDefinitiveEdition_image500w.jpg",
             "dateRelease": "2018-05-18T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "KOEI TECMO GAMES CO., LTD.",
@@ -1178,8 +1032,6 @@ export default {
         {
             "id": "1329566",
             "name": "Detective Pikachu",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_DetectivePikachu_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_DetectivePikachu_enGB_image500w.jpg",
             "dateRelease": "2018-03-23T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "The Pokémon Company",
@@ -1194,8 +1046,6 @@ export default {
         {
             "id": "1347594",
             "name": "Little Nightmares Complete Edition",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_LittleNightmaresCompleteEdition_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_LittleNightmaresCompleteEdition_image500w.jpg",
             "dateRelease": "2018-05-18T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -1210,8 +1060,6 @@ export default {
         {
             "id": "1348071",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_CaptainToadTreasureTracker_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -1225,8 +1073,6 @@ export default {
         {
             "id": "1348072",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CaptainToadTreasureTracker_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -1240,8 +1086,6 @@ export default {
         {
             "id": "1348073",
             "name": "WarioWare Gold",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_WarioWareGold_UKV_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_WarioWareGold_image500w.jpg",
             "dateRelease": "2018-07-27T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "Nintendo / INTELLIGENT SYSTEMS",
@@ -1257,8 +1101,6 @@ export default {
         {
             "id": "1348382",
             "name": "Luigi's Mansion",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_LuigisMansion_enGB_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_LuigisMansion_image500w.jpg",
             "dateRelease": "2018-10-19T00:00:00Z",
             "system": "Nintendo 3DS",
             "developer": "",
@@ -1272,8 +1114,6 @@ export default {
         {
             "id": "1375284",
             "name": "Mega Man Legacy Collection",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_MegaManLegacyCollection_image500w.jpg",
             "dateRelease": "2018-05-22T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -1287,8 +1127,6 @@ export default {
         {
             "id": "1375285",
             "name": "Mega Man Legacy Collection 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MegaManLegacyCollection2_image500w.jpg",
             "dateRelease": "2018-05-22T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "",
@@ -1302,8 +1140,6 @@ export default {
         {
             "id": "1388641",
             "name": "Super Mario Party",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioParty_PEGI_image500w.jpg",
-            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioParty_image500w.jpg",
             "dateRelease": "2018-10-05T00:00:00Z",
             "system": "Nintendo Switch",
             "developer": "Nintendo",
@@ -1322,7 +1158,6 @@ export default {
             "id": "932503",
             "number": "AAAA",
             "name": "Mario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_Mario_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -1593,7 +1428,6 @@ export default {
             "id": "932505",
             "number": "AAAB",
             "name": "Peach",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_peach_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -1856,7 +1690,6 @@ export default {
             "id": "932510",
             "number": "AAAC",
             "name": "Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_yoshi_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -2103,7 +1936,6 @@ export default {
             "id": "932499",
             "number": "AAAD",
             "name": "Donkey Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_DonkeyKong_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -2342,7 +2174,6 @@ export default {
             "id": "932502",
             "number": "AAAE",
             "name": "Link",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_link_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -2581,7 +2412,6 @@ export default {
             "id": "932500",
             "number": "AAAF",
             "name": "Fox",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_fox_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -2810,7 +2640,6 @@ export default {
             "id": "932507",
             "number": "AAAG",
             "name": "Samus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_samus_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -3049,7 +2878,6 @@ export default {
             "id": "932509",
             "number": "AAAH",
             "name": "Wii Fit Trainer",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_WiiFitTrainer_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -3257,7 +3085,6 @@ export default {
             "id": "932508",
             "number": "AAAJ",
             "name": "Villager",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_villager_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -3485,7 +3312,6 @@ export default {
             "id": "932506",
             "number": "AAAK",
             "name": "Pikachu",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_pikachu_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -3687,7 +3513,6 @@ export default {
             "id": "932501",
             "number": "AAAL",
             "name": "Kirby",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_kirby_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -3922,7 +3747,6 @@ export default {
             "id": "932504",
             "number": "AAAM",
             "name": "Marth",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_marth_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -4134,7 +3958,6 @@ export default {
             "id": "933972",
             "number": "AAAN",
             "name": "Luigi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_Luigi_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -4400,7 +4223,6 @@ export default {
             "id": "933970",
             "number": "AAAP",
             "name": "Diddy Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_DiddyKong_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -4618,7 +4440,6 @@ export default {
             "id": "933974",
             "number": "AAAQ",
             "name": "Zelda",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_Zelda_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -4841,7 +4662,6 @@ export default {
             "id": "933971",
             "number": "AAAR",
             "name": "Little Mac",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_LittleMac_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -5044,7 +4864,6 @@ export default {
             "id": "933973",
             "number": "AAAS",
             "name": "Pit",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_Pit_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -5246,7 +5065,6 @@ export default {
             "id": "933969",
             "number": "AAAU",
             "name": "Captain Falcon",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_WiiU_Amiibo_Figures_CaptainFalcon_image500w.jpg",
             "dateRelease": "2014-12-19T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -5469,7 +5287,6 @@ export default {
             "id": "935147",
             "number": "AAAT",
             "name": "Lucario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_Lucario_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -5671,7 +5488,6 @@ export default {
             "id": "935148",
             "number": "AAAV",
             "name": "Rosalina",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_Rosetta_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -5914,7 +5730,6 @@ export default {
             "id": "935145",
             "number": "AAAW",
             "name": "Bowser",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_Koopa_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -6173,7 +5988,6 @@ export default {
             "id": "935150",
             "number": "AAAY",
             "name": "Toon Link",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_ToonLink_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -6412,7 +6226,6 @@ export default {
             "id": "935149",
             "number": "AAAZ",
             "name": "Sheik",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_Sheik_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -6635,7 +6448,6 @@ export default {
             "id": "935146",
             "number": "AABA",
             "name": "Ike",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch3_Ike_image500w.jpg",
             "dateRelease": "2015-01-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -6847,7 +6659,6 @@ export default {
             "id": "935153",
             "number": "AABR",
             "name": "Meta Knight",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch4_MetaKnight_image500w.jpg",
             "dateRelease": "2015-02-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -7072,7 +6883,6 @@ export default {
             "id": "935151",
             "number": "AABS",
             "name": "King Dedede",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch4_KingDedede_image500w.jpg",
             "dateRelease": "2015-02-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -7297,7 +7107,6 @@ export default {
             "id": "935154",
             "number": "AABV",
             "name": "Shulk",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch4_Shulk_image500w.jpg",
             "dateRelease": "2015-02-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -7504,7 +7313,6 @@ export default {
             "id": "935155",
             "number": "AACA",
             "name": "Sonic",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch4_Sonic_image500w.jpg",
             "dateRelease": "2015-02-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -7721,7 +7529,6 @@ export default {
             "id": "935152",
             "number": "AACB",
             "name": "Mega Man",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Figures_Gallery_SSBBatch4_MegaMan_image500w.jpg",
             "dateRelease": "2015-02-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -7948,7 +7755,6 @@ export default {
             "id": "951724",
             "number": "ABAA",
             "name": "Mario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_01_Mario_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -8223,7 +8029,6 @@ export default {
             "id": "951723",
             "number": "ABAB",
             "name": "Luigi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_04_Luigi_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -8493,7 +8298,6 @@ export default {
             "id": "951725",
             "number": "ABAC",
             "name": "Peach",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_02_Peach_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -8756,7 +8560,6 @@ export default {
             "id": "951727",
             "number": "ABAD",
             "name": "Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_05_Yoshi_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -9003,7 +8806,6 @@ export default {
             "id": "951722",
             "number": "ABAF",
             "name": "Bowser",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_06_Bowser_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -9266,7 +9068,6 @@ export default {
             "id": "951726",
             "number": "ABAF",
             "name": "Toad",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_SMCBatch1_03_Toad_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -9504,7 +9305,6 @@ export default {
             "id": "951484",
             "number": "AABC",
             "name": "Wario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_32_SSBBatch5_Wario_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -9732,7 +9532,6 @@ export default {
             "id": "951479",
             "number": "AABN",
             "name": "Charizard",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_33_SSBBatch5_Charizard_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -9934,7 +9733,6 @@ export default {
             "id": "951480",
             "number": "AABT",
             "name": "Lucina",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_31_SSBBatch5_Lucina_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -10145,7 +9943,6 @@ export default {
             "id": "951483",
             "number": "AABU",
             "name": "Robin",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_30_SSBBatch5_Robin_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -10357,7 +10154,6 @@ export default {
             "id": "951481",
             "number": "AABW",
             "name": "Ness",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_34_SSBBatch5_Ness_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -10559,7 +10355,6 @@ export default {
             "id": "951482",
             "number": "AACC",
             "name": "PAC-MAN",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_35_SSBBatch5_PacMan_image500w.jpg",
             "dateRelease": "2015-04-24T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -10780,7 +10575,6 @@ export default {
             "id": "980854",
             "number": "AABP",
             "name": "Greninja",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/08_content_images/others_2/amiibo_5/old/CI16_Amiibo_36_SSBBatch6_Gekkouga_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -10982,7 +10776,6 @@ export default {
             "id": "980857",
             "number": "AABQ",
             "name": "Jigglypuff",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/08_content_images/others_2/amiibo_5/CI16_Amiibo_37_SSBBatch6_Purin_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -11184,7 +10977,6 @@ export default {
             "id": "980984",
             "number": "AEAA",
             "name": "Inkling Girl",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_girl_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -11396,7 +11188,6 @@ export default {
             "id": "1105069",
             "number": "AEAB",
             "name": "Inkling Boy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_boy_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -11608,7 +11399,6 @@ export default {
             "id": "980985",
             "number": "AEAC",
             "name": "Inkling Squid",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_squid_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -11820,7 +11610,6 @@ export default {
             "id": "980853",
             "number": "AABD",
             "name": "Ganondorf",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_41_SSBBatch6_Ganondorf_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -12038,7 +11827,6 @@ export default {
             "id": "980850",
             "number": "AABF",
             "name": "Zero Suit Samus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_40_SSBBatch6_ZeroSuitSamus_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -12277,7 +12065,6 @@ export default {
             "id": "980855",
             "number": "AABH",
             "name": "Palutena",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/08_content_images/others_2/amiibo_5/CI16_Amiibo_38_SSBBatch6_Palutena_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -12480,7 +12267,6 @@ export default {
             "id": "980852",
             "number": "AABJ",
             "name": "Dark Pit",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/08_content_images/others_2/amiibo_5/CI16_Amiibo_39_SSBBatch6_DarkPit_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -12682,7 +12468,6 @@ export default {
             "id": "980847",
             "number": "YAAA",
             "name": "Green Yarn Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Yoshi_Woolly_world_green_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Yoshi's Woolly World Collection",
             "gameSeries": [
@@ -12924,7 +12709,6 @@ export default {
             "id": "980849",
             "number": "YAAB",
             "name": "Pink Yarn Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Yoshi_Woolly_world_pink_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Yoshi's Woolly World Collection",
             "gameSeries": [
@@ -13166,7 +12950,6 @@ export default {
             "id": "980848",
             "number": "YAAC",
             "name": "Light-Blue Yarn Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Yoshi_Woolly_world_light-blue_image500w.jpg",
             "dateRelease": "2015-06-26T00:00:00Z",
             "collection": "Yoshi's Woolly World Collection",
             "gameSeries": [
@@ -13408,7 +13191,6 @@ export default {
             "id": "980851",
             "number": "AAAX",
             "name": "Bowser Jr.",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_43_SSBBatch6_BowserJr_image500w.jpg",
             "dateRelease": "2015-07-17T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -13637,7 +13419,6 @@ export default {
             "id": "980858",
             "number": "AABB",
             "name": "Dr. Mario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_42_SSBBatch6_DrMario_image500w.jpg",
             "dateRelease": "2015-07-17T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -13903,7 +13684,6 @@ export default {
             "id": "980856",
             "number": "AABG",
             "name": "Olimar",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_44_SSBBatch6_Olimar_image500w.jpg",
             "dateRelease": "2015-07-17T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -14121,7 +13901,6 @@ export default {
             "id": "1026907",
             "number": "AFAA",
             "name": "Mario (Classic Colours)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_mario_30th_anniversary_marioclassic_image500w.jpg",
             "dateRelease": "2015-09-11T00:00:00Z",
             "collection": "Mario 30th Anniversary Collection",
             "gameSeries": [
@@ -14387,7 +14166,6 @@ export default {
             "id": "1025035",
             "number": "AABK",
             "name": "Mii Brawler",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_48_ssbbatch7_miibrawler_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -14583,7 +14361,6 @@ export default {
             "id": "1025036",
             "number": "AABL",
             "name": "Mii Sword Fighter ",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_49_ssbbatch7_miiswordfighter_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -14779,7 +14556,6 @@ export default {
             "id": "1025034",
             "number": "AABM",
             "name": "Mii Gunner",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_50_ssbbatch7_miigunner_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -14975,7 +14751,6 @@ export default {
             "id": "1025037",
             "number": "AABX",
             "name": "Mr. Game & Watch",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_45_ssbbatch7_mrgameandwatch_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -15177,7 +14952,6 @@ export default {
             "id": "1025032",
             "number": "AABZ",
             "name": "Duck Hunt Duo",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_47_ssbbatch7_duckhuntduo_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -15379,7 +15153,6 @@ export default {
             "id": "1025038",
             "number": "AACD",
             "name": "R.O.B.",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_46_ssbbatch7_ROB_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -15581,7 +15354,6 @@ export default {
             "id": "1093728",
             "number": "ZZZZ",
             "name": "Hammer Slam Bowser",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_SkylandersSuperChargers_Hammer_Slam_Bowser_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Skylanders SuperChargers",
             "gameSeries": [
@@ -15841,7 +15613,6 @@ export default {
             "id": "1093727",
             "number": "ZZZZ",
             "name": "Turbo Charge Donkey Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_SkylandersSuperChargers_Turbo_Charge_DonkeyKong_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Skylanders SuperChargers",
             "gameSeries": [
@@ -16077,7 +15848,6 @@ export default {
         {
             "id": "1252128",
             "name": "Turbo Charge Donkey Kong Dark",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Skylanders_TurboChargeDonkeyKongDark_image500w.jpg",
             "dateRelease": "2015-09-25T00:00:00Z",
             "collection": "Skylanders SuperChargers",
             "gameSeries": [
@@ -16309,7 +16079,6 @@ export default {
             "id": "1048086",
             "number": "111111",
             "name": "Animal Crossing amiibo cards series 1",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_ACCards_Batch1_image500w.jpg",
             "dateRelease": "2015-10-02T00:00:00Z",
             "collection": "Animal Crossing amiibo cards",
             "gameSeries": [
@@ -16506,7 +16275,6 @@ export default {
             "id": "1044050",
             "number": "AACE",
             "name": "Mewtwo",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_51_SSBBatch10_Mewtwo_image500w.jpg",
             "dateRelease": "2015-10-23T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -16708,7 +16476,6 @@ export default {
             "id": "1026908",
             "number": "AFAB",
             "name": "Mario (Modern Colours)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_mario_30th_anniversary_mariomodern_image500w.jpg",
             "dateRelease": "2015-10-23T00:00:00Z",
             "collection": "Mario 30th Anniversary Collection",
             "gameSeries": [
@@ -16974,7 +16741,6 @@ export default {
             "id": "1027025",
             "number": "ACAA",
             "name": "Chibi-Robo",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_chibi_robo_image500w.jpg",
             "dateRelease": "2015-11-06T00:00:00Z",
             "collection": "Chibi-Robo Collection",
             "gameSeries": [
@@ -17165,7 +16931,6 @@ export default {
             "id": "1073379",
             "number": "111112",
             "name": "Animal Crossing amiibo cards series 2",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossingCards_Wave02_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing amiibo cards",
             "gameSeries": [
@@ -17362,7 +17127,6 @@ export default {
             "id": "1025033",
             "number": "AABE",
             "name": "Falco",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_52_ssbbatch7_falco_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -17576,7 +17340,6 @@ export default {
             "id": "1026902",
             "number": "AJAA",
             "name": "Isabelle",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_isabelle_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -17788,7 +17551,6 @@ export default {
             "id": "1026903",
             "number": "AJAB",
             "name": "K.K.",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_kk_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -18000,7 +17762,6 @@ export default {
             "id": "1026906",
             "number": "AJAC",
             "name": "Mabel",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_mabel_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -18212,7 +17973,6 @@ export default {
             "id": "1027017",
             "number": "AJAD",
             "name": "Tom Nook",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_tomnook_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -18424,7 +18184,6 @@ export default {
             "id": "1026901",
             "number": "AJAE",
             "name": "Digby",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_digby_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -18636,7 +18395,6 @@ export default {
             "id": "1026905",
             "number": "AJAF",
             "name": "Lottie",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_lottie_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -18848,7 +18606,6 @@ export default {
             "id": "1026904",
             "number": "AJAG",
             "name": "Reese",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_reese_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -19060,7 +18817,6 @@ export default {
             "id": "1026900",
             "number": "AJAH",
             "name": "Cyrus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/ci16_amiibo_animal_crossing_cyrus_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -19272,7 +19028,6 @@ export default {
             "id": "1045071",
             "number": "YAAD",
             "name": "Mega Yarn Yoshi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Yoshi_Woolly_world_giant_image500w.jpg",
             "dateRelease": "2015-11-27T00:00:00Z",
             "collection": "Yoshi's Woolly World Collection",
             "gameSeries": [
@@ -19514,7 +19269,6 @@ export default {
             "id": "1093729",
             "number": "XXXXX",
             "name": "Shovel Knight",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_ShovelKnight_image500w.jpg",
             "dateRelease": "2016-01-08T00:00:00Z",
             "collection": "Shovel Knight amiibo",
             "gameSeries": [
@@ -19725,7 +19479,6 @@ export default {
             "id": "1073381",
             "number": "AACF",
             "name": "Lucas",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Gallery_SuperSmashBrosCollection_Lucas~1_image500w.jpg",
             "dateRelease": "2016-01-29T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -19927,7 +19680,6 @@ export default {
             "id": "1073377",
             "number": "AJAJ",
             "name": "Blathers",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Blathers_image500w.jpg",
             "dateRelease": "2016-01-29T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -20139,7 +19891,6 @@ export default {
             "id": "1073378",
             "number": "AJAK",
             "name": "Celeste ",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Celeste_image500w.jpg",
             "dateRelease": "2016-01-29T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -20351,7 +20102,6 @@ export default {
             "id": "1073376",
             "number": "AJAL",
             "name": "Resetti",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Resetti_image500w.jpg",
             "dateRelease": "2016-01-29T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -20563,7 +20313,6 @@ export default {
             "id": "1073380",
             "number": "AJAM",
             "name": "Kicks ",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Kicks_image500w.jpg",
             "dateRelease": "2016-01-29T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -20775,7 +20524,6 @@ export default {
             "id": "1073374",
             "number": "AKAA",
             "name": "Wolf Link",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Zelda_Wolf-Link_image500w.jpg",
             "dateRelease": "2016-03-04T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -20978,7 +20726,6 @@ export default {
             "id": "1085768",
             "number": "111113",
             "name": "Animal Crossing amiibo cards series 3",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossingCards_Wave03_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Animal Crossing amiibo cards",
             "gameSeries": [
@@ -21175,7 +20922,6 @@ export default {
             "id": "1091382",
             "number": "211115",
             "name": "Shadow Mewtwo",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_PokkenTournament3_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Other",
             "gameSeries": [
@@ -21347,7 +21093,6 @@ export default {
             "id": "1077504",
             "number": "AABY",
             "name": "R.O.B. (Famicom Colours)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Gallery_SuperSmashBrosCollection_RobFamicom_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -21549,7 +21294,6 @@ export default {
             "id": "1077502",
             "number": "AACG",
             "name": "Roy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Gallery_SuperSmashBrosCollection_Roi_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -21745,7 +21489,6 @@ export default {
             "id": "1077503",
             "number": "AACH",
             "name": "Ryu",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Gallery_SuperSmashBrosCollection_Ryu_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -21941,7 +21684,6 @@ export default {
             "id": "1081908",
             "number": "AJAN",
             "name": "Isabelle (Summer Outfit)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_IsabelleSummer_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -22153,7 +21895,6 @@ export default {
             "id": "1081505",
             "number": "AJAP",
             "name": "Rover",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Rover_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -22365,7 +22106,6 @@ export default {
             "id": "1081506",
             "number": "AJAQ",
             "name": "Timmy & Tommy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_TimTom_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -22577,7 +22317,6 @@ export default {
             "id": "1081507",
             "number": "AJAR",
             "name": "Kapp'n",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossing_Kappn_image500w.jpg",
             "dateRelease": "2016-03-18T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -22789,7 +22528,6 @@ export default {
             "id": "1092892",
             "number": "ALAA",
             "name": "Kirby",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Kirby_char1_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "collection": "Kirby Collection",
             "gameSeries": [
@@ -23023,7 +22761,6 @@ export default {
             "id": "1092893",
             "number": "ALAB",
             "name": "Meta Knight",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Kirby_char2_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "collection": "Kirby Collection",
             "gameSeries": [
@@ -23247,7 +22984,6 @@ export default {
             "id": "1092894",
             "number": "ALAC",
             "name": "King Dedede",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Kirby_char3_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "collection": "Kirby Collection",
             "gameSeries": [
@@ -23471,7 +23207,6 @@ export default {
             "id": "1092891",
             "number": "ALAD",
             "name": "Waddle Dee",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Kirby_char4_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "collection": "Kirby Collection",
             "gameSeries": [
@@ -23670,7 +23405,6 @@ export default {
             "id": "1093492",
             "number": "111114",
             "name": "Animal Crossing amiibo cards series 4",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossingCards_Wave04_packshot_image500w.jpg",
             "dateRelease": "2016-06-17T00:00:00Z",
             "collection": "Animal Crossing amiibo cards",
             "gameSeries": [
@@ -23867,7 +23601,6 @@ export default {
             "id": "1104824",
             "number": "AEAD",
             "name": "Callie",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_Callie_image500w.jpg",
             "dateRelease": "2016-07-08T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -24079,7 +23812,6 @@ export default {
             "id": "1104825",
             "number": "AEAE",
             "name": "Marie",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_Marie_image500w.jpg",
             "dateRelease": "2016-07-08T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -24291,7 +24023,6 @@ export default {
             "id": "1104822",
             "number": "AEAF",
             "name": "Inkling Girl (Lime Green)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_girl_limegreen_image500w.jpg",
             "dateRelease": "2016-07-08T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -24503,7 +24234,6 @@ export default {
             "id": "1104826",
             "number": "AEAG",
             "name": "Inkling Boy (Purple)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_boy_purple_image500w.jpg",
             "dateRelease": "2016-07-08T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -24715,7 +24445,6 @@ export default {
             "id": "1104823",
             "number": "AEAH",
             "name": "Inkling Squid (Orange)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_Splatoon_squid_orange_image500w.jpg",
             "dateRelease": "2016-07-08T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -24927,7 +24656,6 @@ export default {
             "id": "1125634",
             "number": "ABAJ",
             "name": "Rosalina",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Rosalina_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -25169,7 +24897,6 @@ export default {
             "id": "1125635",
             "number": "ABAK",
             "name": "Wario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Wario_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -25401,7 +25128,6 @@ export default {
             "id": "1125633",
             "number": "ABAL",
             "name": "Donkey Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_DonkeyKong_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -25634,7 +25360,6 @@ export default {
             "id": "1125632",
             "number": "ABAQ",
             "name": "Boo",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Boo_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -25845,7 +25570,6 @@ export default {
             "id": "1125636",
             "number": "ABAM",
             "name": "Diddy Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_DiddyKong_image500w.jpg",
             "dateRelease": "2016-11-04T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -26063,7 +25787,6 @@ export default {
             "id": "1125627",
             "number": "ABAN",
             "name": "Daisy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Daisy_image500w.jpg",
             "dateRelease": "2016-11-04T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -26266,7 +25989,6 @@ export default {
             "id": "1125626",
             "number": "ABAP",
             "name": "Waluigi",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Waluigi_image500w.jpg",
             "dateRelease": "2016-11-04T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -26473,7 +26195,6 @@ export default {
             "id": "1136394",
             "number": "0000",
             "name": "Animal Crossing: New Leaf amiibo cards",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Packaging_image500w.jpg",
             "dateRelease": "2016-11-11T00:00:00Z",
             "collection": "Animal Crossing amiibo cards",
             "gameSeries": [
@@ -26590,7 +26311,6 @@ export default {
             "id": "1151647",
             "number": "111115",
             "name": "Animal Crossing: New Leaf - Sanrio Collaboration Pack",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_AnimalCrossingNewLeafCards_ND_group1_image500w.jpg",
             "dateRelease": "2016-11-25T00:00:00Z",
             "collection": "Animal Crossing Collection",
             "gameSeries": [
@@ -26767,7 +26487,6 @@ export default {
             "id": "1136389",
             "number": "AKAB",
             "name": "Link (Ocarina of Time)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_NVL_AK_char05_1_R_ad_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -27005,7 +26724,6 @@ export default {
             "id": "1136390",
             "number": "AKAF",
             "name": "Link (The Legend of Zelda)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_NVL_AK_char06_1_R_ad_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -27243,7 +26961,6 @@ export default {
             "id": "1136391",
             "number": "AKAG",
             "name": "Toon Link (The Wind Waker)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_NVL_AK_char07_1_R_ad_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -27481,7 +27198,6 @@ export default {
             "id": "1136392",
             "number": "AKAJ",
             "name": "Zelda (The Wind Waker)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_NVL_AK_char08_1_R_ad_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -27703,7 +27419,6 @@ export default {
             "id": "1136393",
             "number": "YAAE",
             "name": "Poochy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_NVL_YA_char05_R_ad_image500w.jpg",
             "dateRelease": "2017-02-03T00:00:00Z",
             "collection": "Yoshi's Woolly World Collection",
             "gameSeries": [
@@ -27890,7 +27605,6 @@ export default {
             "id": "1125629",
             "number": "AKAK",
             "name": "Link (Archer) ",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Zelda_Link1_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -28128,7 +27842,6 @@ export default {
             "id": "1125630",
             "number": "AKAL",
             "name": "Link (Rider)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Zelda_Link2_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -28366,7 +28079,6 @@ export default {
             "id": "1125631",
             "number": "AKAM",
             "name": "Guardian",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Zelda_E3-2016_amiibo_Zelda_Guardian_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -28563,7 +28275,6 @@ export default {
             "id": "1173403",
             "number": "AKAN",
             "name": "Zelda",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_TheLegendOfZeldaBreathOfTheWild_Zelda_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -28785,7 +28496,6 @@ export default {
             "id": "1173404",
             "number": "AKAU",
             "name": "Bokoblin",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_Amiibo_TheLegendOfZeldaBreathOfTheWild_Bokoblin_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -28982,7 +28692,6 @@ export default {
             "id": "1183287",
             "number": "0000",
             "name": "Mario Sports Superstars amiibo cards",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/PS_CTR_MarioSportsSuperStars_Envelope_image500w.jpg",
             "dateRelease": "2017-03-10T00:00:00Z",
             "collection": "Mario Sports Superstars",
             "gameSeries": [
@@ -29154,7 +28863,6 @@ export default {
             "id": "1175816",
             "number": "AQAA",
             "name": "Alm",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_FireEmblem_Alm_image500w.jpg",
             "dateRelease": "2017-05-19T00:00:00Z",
             "collection": "Fire Emblem Collection",
             "gameSeries": [
@@ -29340,7 +29048,6 @@ export default {
             "id": "1175817",
             "number": "AQAB",
             "name": "Celica",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_FireEmblem_Celica_image500w.jpg",
             "dateRelease": "2017-05-19T00:00:00Z",
             "collection": "Fire Emblem Collection",
             "gameSeries": [
@@ -29526,7 +29233,6 @@ export default {
             "id": "1222081",
             "number": "AKAC",
             "name": "Link (Majora's Mask)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Zelda_LinkMajorasMask_image500w.jpg",
             "dateRelease": "2017-06-23T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -29764,7 +29470,6 @@ export default {
             "id": "1222082",
             "number": "AKAD",
             "name": "Link (Twilight Princess)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Zelda_LinkTwilightPrincess_image500w.jpg",
             "dateRelease": "2017-06-23T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -30002,7 +29707,6 @@ export default {
             "id": "1222083",
             "number": "AKAE",
             "name": "Link (Skyward Sword)",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Zelda_LinkSkywardSword_image500w.jpg",
             "dateRelease": "2017-06-23T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -30240,7 +29944,6 @@ export default {
             "id": "1222088",
             "number": "AACK",
             "name": "Cloud",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Cloud_1_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -30437,7 +30140,6 @@ export default {
             "id": "1222093",
             "number": "AACL",
             "name": "Corrin",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Corrin_1_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -30634,7 +30336,6 @@ export default {
             "id": "1222090",
             "number": "AACM",
             "name": "Bayonetta",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Bayonetta_1_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -30832,7 +30533,6 @@ export default {
             "id": "1222089",
             "number": "AACN",
             "name": "Cloud - Player 2",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Cloud_2_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -31029,7 +30729,6 @@ export default {
             "id": "1222092",
             "number": "AACP",
             "name": "Corrin - Player 2",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Corrin_2_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -31226,7 +30925,6 @@ export default {
             "id": "1222091",
             "number": "AACQ",
             "name": "Bayonetta - Player 2",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_SuperSmashBrosCollection_Bayonetta_2_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -31424,7 +31122,6 @@ export default {
             "id": "1222085",
             "number": "AEAJ",
             "name": "Inkling Girl",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Splatoon_GirlNeonPink_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -31636,7 +31333,6 @@ export default {
             "id": "1222087",
             "number": "AEAK",
             "name": "Inkling Boy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Splatoon_BoyNeonGreen_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -31848,7 +31544,6 @@ export default {
             "id": "1222086",
             "number": "AEAL",
             "name": "Inkling Squid",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Splatoon_SquidNeonPurple_image500w.jpg",
             "dateRelease": "2017-07-21T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -32060,7 +31755,6 @@ export default {
             "id": "1222084",
             "number": "APAA",
             "name": "Pikmin",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Gallery_Pikmin_Pikmin_image500w.jpg",
             "dateRelease": "2017-07-28T00:00:00Z",
             "collection": "Pikmin Collection",
             "gameSeries": [
@@ -32256,7 +31950,6 @@ export default {
         {
             "id": "1239436",
             "name": "Samus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Metroid_Samus_image500w.jpg",
             "dateRelease": "2017-09-15T00:00:00Z",
             "collection": "Metroid Collection",
             "gameSeries": [
@@ -32483,7 +32176,6 @@ export default {
         {
             "id": "1239435",
             "name": "Metroid",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_Metroid_Metroid_image500w.jpg",
             "dateRelease": "2017-09-15T00:00:00Z",
             "collection": "Metroid Collection",
             "gameSeries": [
@@ -32679,7 +32371,6 @@ export default {
         {
             "id": "1239442",
             "name": "Goomba",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_Goomba_image500w.jpg",
             "dateRelease": "2017-10-06T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -32877,7 +32568,6 @@ export default {
         {
             "id": "1239443",
             "name": "Koopa Troopa",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_KoopaTroopa_image500w.jpg",
             "dateRelease": "2017-10-06T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -33069,7 +32759,6 @@ export default {
         {
             "id": "1239438",
             "name": "Chrom",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_FireEmblem_Chrom_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "collection": "Fire Emblem Collection",
             "gameSeries": [
@@ -33249,7 +32938,6 @@ export default {
         {
             "id": "1239437",
             "name": "Tiki",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_FireEmblem_Tiki_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "collection": "Fire Emblem Collection",
             "gameSeries": [
@@ -33429,7 +33117,6 @@ export default {
         {
             "id": "1239439",
             "name": "Bowser",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_BowserWedding_image500w.jpg",
             "dateRelease": "2017-10-27T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -33676,7 +33363,6 @@ export default {
         {
             "id": "1239441",
             "name": "Mario",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_MarioWedding_image500w.jpg",
             "dateRelease": "2017-10-27T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -33935,7 +33621,6 @@ export default {
         {
             "id": "1239440",
             "name": "Peach",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_PeachWedding_image500w.jpg",
             "dateRelease": "2017-10-27T00:00:00Z",
             "collection": "Super Mario Collection",
             "gameSeries": [
@@ -34186,7 +33871,6 @@ export default {
         {
             "id": "1239432",
             "name": "Mipha",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Mipha_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -34372,7 +34056,6 @@ export default {
         {
             "id": "1239431",
             "name": "Daruk",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Daruk_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -34558,7 +34241,6 @@ export default {
         {
             "id": "1239433",
             "name": "Revali",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Revali_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -34744,7 +34426,6 @@ export default {
         {
             "id": "1239434",
             "name": "Urbosa",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Urbosa_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -34931,7 +34612,6 @@ export default {
             "id": "1335555",
             "number": "ASAA",
             "name": "Detective Pikachu",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_3DS_DetectivePikachu_Amiibo_image500w.jpg",
             "dateRelease": "2018-03-23T00:00:00Z",
             "collection": "Detective Pikachu amiibo",
             "gameSeries": [
@@ -35121,7 +34801,6 @@ export default {
             "id": "1368234",
             "number": "ZZZZZZ",
             "name": "Marina",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_Marina_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -35323,7 +35002,6 @@ export default {
             "id": "1368233",
             "number": "ZZZZZZ",
             "name": "Pearl",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_Pearl_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -35525,7 +35203,6 @@ export default {
             "id": "1401278",
             "number": "ATAA",
             "name": "Solaire of Astora",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_DarkSoulsRemastered_Amiibo_SolaireOfAstora_image500w.jpg",
             "dateRelease": "2018-10-19T00:00:00Z",
             "collection": "Other",
             "gameSeries": [
@@ -35726,7 +35403,6 @@ export default {
             "id": "1401276",
             "number": "AEAP",
             "name": "Octoling girl",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingGirl_image500w.jpg",
             "dateRelease": "2018-11-09T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -35917,7 +35593,6 @@ export default {
             "id": "1401275",
             "number": "AEAQ",
             "name": "Octoling boy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingBoy_image500w.jpg",
             "dateRelease": "2018-11-09T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -36108,7 +35783,6 @@ export default {
             "id": "1401277",
             "number": "AEAR",
             "name": "Octoling Octopus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingOctopus_image500w.jpg",
             "dateRelease": "2018-11-09T00:00:00Z",
             "collection": "Splatoon Collection",
             "gameSeries": [
@@ -36299,7 +35973,6 @@ export default {
             "id": "1404360",
             "number": "AACV",
             "name": "Wolf",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_SuperSmashBrosUltimate_Amiibo_StarfoxWolf_image500w.jpg",
             "dateRelease": "2018-12-07T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -36481,7 +36154,6 @@ export default {
             "id": "1403528",
             "number": "AACW",
             "name": "Ridley",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_SuperSmashBrosUltimate_Amiibo_Ridley_image500w.jpg",
             "dateRelease": "2018-12-07T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [
@@ -36662,7 +36334,6 @@ export default {
             "id": "1403529",
             "number": "AACZ",
             "name": "Inkling",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_SuperSmashBrosUltimate_Amiibo_Inkling_image500w.jpg",
             "dateRelease": "2018-12-07T00:00:00Z",
             "collection": "Super Smash Bros. Collection",
             "gameSeries": [

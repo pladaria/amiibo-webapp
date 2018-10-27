@@ -5,10 +5,15 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "node-fetch": "^2.2.0"
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.2.0",
+    "rimraf": "^2.6.2"
   },
   "scripts": {
-    "clean": "rm -rf dump amiibo-data.ts",
-    "dump": ". dump-data.sh && node index.js && cp amiibo-data.ts ../webapp/src/data/amiibo-data.ts"
+    "clean": "rimraf dump amiibo-data.ts",
+    "_dump": ". dump-data.sh && node index.js && node fetch-images.js",
+    "_copy-data": "cp amiibo-data.ts ../webapp/src/data/amiibo-data.ts",
+    "_copy-images": "rimraf ../webapp/public/images && mkdirp ../webapp/public/images && cp -rv dump/images/* ../webapp/public/images",
+    "start": "yarn _dump && yarn _copy-data && yarn _copy-images"
   }
 }

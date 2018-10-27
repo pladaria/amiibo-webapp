@@ -118,12 +118,33 @@ allAmiibos.forEach(amiibo => {
 });
 
 writeFileSync(
+    'amiibo-data.json',
+    JSON.stringify(
+        {
+            games: Object.values(allGames),
+            amiibos: allAmiibos,
+        },
+        null,
+        4
+    )
+);
+
+writeFileSync(
     'amiibo-data.ts',
     'export default ' +
         JSON.stringify(
             {
-                games: Object.values(allGames),
-                amiibos: allAmiibos,
+                games: Object.values(allGames).map(game => {
+                    const res = { ...game };
+                    delete res.squareImageUrl;
+                    delete res.imageUrl;
+                    return res;
+                }),
+                amiibos: allAmiibos.map(amiibo => {
+                    const res = { ...amiibo };
+                    delete res.figureImageUrl;
+                    return res;
+                }),
             },
             null,
             4
