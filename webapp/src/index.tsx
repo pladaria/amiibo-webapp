@@ -8,10 +8,12 @@ import registerServiceWorker from './registerServiceWorker';
 // @ts-ignore
 import 'pwacompat/pwacompat.min.js';
 import ScrollMemory from './components/scroll-memory';
+import Analytics from './components/analytics';
 
 ReactDOM.render(
     <HashRouter>
         <>
+            <Analytics />
             <ScrollMemory />
             <Switch>
                 <Route path="/(amiibos|games)/:id?" component={App} />
