@@ -1,6 +1,10 @@
 import * as React from 'react';
 import Carousel from './carousel';
-import { getAmiibosGroupedByCollection } from '../data/amiibos';
+import {
+    getAmiibosGroupedByCollection,
+    getAmiiboImage,
+    Amiibo,
+} from '../data/amiibos';
 import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
@@ -25,20 +29,10 @@ const styleName: React.CSSProperties = {
     textAlign: 'center',
 };
 
-interface AmiiboProps {
-    figureImageUrl: string;
-    name: string;
-    id: string;
-}
-
-const Amiibo: React.StatelessComponent<AmiiboProps> = ({
-    figureImageUrl,
-    name,
-    id,
-}) => (
-    <div style={styleAmiiboContainer} key={figureImageUrl}>
+const Amiibo: React.StatelessComponent<Amiibo> = ({ name, id }) => (
+    <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
-            <Img src={figureImageUrl} style={styleImg} />
+            <Img src={getAmiiboImage(id)} style={styleImg} />
             <div style={styleName}>{cut(name, 40)}</div>
         </Link>
     </div>

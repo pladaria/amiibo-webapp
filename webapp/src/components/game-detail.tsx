@@ -1,5 +1,12 @@
 import * as React from 'react';
-import { getAmiibosByGame, getGame, Game, Amiibo } from '../data/amiibos';
+import {
+    getAmiibosByGame,
+    getGame,
+    Game,
+    Amiibo,
+    getGameImage,
+    getAmiiboImage,
+} from '../data/amiibos';
 import { Redirect } from 'react-router';
 import Card from './card';
 import { Link } from 'react-router-dom';
@@ -122,10 +129,7 @@ class GameDetail extends React.Component<Props, State> {
             <>
                 <BackButton onGoBack={onGoBack} />
                 <div style={styleGameContainer}>
-                    <img
-                        style={styleGameImage}
-                        src={game.squareImageUrl || game.imageUrl}
-                    />
+                    <img style={styleGameImage} src={getGameImage(game.id)} />
                 </div>
                 <Card>
                     <div style={{ padding: 16 }}>
@@ -148,18 +152,12 @@ class GameDetail extends React.Component<Props, State> {
                         Compatible amiibos
                     </div>
                     {amiibos.map(
-                        ({
-                            id,
-                            name,
-                            figureImageUrl,
-                            collection,
-                            compatibleGames,
-                        }) => (
+                        ({ id, name, collection, compatibleGames }) => (
                             <AmiiboItem
                                 id={id}
                                 key={id}
                                 name={name}
-                                imageUrl={figureImageUrl}
+                                imageUrl={getAmiiboImage(id)}
                                 collection={collection}
                                 description={
                                     compatibleGames.find(

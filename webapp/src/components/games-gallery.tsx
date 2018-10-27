@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Card from './card';
-import { getGames } from '../data/amiibos';
+import { getGames, getGameImage } from '../data/amiibos';
 import { Link } from 'react-router-dom';
 import Tag from './tag';
 import Img from 'react-lazy-img';
@@ -82,27 +82,17 @@ const Game: React.StatelessComponent<GameProps> = ({
 
 const GamesGallery: React.StatelessComponent = () => (
     <Card>
-        {getGames().map(
-            ({
-                id,
-                name,
-                squareImageUrl,
-                imageUrl,
-                dateRelease,
-                categories,
-                system,
-            }) => (
-                <Game
-                    id={id}
-                    key={id}
-                    name={name}
-                    cover={squareImageUrl || imageUrl}
-                    date={dateRelease}
-                    categories={categories}
-                    system={system}
-                />
-            )
-        )}
+        {getGames().map(({ id, name, dateRelease, categories, system }) => (
+            <Game
+                id={id}
+                key={id}
+                name={name}
+                cover={getGameImage(id)}
+                date={dateRelease}
+                categories={categories}
+                system={system}
+            />
+        ))}
     </Card>
 );
 

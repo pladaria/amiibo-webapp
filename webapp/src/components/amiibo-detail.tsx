@@ -1,5 +1,11 @@
 import * as React from 'react';
-import { getAmiibo, getGame, Amiibo } from '../data/amiibos';
+import {
+    getAmiibo,
+    getGame,
+    Amiibo,
+    getAmiiboImage,
+    getGameImage,
+} from '../data/amiibos';
 import { Redirect } from 'react-router';
 import Card from './card';
 import { Link } from 'react-router-dom';
@@ -84,12 +90,11 @@ const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
     if (!game) {
         return null;
     }
-    const cover = game.squareImageUrl || game.imageUrl;
     const { name, system } = game;
     return (
         <Link to={`/games/${id}`} style={styleGame} key={id}>
             <div style={styleGameCoverContainer}>
-                <Img style={styleGameCover} src={cover} />
+                <Img style={styleGameCover} src={getGameImage(id)} />
             </div>
             <div style={styleGameDescription}>
                 <div>
@@ -132,7 +137,7 @@ class AmiiboDetail extends React.Component<Props, State> {
                     <div style={styleFigureContainer}>
                         <img
                             style={styleFigureImage}
-                            src={amiibo.figureImageUrl}
+                            src={getAmiiboImage(amiibo.id)}
                         />
                     </div>
                     <h1 style={styleAmiiboName}>{amiibo.name}</h1>

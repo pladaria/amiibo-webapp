@@ -59,3 +59,7 @@ export const getAmiibosByGame = (id: string) =>
 
 export const getGames = () =>
     [...data.games].sort((a, b) => (a.dateRelease < b.dateRelease ? 1 : -1));
+
+export const getGameImage = (id: string) => `/images/game/${id}-500w.jpg`;
+
+export const getAmiiboImage = (id: string) => `/images/amiibo/${id}-500w.jpg`;
