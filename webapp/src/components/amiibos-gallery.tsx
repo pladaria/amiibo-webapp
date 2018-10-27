@@ -38,7 +38,7 @@ const Amiibo: React.StatelessComponent<AmiiboProps> = ({
 }) => (
     <div style={styleAmiiboContainer} key={figureImageUrl}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
-            <Img src={figureImageUrl} style={styleImg} offset={200} />
+            <Img src={figureImageUrl} style={styleImg} />
             <div style={styleName}>{cut(name, 40)}</div>
         </Link>
     </div>

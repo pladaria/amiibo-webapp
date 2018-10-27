@@ -78,7 +78,6 @@ const AmiiboItem: React.StatelessComponent<AmiiboProps> = ({
                 <Img
                     style={{ width: 75, height: 84, marginTop: -8 }}
                     src={imageUrl}
-                    offset={200}
                 />
             </div>
             <div style={styleAmiiboDescription}>

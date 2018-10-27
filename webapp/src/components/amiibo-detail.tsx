@@ -89,7 +89,7 @@ const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
     return (
         <Link to={`/games/${id}`} style={styleGame} key={id}>
             <div style={styleGameCoverContainer}>
-                <Img style={styleGameCover} src={cover} offset={200} />
+                <Img style={styleGameCover} src={cover} />
             </div>
             <div style={styleGameDescription}>
                 <div>
@@ -127,8 +127,8 @@ class AmiiboDetail extends React.Component<Props, State> {
         const { onGoBack } = this.props;
         return (
             <>
+                <BackButton onGoBack={onGoBack} />
                 <div style={styleAmiiboContainer}>
-                    <BackButton onGoBack={onGoBack} />
                     <div style={styleFigureContainer}>
                         <img
                             style={styleFigureImage}

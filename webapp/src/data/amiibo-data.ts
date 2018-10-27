@@ -37,7 +37,7 @@ export default {
         {
             "id": "858506",
             "name": "Shovel Knight",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_ShovelKnight_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_ShovelKnight_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_ShovelKnight_image500w.jpg",
             "dateRelease": "2015-10-30T00:00:00Z",
             "system": "Wii U",
@@ -51,7 +51,7 @@ export default {
         {
             "id": "858507",
             "name": "Shovel Knight: Treasure Trove",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ShovelKnightTreasureTrove_image500w.jpg",
             "dateRelease": "2015-10-30T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -65,7 +65,7 @@ export default {
         {
             "id": "864329",
             "name": "Super Smash Bros. for Nintendo 3DS",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_SuperSmashBros_enGB_image300w.png",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_SuperSmashBros_enGB_image500w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_SuperSmashBrosNintendo3DS_image500w.jpg",
             "dateRelease": "2014-10-03T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -82,7 +82,7 @@ export default {
         {
             "id": "864849",
             "name": "Super Smash Bros. for Wii U",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperSmashBrosForWiiU_PEGI12_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperSmashBrosForWiiU_PEGI12_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperSmashBrosForWiiU_image500w.jpg",
             "dateRelease": "2014-11-28T00:00:00Z",
             "system": "Wii U",
@@ -99,7 +99,7 @@ export default {
         {
             "id": "891849",
             "name": "Hyrule Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_HyruleWarriors_PEGI_image300w.png",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_HyruleWarriors_PEGI_image500w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_HyruleWarriors_image500w.jpg",
             "dateRelease": "2014-09-19T00:00:00Z",
             "system": "Wii U",
@@ -113,7 +113,7 @@ export default {
         {
             "id": "892510",
             "name": "Splatoon",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_Splatoon_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_Splatoon_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_Splatoon_image500w.jpg",
             "dateRelease": "2015-05-29T00:00:00Z",
             "system": "Wii U",
@@ -146,7 +146,7 @@ export default {
         {
             "id": "892704",
             "name": "Super Mario Maker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperMarioMaker_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_SuperMarioMaker_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SuperMarioMaker_image500w.jpg",
             "dateRelease": "2015-09-11T00:00:00Z",
             "system": "Wii U",
@@ -162,7 +162,7 @@ export default {
         {
             "id": "892779",
             "name": "Mario Party 10",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioParty10_NS_EUR_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioParty10_NS_EUR_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioParty10_image500w.jpg",
             "dateRelease": "2015-03-20T00:00:00Z",
             "system": "Wii U",
@@ -178,7 +178,7 @@ export default {
         {
             "id": "892923",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_CaptainToadTreasureTracker_NS_EUR_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_CaptainToadTreasureTracker_NS_EUR_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2015-01-02T00:00:00Z",
             "system": "Wii U",
@@ -193,7 +193,7 @@ export default {
         {
             "id": "893013",
             "name": "Kirby and the Rainbow Paintbrush",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_KirbyAndTheRainbowPaintbrush_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_KirbyAndTheRainbowPaintbrush_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_KirbyAndTheRainbowPaintbrush_enGB_image500w.jpg",
             "dateRelease": "2015-05-08T00:00:00Z",
             "system": "Wii U",
@@ -209,7 +209,7 @@ export default {
         {
             "id": "893260",
             "name": "The Legend of Zelda: Breath of the Wild",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaBreathOfTheWild_PEGI_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaBreathOfTheWild_PEGI_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaBreathOfTheWild_image500w.jpg",
             "dateRelease": "2017-03-03T00:00:00Z",
             "system": "Wii U",
@@ -226,7 +226,7 @@ export default {
         {
             "id": "893949",
             "name": "Code Name: S.T.E.A.M.",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CodenameSTEAM_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CodenameSTEAM_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_CodenameSTEAM_image500w.jpg",
             "dateRelease": "2015-05-15T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -255,7 +255,7 @@ export default {
         {
             "id": "961136",
             "name": "Xenoblade Chronicles 3D",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_XenobladeChronicles3D_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_XenobladeChronicles3D_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/new_nintendo_3ds_19/SQ_N3DS_XenobladeChronicles3D_enGB_image500w.jpg",
             "dateRelease": "2015-04-02T00:00:00Z",
             "system": "New Nintendo 3DS",
@@ -272,8 +272,8 @@ export default {
         {
             "id": "986009",
             "name": "amiibo Touch & Play: Nintendo Classics Highlights",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_amiiboTouchAndPlay_image300w.png",
-            "squareImageUrl": "",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_AmiiboTouchAndPlay_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_AmiiboTouchAndPlay_image500w.jpg",
             "dateRelease": "2015-04-30T00:00:00Z",
             "system": "Wii U",
             "developer": "",
@@ -286,7 +286,7 @@ export default {
         {
             "id": "1009406",
             "name": "Animal Crossing: Happy Home Designer",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingHappyHomeDesigner_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_AnimalCrossingHappyHomeDesigner_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_AnimalCrossingHappyHomeDesigner_image500w.jpg",
             "dateRelease": "2015-10-02T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -303,7 +303,7 @@ export default {
         {
             "id": "1021489",
             "name": "Chibi-Robo! Zip Lash",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_ChibiRoboZipLash_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_ChibiRoboZipLash_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_ChibiRoboZipLash_image500w.jpg",
             "dateRelease": "2015-11-06T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -317,7 +317,7 @@ export default {
         {
             "id": "1025884",
             "name": "Metroid Prime: Federation Force",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidPrimeFederationForce_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidPrimeFederationForce_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidPrimeFederationForce_image500w.jpg",
             "dateRelease": "2016-09-02T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -333,7 +333,7 @@ export default {
         {
             "id": "1025970",
             "name": "Hyrule Warriors: Legends",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HyruleWarriorsLegends_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HyruleWarriorsLegends_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HyruleWarriorsLegends_image500w.jpg",
             "dateRelease": "2016-03-24T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -348,7 +348,7 @@ export default {
         {
             "id": "1026071",
             "name": "Fire Emblem Fates",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_FireEmblemFates_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_FireEmblemFates_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemFates_700x700_enGB_image500w.jpg",
             "dateRelease": "2016-05-20T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -364,7 +364,7 @@ export default {
         {
             "id": "1026132",
             "name": "Star Fox Zero",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_StarFoxZero_EUR_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_StarFoxZero_EUR_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_StarFoxZero_image500w.jpg",
             "dateRelease": "2016-04-22T00:00:00Z",
             "system": "Wii U",
@@ -381,7 +381,7 @@ export default {
         {
             "id": "1026137",
             "name": "Animal Crossing: amiibo Festival",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_AnimalCrossingAmiiboFestival_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_AnimalCrossingAmiiboFestival_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "system": "Wii U",
@@ -399,7 +399,7 @@ export default {
         {
             "id": "1026139",
             "name": "Mario Tennis: Ultra Smash",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioTennisUltraSmash_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioTennisUltraSmash_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioTennisUltraSmash_image500w.jpg",
             "dateRelease": "2015-11-20T00:00:00Z",
             "system": "Wii U",
@@ -416,7 +416,7 @@ export default {
         {
             "id": "1026141",
             "name": "Skylanders SuperChargers",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_SkylandersSuperChargers_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_2/TM_WiiU_SkylandersSuperChargers_image500w.jpg",
             "squareImageUrl": "",
             "dateRelease": "2015-09-25T00:00:00Z",
             "system": "Wii U",
@@ -431,7 +431,7 @@ export default {
         {
             "id": "1026143",
             "name": "Mario & Luigi: Paper Jam Bros.",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndLuigiPaperJamBros_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndLuigiPaperJamBros_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiPaperJamBros_image500w.jpg",
             "dateRelease": "2015-12-04T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -446,7 +446,7 @@ export default {
         {
             "id": "1026451",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioAndSonicAtTheRio2016OlympicGames_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_MarioAndSonicAtTheRio2016OlympicGames_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
             "dateRelease": "2016-06-24T00:00:00Z",
             "system": "Wii U",
@@ -464,7 +464,7 @@ export default {
         {
             "id": "1026505",
             "name": "Mario & Sonic at the Rio 2016 Olympic Games",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndSonicAtTheRio2016OlympicGames_enGB_image500w.jpg",
             "dateRelease": "2016-04-08T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -499,7 +499,7 @@ export default {
         {
             "id": "1062553",
             "name": "Mega Man Legacy Collection",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_MegaManLegacyCollection_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_16/TM_3DS_MegaManLegacyCollection_image500w.jpg",
             "squareImageUrl": "",
             "dateRelease": "2016-02-23T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -515,7 +515,7 @@ export default {
         {
             "id": "1081362",
             "name": "Word Puzzles by POWGI",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image500w.jpg",
             "squareImageUrl": "",
             "dateRelease": "2016-01-28T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -530,7 +530,7 @@ export default {
         {
             "id": "1081363",
             "name": "Word Puzzles by POWGI",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/nintendo_3ds_download_software_4/TM_3DSDS_WordPuzzlesByPowgi_image500w.jpg",
             "squareImageUrl": "",
             "dateRelease": "2016-01-28T00:00:00Z",
             "system": "Wii U",
@@ -545,7 +545,7 @@ export default {
         {
             "id": "1082222",
             "name": "The Legend of Zelda: Twilight Princess HD",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaTwilightPrincessHD_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/wiiu_6/PS_WiiU_TheLegendOfZeldaTwilightPrincessHD_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_TheLegendOfZeldaTwilightPrincessHD_image500w.jpg",
             "dateRelease": "2016-03-04T00:00:00Z",
             "system": "Wii U",
@@ -579,7 +579,7 @@ export default {
         {
             "id": "1091342",
             "name": "Kirby: Planet Robobot",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyPlanetRobobot_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyPlanetRobobot_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyPlanetRobobot_image500w.jpg",
             "dateRelease": "2016-06-10T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -613,7 +613,7 @@ export default {
         {
             "id": "1101292",
             "name": "Mini Mario & Friends: amiibo Challenge",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
             "dateRelease": "2016-04-28T00:00:00Z",
             "system": "Wii U",
@@ -627,7 +627,7 @@ export default {
         {
             "id": "1101346",
             "name": "Mini Mario & Friends: amiibo Challenge",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/03_teaser_module_1_square/games_3/wiiu_download_software_1/TM_WiiUDS_3DSDS_MiniMarioandFriendsamiiboChallenge_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/wii_u_download_software_3/SQ_WiiUDS_3DSDS_MiniMarioAndFriendsamiiboChallenge_image500w.jpg",
             "dateRelease": "2016-04-28T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -641,7 +641,7 @@ export default {
         {
             "id": "1109483",
             "name": "Teddy Together",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_TeddyTogether_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_TeddyTogether_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_TeddyTogether_enGB_image500w.jpg",
             "dateRelease": "2016-07-01T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -656,7 +656,7 @@ export default {
         {
             "id": "1114009",
             "name": "Mario Party: Star Rush",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyStarRush_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyStarRush_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyStarRush_image500w.jpg",
             "dateRelease": "2016-10-07T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -672,7 +672,7 @@ export default {
         {
             "id": "1125616",
             "name": "Metroid Prime: Blast Ball",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_MetroidPrimeBlastBall_image500w.jpg",
             "dateRelease": "2016-07-21T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -689,7 +689,7 @@ export default {
         {
             "id": "1132221",
             "name": "Azure Striker GUNVOLT 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_AzureStrikerGunvolt2_image500w.jpg",
             "dateRelease": "2016-09-29T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -704,7 +704,7 @@ export default {
         {
             "id": "1136168",
             "name": "Picross 3D: Round 2",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Picross3DRound2_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_Picross3DRound2_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_Picross3DRound2_image500w.jpg",
             "dateRelease": "2016-12-02T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -718,7 +718,7 @@ export default {
         {
             "id": "1136169",
             "name": "Hey! PIKMIN",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HeyPikmin_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_HeyPikmin_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_HeyPikmin_image500w.jpg",
             "dateRelease": "2017-07-28T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -735,7 +735,7 @@ export default {
         {
             "id": "1136171",
             "name": "Poochy & Yoshi's Woolly World",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_PoochyAndYoshisWoollyWorld_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_PoochyAndYoshisWoollyWorld_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_PoochyAndYoshisWoollyWorld_image500w.jpg",
             "dateRelease": "2017-02-03T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -751,7 +751,7 @@ export default {
         {
             "id": "1136172",
             "name": "Mario Sports Superstars",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioSportsSuperstars_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioSportsSuperstars_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioSportsSuperstars_image500w.jpg",
             "dateRelease": "2017-03-10T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -835,7 +835,7 @@ export default {
         {
             "id": "1175211",
             "name": "Fire Emblem Echoes: Shadows of Valentia",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_FireEmblemEchoesShadowsOfValentia_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_FireEmblemEchoesShadowsOfValentia_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_FireEmblemEchoes_image500w.jpg",
             "dateRelease": "2017-05-19T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -868,7 +868,7 @@ export default {
         {
             "id": "1175329",
             "name": "Fire Emblem Warriors",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_FireEmblemWarriors_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/new_nintendo_3ds_6/PS_N3DS_FireEmblemWarriors_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_FireEmblemWarriors_image500w.jpg",
             "dateRelease": "2017-10-20T00:00:00Z",
             "system": "New Nintendo 3DS",
@@ -915,7 +915,7 @@ export default {
         {
             "id": "1203712",
             "name": "BYE-BYE BOXBOY!",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_ByeByeBoxBoy_image500w.jpg",
             "dateRelease": "2017-03-23T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -930,7 +930,7 @@ export default {
         {
             "id": "1213275",
             "name": "Team Kirby Clash Deluxe",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_TeamKirbyClashDeluxe_image500w.jpg",
             "dateRelease": "2017-04-13T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -946,7 +946,7 @@ export default {
         {
             "id": "1214727",
             "name": "Kirby's Blowout Blast",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_download_software_8/SQ_3DSDS_KirbysBlowoutBLast_image500w.jpg",
             "dateRelease": "2017-07-06T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1029,7 +1029,7 @@ export default {
         {
             "id": "1234232",
             "name": "Metroid: Samus Returns",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidSamusReturns_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MetroidSamusReturns_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MetroidSamusReturns_image500w.jpg",
             "dateRelease": "2017-09-15T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1047,7 +1047,7 @@ export default {
         {
             "id": "1234324",
             "name": "Mario & Luigi: Superstar Saga + Bowser's Minions",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioLuigi_SuperstarSaga_UKV_image300w.png",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioLuigi_SuperstarSaga_UKV_image500w.png",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioAndLuigiSuperstarSagaPlusBowsersMinions_enGB_image500w.jpg",
             "dateRelease": "2017-10-06T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1079,7 +1079,7 @@ export default {
         {
             "id": "1264661",
             "name": "Kirby Battle Royale",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyBattleRoyale_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_KirbyBattleRoyale_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_KirbyBattleRoyale_image500w.jpg",
             "dateRelease": "2017-11-03T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1096,7 +1096,7 @@ export default {
         {
             "id": "1275927",
             "name": "Mario Party: The Top 100",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyTheTop100_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_MarioPartyTheTop100_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_MarioPartyTheTop100_image500w.jpg",
             "dateRelease": "2017-12-22T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1113,7 +1113,7 @@ export default {
         {
             "id": "1275928",
             "name": "Nintendo presents: New Style Boutique 3 – Styling Star",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique3StylingStar_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_NintendoPresentsNewStyleBoutique3StylingStar_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_NintendoPresentsNewStyleBoutique3StylingStar_enGB_image500w.jpg",
             "dateRelease": "2017-11-24T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1178,7 +1178,7 @@ export default {
         {
             "id": "1329566",
             "name": "Detective Pikachu",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_DetectivePikachu_enGB_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_DetectivePikachu_enGB_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_DetectivePikachu_enGB_image500w.jpg",
             "dateRelease": "2018-03-23T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1225,7 +1225,7 @@ export default {
         {
             "id": "1348072",
             "name": "Captain Toad: Treasure Tracker",
-            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CaptainToadTreasureTracker_UKV_image300w.jpg",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_CaptainToadTreasureTracker_UKV_image500w.jpg",
             "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CaptainToadTreasureTracker_image500w.jpg",
             "dateRelease": "2018-07-13T00:00:00Z",
             "system": "Nintendo 3DS",
@@ -1253,6 +1253,21 @@ export default {
             "gameSeries": [
                 "warioware"
             ]
+        },
+        {
+            "id": "1348382",
+            "name": "Luigi's Mansion",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_3ds_6/PS_3DS_LuigisMansion_enGB_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_3ds_26/SQ_3DS_LuigisMansion_image500w.jpg",
+            "dateRelease": "2018-10-19T00:00:00Z",
+            "system": "Nintendo 3DS",
+            "developer": "",
+            "publisher": "Nintendo",
+            "categories": [
+                "action",
+                "adventure"
+            ],
+            "gameSeries": []
         },
         {
             "id": "1375284",
@@ -1283,6 +1298,23 @@ export default {
                 "platformer"
             ],
             "gameSeries": []
+        },
+        {
+            "id": "1388641",
+            "name": "Super Mario Party",
+            "imageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/games_13/nintendo_switch_8/PS_NSwitch_SuperMarioParty_PEGI_image500w.jpg",
+            "squareImageUrl": "https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperMarioParty_image500w.jpg",
+            "dateRelease": "2018-10-05T00:00:00Z",
+            "system": "Nintendo Switch",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "categories": [
+                "board_game",
+                "party"
+            ],
+            "gameSeries": [
+                "mario_party"
+            ]
         }
     ],
     "amiibos": [
@@ -1310,11 +1342,6 @@ export default {
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
                     "id": "765384",
                     "rank": "1",
                     "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
@@ -1324,14 +1351,23 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
                     "id": "864329",
                     "rank": "1",
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
                     "id": "1114009",
@@ -1349,9 +1385,9 @@ export default {
                     "description": "You can power up the Mario Suit for 24 hours!"
                 },
                 {
-                    "id": "1348073",
+                    "id": "1101292",
                     "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
                     "id": "1021489",
@@ -1359,24 +1395,14 @@ export default {
                     "description": "You can unlock figures or earn extra moolah in-game!"
                 },
                 {
-                    "id": "1054663",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
-                },
-                {
-                    "id": "892537",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
                     "id": "1225809",
                     "rank": "2",
                     "description": "You can unlock special character-themed outfits for your Mii characters!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
                 },
                 {
                     "id": "1136171",
@@ -1384,19 +1410,14 @@ export default {
                     "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
-                    "id": "1101346",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
                     "id": "1125616",
                     "rank": "2",
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "892779",
+                    "rank": "2",
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
                 },
                 {
                     "id": "1275928",
@@ -1404,73 +1425,19 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "id": "1101346",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
+                    "id": "1348073",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1026139",
-                    "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "id": "892537",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
                     "id": "1213275",
@@ -1478,57 +1445,7 @@ export default {
                     "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "1175315",
+                    "id": "1175329",
                     "rank": "1",
                     "description": "You can receive a random amount of gold or rare materials."
                 },
@@ -1538,14 +1455,137 @@ export default {
                     "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "1025884",
+                    "id": "1348071",
                     "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1231536",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1026143",
                     "rank": "1",
                     "description": "You can unlock character cards to use in battle!"
+                },
+                {
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
+                },
+                {
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "1026139",
+                    "rank": "1",
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1025884",
+                    "rank": "1",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 }
             ]
         },
@@ -1573,11 +1613,6 @@ export default {
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
                     "id": "765384",
                     "rank": "1",
                     "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
@@ -1587,14 +1622,19 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "864329",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
                     "id": "1173332",
                     "rank": "1",
                     "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
                     "id": "1114009",
@@ -1607,7 +1647,37 @@ export default {
                     "description": "You can unlock special costumes!"
                 },
                 {
-                    "id": "1348073",
+                    "id": "1101292",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "1225809",
+                    "rank": "2",
+                    "description": "You can unlock special character-themed outfits for your Mii characters!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "892779",
+                    "rank": "2",
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "2",
+                    "description": "You can unlock figures or earn extra moolah in-game!"
+                },
+                {
+                    "id": "1275928",
                     "rank": "2",
                     "description": "You can unlock a special character-themed item!"
                 },
@@ -1622,14 +1692,9 @@ export default {
                     "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
-                    "id": "1054663",
+                    "id": "1348073",
                     "rank": "2",
                     "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
                 },
                 {
                     "id": "892537",
@@ -1637,39 +1702,9 @@ export default {
                     "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
-                    "id": "1225809",
-                    "rank": "2",
-                    "description": "You can unlock special character-themed outfits for your Mii characters!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "2",
-                    "description": "You can unlock figures or earn extra moolah in-game!"
-                },
-                {
-                    "id": "1275928",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1101292",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1173609",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1175329",
@@ -1682,9 +1717,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1026139",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
                     "id": "1081363",
@@ -1692,19 +1727,19 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1136168",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1136169",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "954437",
+                    "id": "1173609",
                     "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1081362",
@@ -1712,9 +1747,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1026451",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
                     "id": "1231536",
@@ -1722,9 +1757,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1109483",
+                    "id": "986009",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
                     "id": "1233956",
@@ -1732,7 +1767,7 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1348071",
+                    "id": "892923",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
                 },
@@ -1742,34 +1777,14 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1025884",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                    "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "893260",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "1325999",
@@ -1782,9 +1797,38 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "986009",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
+                },
+                {
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "1175315",
@@ -1792,19 +1836,19 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1091342",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "1213275",
+                    "id": "1025884",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1026143",
+                    "id": "954437",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can unlock a character-themed aircraft skin."
                 }
             ]
         },
@@ -1916,9 +1960,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1325999",
+                    "id": "1233956",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1026451",
@@ -1926,9 +1970,9 @@ export default {
                     "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
-                    "id": "1233956",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can receive a selection of fragments."
                 },
                 {
                     "id": "1175211",
@@ -1936,9 +1980,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1213275",
+                    "id": "1025970",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1081363",
@@ -1946,9 +1990,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1025970",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1175329",
@@ -1956,9 +2000,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1136168",
+                    "id": "1275927",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
                     "id": "1091342",
@@ -1966,9 +2010,9 @@ export default {
                     "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "1275927",
+                    "id": "1173609",
                     "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1081362",
@@ -1976,9 +2020,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1173609",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1026139",
@@ -1986,9 +2030,8 @@ export default {
                     "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
                     "id": "893260",
@@ -1996,18 +2039,19 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
                 },
                 {
-                    "id": "1026143",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1348071",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "891849",
@@ -2025,7 +2069,26 @@ export default {
                     "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
-                    "id": "1086374",
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1026143",
+                    "rank": "1",
+                    "description": "You can unlock character cards to use in battle!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1231536",
                     "rank": "1",
                     "description": "You can get extra items."
                 },
@@ -2033,21 +2096,6 @@ export default {
                     "id": "1136169",
                     "rank": "1",
                     "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
                 }
             ]
         },
@@ -2235,7 +2283,16 @@ export default {
                     "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
                     "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "892923",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
                 },
@@ -2260,6 +2317,11 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
                     "id": "1136169",
                     "rank": "1",
                     "description": "You can find Secret Spots!"
@@ -2273,16 +2335,6 @@ export default {
                     "id": "1081362",
                     "rank": "1",
                     "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
                 }
             ]
         },
@@ -2797,9 +2849,9 @@ export default {
                     "description": "You can unlock special costumes!"
                 },
                 {
-                    "id": "1054663",
+                    "id": "1225809",
                     "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
+                    "description": "You can unlock special character-themed outfits for your Mii characters!"
                 },
                 {
                     "id": "1021489",
@@ -2827,9 +2879,14 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1225809",
+                    "id": "1388641",
                     "rank": "2",
-                    "description": "You can unlock special character-themed outfits for your Mii characters!"
+                    "description": "You can receive Party Points."
+                },
+                {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
                 },
                 {
                     "id": "892704",
@@ -2842,9 +2899,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1213275",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1026451",
@@ -2852,7 +2909,77 @@ export default {
                     "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
-                    "id": "1231536",
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1086374",
                     "rank": "1",
                     "description": "You can get extra items."
                 },
@@ -2862,29 +2989,9 @@ export default {
                     "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "1173332",
+                    "id": "765384",
                     "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
                 },
                 {
                     "id": "892779",
@@ -2892,59 +2999,9 @@ export default {
                     "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
                     "id": "892923",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "765384",
-                    "rank": "1",
-                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
                     "id": "1175315",
@@ -2972,19 +3029,19 @@ export default {
                     "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 },
                 {
-                    "id": "1175329",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can find Secret Spots!"
                 },
                 {
-                    "id": "1348071",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1081362",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get extra items, weapons and more."
                 }
             ]
         },
@@ -3021,14 +3078,19 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
                     "id": "892537",
                     "rank": "2",
                     "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
-                    "id": "1054663",
+                    "id": "1388641",
                     "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
+                    "description": "You can receive Party Points."
                 },
                 {
                     "id": "892704",
@@ -3046,9 +3108,9 @@ export default {
                     "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
-                    "id": "1275928",
+                    "id": "1081362",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1026451",
@@ -3056,79 +3118,9 @@ export default {
                     "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
                     "id": "1231536",
                     "rank": "1",
                     "description": "You can get extra items."
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1101346",
@@ -3136,8 +3128,19 @@ export default {
                     "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1091342",
@@ -3145,9 +3148,68 @@ export default {
                     "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
                     "id": "1348072",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1175315",
@@ -3170,24 +3232,24 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1081363",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "1348071",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1136169",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "892923",
+                    "id": "1101292",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 }
             ]
         },
@@ -4092,11 +4154,6 @@ export default {
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
                     "id": "765384",
                     "rank": "1",
                     "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
@@ -4106,9 +4163,9 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "864329",
+                    "id": "1173332",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can reveal a Power Moon's location."
                 },
                 {
                     "id": "1173281",
@@ -4116,39 +4173,18 @@ export default {
                     "description": "You can unlock a Mii Suit based on that character's look!"
                 },
                 {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
                     "id": "1114009",
                     "rank": "4",
                     "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1101346",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
-                },
-                {
-                    "id": "892537",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1348073",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
                 },
                 {
                     "id": "1225809",
@@ -4156,9 +4192,14 @@ export default {
                     "description": "You can unlock special character-themed outfits for your Mii characters!"
                 },
                 {
-                    "id": "1275928",
+                    "id": "892779",
                     "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
                     "id": "1101292",
@@ -4166,78 +4207,34 @@ export default {
                     "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "1101346",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1348073",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "892537",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
                     "id": "1021489",
                     "rank": "2",
                     "description": "You can unlock figures or earn extra moolah in-game!"
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
                 },
                 {
                     "id": "1109483",
@@ -4245,49 +4242,24 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1233956",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1091342",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1025970",
+                    "id": "1054663",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1025884",
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1026143",
-                    "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1325999",
@@ -4295,14 +4267,19 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1086374",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
-                    "id": "986009",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1175315",
@@ -4310,19 +4287,112 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1026139",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can get extra items."
                 },
                 {
-                    "id": "1213275",
+                    "id": "1026451",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "1025884",
+                    "rank": "1",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
                     "id": "1348071",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
+                },
+                {
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1026139",
+                    "rank": "1",
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
                 }
             ]
         },
@@ -4489,9 +4559,19 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
                     "id": "1091342",
                     "rank": "1",
                     "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1175315",
@@ -4509,9 +4589,13 @@ export default {
                     "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
-                    "id": "1086374",
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1348071",
@@ -4525,16 +4609,6 @@ export default {
                 },
                 {
                     "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1348072",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
                 }
@@ -5191,24 +5265,14 @@ export default {
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
                     "id": "1021489",
                     "rank": "2",
                     "description": "You can unlock figures or earn extra moolah in-game!"
                 },
                 {
-                    "id": "892537",
+                    "id": "892779",
                     "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
                 },
                 {
                     "id": "1173281",
@@ -5221,29 +5285,39 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
+                    "id": "892537",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1388641",
+                    "rank": "2",
+                    "description": "You can receive Party Points."
+                },
+                {
                     "id": "892704",
                     "rank": "2",
                     "description": "After using an amiibo, when Mario grabs a Mystery Mushroom he takes on the amiibo character's appearance, complete with character-specific animations and sound effects."
                 },
                 {
-                    "id": "986009",
+                    "id": "1136171",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1026451",
                     "rank": "1",
                     "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1081362",
@@ -5301,9 +5375,9 @@ export default {
                     "description": "You can get Game Tickets to use at the Arcade!"
                 },
                 {
-                    "id": "1081363",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1173609",
@@ -5320,14 +5394,14 @@ export default {
                     "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
-                    "id": "1213275",
+                    "id": "1101292",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 },
                 {
-                    "id": "1086374",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1136172",
@@ -5335,19 +5409,19 @@ export default {
                     "description": "You can unlock in-game collectible cards!"
                 },
                 {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
                     "id": "1175211",
                     "rank": "1",
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1275928",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can receive a selection of fragments."
                 },
                 {
                     "id": "1175315",
@@ -5355,24 +5429,19 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
                     "id": "765384",
                     "rank": "1",
                     "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1101346",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "892923",
@@ -5383,6 +5452,16 @@ export default {
                     "id": "1325999",
                     "rank": "1",
                     "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1101346",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
                 }
             ]
         },
@@ -5687,19 +5766,9 @@ export default {
                     "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
-                    "id": "1348072",
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1213275",
@@ -5707,9 +5776,9 @@ export default {
                     "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "1091342",
+                    "id": "1026451",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
                     "id": "1275928",
@@ -5717,9 +5786,9 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1348071",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
                     "id": "1233956",
@@ -5727,9 +5796,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1175329",
+                    "id": "1348071",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1275927",
@@ -5737,9 +5806,9 @@ export default {
                     "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
-                    "id": "1136169",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1025970",
@@ -5747,9 +5816,9 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "893260",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "1173609",
@@ -5757,18 +5826,18 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1325999",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1313750",
                     "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
-                    "id": "1026139",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1086374",
@@ -5776,14 +5845,23 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1175211",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
-                    "id": "892923",
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1175315",
@@ -5806,24 +5884,29 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1025884",
+                    "id": "892923",
                     "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1081363",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1081362",
                     "rank": "1",
                     "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1025884",
+                    "rank": "1",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 }
             ]
         },
@@ -5926,9 +6009,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1114009",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can unlock a stamp in the Character Museum."
+                    "description": "You can receive a selection of fragments."
                 },
                 {
                     "id": "1175329",
@@ -5936,22 +6019,12 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
                     "id": "1025884",
                     "rank": "1",
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1348072",
+                    "id": "892923",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
                 },
@@ -5961,9 +6034,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1026143",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1175211",
@@ -5971,9 +6044,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1136168",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "1081363",
@@ -5981,9 +6054,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1091342",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1325999",
@@ -5991,9 +6064,9 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1026451",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
                     "id": "1081362",
@@ -6001,9 +6074,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1109483",
+                    "id": "1026451",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
                     "id": "1231536",
@@ -6011,9 +6084,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1136169",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1233956",
@@ -6021,9 +6094,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1026139",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "1025970",
@@ -6031,14 +6104,24 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1175315",
+                    "id": "954437",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
-                    "id": "986009",
+                    "id": "1086374",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "891849",
@@ -6056,29 +6139,33 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1086374",
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "986009",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1026139",
+                    "rank": "1",
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1114009",
+                    "rank": "1",
+                    "description": "You can unlock a stamp in the Character Museum."
                 },
                 {
                     "id": "1054663",
                     "rank": "1",
                     "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
                 }
             ]
         },
@@ -7964,19 +8051,9 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1136168",
+                    "id": "1173609",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1136172",
@@ -7984,9 +8061,9 @@ export default {
                     "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "1026139",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1175211",
@@ -7994,9 +8071,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "892923",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
                     "id": "1081363",
@@ -8004,9 +8081,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "864329",
+                    "id": "892923",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1136169",
@@ -8014,9 +8091,9 @@ export default {
                     "description": "You can find Secret Spots!"
                 },
                 {
-                    "id": "1173609",
+                    "id": "864329",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
                     "id": "893260",
@@ -8024,9 +8101,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1348072",
+                    "id": "1175315",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1081362",
@@ -8034,9 +8111,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1109483",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1231536",
@@ -8044,9 +8121,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1348071",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1233956",
@@ -8054,9 +8131,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1025884",
+                    "id": "1348071",
                     "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1025970",
@@ -8064,9 +8141,18 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "954437",
+                    "id": "1025884",
                     "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "1234324",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1325999",
@@ -8074,13 +8160,24 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1026143",
+                    "id": "1086374",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
                 },
                 {
                     "id": "891849",
@@ -8098,29 +8195,27 @@ export default {
                     "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
                 },
                 {
-                    "id": "1213275",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "986009",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
-                    "id": "1234324",
+                    "id": "954437",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can unlock a character-themed aircraft skin."
                 }
             ]
         },
@@ -8147,13 +8242,13 @@ export default {
                     "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
                 },
                 {
+                    "id": "1233954",
+                    "description": "You can unlock a special item!"
+                },
+                {
                     "id": "1173332",
                     "rank": "1",
                     "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1233954",
-                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1173281",
@@ -8161,24 +8256,18 @@ export default {
                     "description": "You can unlock a Mii Suit based on that character's look!"
                 },
                 {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
                     "id": "1114009",
                     "rank": "4",
                     "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
                 },
                 {
-                    "id": "1021489",
-                    "rank": "2",
-                    "description": "You can unlock figures or earn extra moolah in-game!"
-                },
-                {
                     "id": "1125616",
                     "rank": "2",
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1348073",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
                 },
                 {
                     "id": "892779",
@@ -8201,11 +8290,6 @@ export default {
                     "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
-                    "id": "1101346",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
                     "id": "1101292",
                     "rank": "2",
                     "description": "You can play as a Mini Toy and unlock levels to match the character!"
@@ -8216,84 +8300,19 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "id": "1348073",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "id": "1021489",
+                    "rank": "2",
+                    "description": "You can unlock figures or earn extra moolah in-game!"
                 },
                 {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1025884",
-                    "rank": "1",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "864329",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1234324",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1026143",
-                    "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "id": "1101346",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
                 },
                 {
                     "id": "986009",
@@ -8301,9 +8320,19 @@ export default {
                     "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
-                    "id": "1231536",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1091342",
@@ -8311,9 +8340,24 @@ export default {
                     "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "1233956",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1234324",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "954437",
@@ -8321,9 +8365,39 @@ export default {
                     "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
-                    "id": "1025970",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1231536",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1348072",
@@ -8331,18 +8405,48 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1325999",
+                    "id": "1025970",
                     "rank": "1",
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "1109483",
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
+                },
+                {
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1026143",
+                    "rank": "1",
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "891849",
@@ -8355,34 +8459,33 @@ export default {
                     "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "1275927",
+                    "id": "1054663",
                     "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1025884",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1026451",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1136168",
+                    "id": "1175315",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1026139",
+                    "id": "892923",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can boost your supply of 1-Ups."
                 }
             ]
         },
@@ -8984,19 +9087,9 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "893260",
+                    "id": "1173609",
                     "rank": "1",
                     "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1114009",
@@ -9004,9 +9097,9 @@ export default {
                     "description": "You can unlock a stamp in the Character Museum."
                 },
                 {
-                    "id": "954437",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1213275",
@@ -9014,9 +9107,9 @@ export default {
                     "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "864329",
+                    "id": "954437",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
                     "id": "1025884",
@@ -9024,9 +9117,9 @@ export default {
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1026139",
+                    "id": "864329",
                     "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
                     "id": "1325999",
@@ -9034,9 +9127,9 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1026143",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
                     "id": "1175211",
@@ -9044,9 +9137,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1175315",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "1081363",
@@ -9054,9 +9147,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1136172",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1275928",
@@ -9064,9 +9157,9 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1026451",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1081362",
@@ -9074,9 +9167,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1109483",
+                    "id": "1026451",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
                     "id": "1231536",
@@ -9084,9 +9177,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "892923",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1233956",
@@ -9094,9 +9187,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1234324",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1025970",
@@ -9104,14 +9197,24 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1173609",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "986009",
+                    "id": "1086374",
                     "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "891849",
@@ -9129,29 +9232,33 @@ export default {
                     "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
-                    "id": "1086374",
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
+                    "id": "986009",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1234324",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1136169",
                     "rank": "1",
                     "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
                 }
             ]
         },
@@ -9254,9 +9361,9 @@ export default {
                     "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1231536",
+                    "id": "1275928",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1026451",
@@ -9264,9 +9371,9 @@ export default {
                     "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
-                    "id": "1275928",
+                    "id": "1275927",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
                     "id": "1136172",
@@ -9274,9 +9381,9 @@ export default {
                     "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "1275927",
+                    "id": "1233956",
                     "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1054663",
@@ -9284,9 +9391,9 @@ export default {
                     "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "1233956",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can get in-game coins!"
                 },
                 {
                     "id": "1026143",
@@ -9294,9 +9401,9 @@ export default {
                     "description": "You can unlock character cards to use in battle!"
                 },
                 {
-                    "id": "1109483",
+                    "id": "1025970",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1081363",
@@ -9304,9 +9411,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1025970",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1325999",
@@ -9314,9 +9421,8 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
                 },
                 {
                     "id": "1081362",
@@ -9338,14 +9444,14 @@ export default {
                     "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
-                    "id": "1136169",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "893260",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1175315",
@@ -9368,24 +9474,29 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1213275",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1175329",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can find Secret Spots!"
                 },
                 {
-                    "id": "1091342",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1026139",
                     "rank": "1",
                     "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
                 }
             ]
         },
@@ -11966,9 +12077,9 @@ export default {
                     "description": "You can unlock special costumes!"
                 },
                 {
-                    "id": "1054663",
+                    "id": "1225809",
                     "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
+                    "description": "You can unlock special character-themed outfits for your Mii characters!"
                 },
                 {
                     "id": "1021489",
@@ -11996,9 +12107,14 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
-                    "id": "1225809",
+                    "id": "1388641",
                     "rank": "2",
-                    "description": "You can unlock special character-themed outfits for your Mii characters!"
+                    "description": "You can receive Party Points."
+                },
+                {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
                 },
                 {
                     "id": "892704",
@@ -12011,9 +12127,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1213275",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1026451",
@@ -12021,7 +12137,77 @@ export default {
                     "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
-                    "id": "1231536",
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1086374",
                     "rank": "1",
                     "description": "You can get extra items."
                 },
@@ -12031,29 +12217,9 @@ export default {
                     "description": "You can unlock in-game collectible cards!"
                 },
                 {
-                    "id": "1173332",
+                    "id": "765384",
                     "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
                 },
                 {
                     "id": "892779",
@@ -12061,59 +12227,9 @@ export default {
                     "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
                     "id": "892923",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "765384",
-                    "rank": "1",
-                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
                     "id": "1175315",
@@ -12141,19 +12257,19 @@ export default {
                     "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 },
                 {
-                    "id": "1175329",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can find Secret Spots!"
                 },
                 {
-                    "id": "1348071",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
-                    "id": "1081362",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get extra items, weapons and more."
                 }
             ]
         },
@@ -13634,9 +13750,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1136172",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
                     "id": "1175329",
@@ -13644,9 +13760,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1175211",
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1026139",
@@ -13654,9 +13770,9 @@ export default {
                     "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
-                    "id": "1081363",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "954437",
@@ -13664,9 +13780,9 @@ export default {
                     "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
-                    "id": "1136169",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1175315",
@@ -13674,9 +13790,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "893260",
+                    "id": "1081362",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1348072",
@@ -13684,9 +13800,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1081362",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "986009",
@@ -13694,9 +13810,9 @@ export default {
                     "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
-                    "id": "1231536",
+                    "id": "1233956",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1348071",
@@ -13704,9 +13820,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1233956",
+                    "id": "1025970",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1213275",
@@ -13714,14 +13830,13 @@ export default {
                     "description": "You can receive a selection of fragments."
                 },
                 {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
                 },
                 {
-                    "id": "892923",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1325999",
@@ -13729,13 +13844,14 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1109483",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can get in-game coins!"
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "891849",
@@ -13758,24 +13874,28 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1091342",
+                    "id": "1109483",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1026143",
-                    "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
                 },
                 {
-                    "id": "1136168",
+                    "id": "892923",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1025884",
                     "rank": "1",
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
                 }
             ]
         },
@@ -14104,9 +14224,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1091342",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1175329",
@@ -14114,9 +14234,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
                     "id": "892923",
@@ -14124,9 +14244,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1175211",
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "954437",
@@ -14134,9 +14254,9 @@ export default {
                     "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
-                    "id": "1081363",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "892779",
@@ -14144,9 +14264,9 @@ export default {
                     "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
-                    "id": "1136169",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1175315",
@@ -14154,9 +14274,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "893260",
+                    "id": "1081362",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1348072",
@@ -14164,9 +14284,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1081362",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1109483",
@@ -14174,9 +14294,9 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1231536",
+                    "id": "1233956",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1348071",
@@ -14184,9 +14304,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1233956",
+                    "id": "1025970",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1025884",
@@ -14194,14 +14314,13 @@ export default {
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
                 },
                 {
-                    "id": "864329",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
                     "id": "1325999",
@@ -14209,13 +14328,14 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1026143",
+                    "id": "986009",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
                     "id": "891849",
@@ -14238,24 +14358,28 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
+                    "id": "1026143",
+                    "rank": "1",
+                    "description": "You can unlock character cards to use in battle!"
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
                     "id": "1213275",
                     "rank": "1",
                     "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1026139",
-                    "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
                 }
             ]
         },
@@ -15454,243 +15578,6 @@ export default {
             ]
         },
         {
-            "id": "1093727",
-            "number": "ZZZZ",
-            "name": "Turbo Charge Donkey Kong",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_SkylandersSuperChargers_Turbo_Charge_DonkeyKong_image500w.jpg",
-            "dateRelease": "2015-09-25T00:00:00Z",
-            "collection": "Skylanders SuperChargers",
-            "gameSeries": [
-                "donkey_kong"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "1114009",
-                    "rank": "4",
-                    "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
-                },
-                {
-                    "id": "1101346",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "2",
-                    "description": "You can unlock figures or earn extra moolah in-game!"
-                },
-                {
-                    "id": "892537",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
-                    "id": "1348073",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
-                },
-                {
-                    "id": "892704",
-                    "rank": "2",
-                    "description": "After using an amiibo, when Mario grabs a Mystery Mushroom he takes on the amiibo character's appearance, complete with character-specific animations and sound effects."
-                },
-                {
-                    "id": "1136171",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1026139",
-                    "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "864329",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
-                    "id": "1026141",
-                    "rank": "1",
-                    "description": "You can play the game as this character!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "864849",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
-                    "id": "765384",
-                    "rank": "1",
-                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
-                }
-            ]
-        },
-        {
             "id": "1093728",
             "number": "ZZZZ",
             "name": "Hammer Slam Bowser",
@@ -15947,6 +15834,243 @@ export default {
                     "id": "1348072",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
+                }
+            ]
+        },
+        {
+            "id": "1093727",
+            "number": "ZZZZ",
+            "name": "Turbo Charge Donkey Kong",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI16_SkylandersSuperChargers_Turbo_Charge_DonkeyKong_image500w.jpg",
+            "dateRelease": "2015-09-25T00:00:00Z",
+            "collection": "Skylanders SuperChargers",
+            "gameSeries": [
+                "donkey_kong"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "1114009",
+                    "rank": "4",
+                    "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
+                },
+                {
+                    "id": "1101346",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1101292",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "2",
+                    "description": "You can unlock figures or earn extra moolah in-game!"
+                },
+                {
+                    "id": "892537",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "1348073",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "892779",
+                    "rank": "2",
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
+                },
+                {
+                    "id": "892704",
+                    "rank": "2",
+                    "description": "After using an amiibo, when Mario grabs a Mystery Mushroom he takes on the amiibo character's appearance, complete with character-specific animations and sound effects."
+                },
+                {
+                    "id": "1136171",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1026139",
+                    "rank": "1",
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1231536",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1026141",
+                    "rank": "1",
+                    "description": "You can play the game as this character!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "864849",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "765384",
+                    "rank": "1",
+                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
                 }
             ]
         },
@@ -16687,9 +16811,9 @@ export default {
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1091342",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1175329",
@@ -16697,9 +16821,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1175211",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can summon a monster to assist you in battle."
                 },
                 {
                     "id": "892923",
@@ -16707,9 +16831,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1175211",
+                    "id": "1081363",
                     "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "954437",
@@ -16717,9 +16841,9 @@ export default {
                     "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
-                    "id": "1081363",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "892779",
@@ -16727,9 +16851,9 @@ export default {
                     "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
-                    "id": "1136169",
+                    "id": "893260",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
                     "id": "1175315",
@@ -16737,9 +16861,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "893260",
+                    "id": "1081362",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
                     "id": "1348072",
@@ -16747,9 +16871,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1081362",
+                    "id": "1231536",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can get extra items."
                 },
                 {
                     "id": "1109483",
@@ -16757,9 +16881,9 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1231536",
+                    "id": "1233956",
                     "rank": "1",
-                    "description": "You can get extra items."
+                    "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
                     "id": "1348071",
@@ -16767,9 +16891,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1233956",
+                    "id": "1025970",
                     "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
                     "id": "1025884",
@@ -16777,14 +16901,13 @@ export default {
                     "description": "You can unlock paint jobs for your Mech in Blast Ball!"
                 },
                 {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
                 },
                 {
-                    "id": "864329",
+                    "id": "1026139",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
                     "id": "1325999",
@@ -16792,13 +16915,14 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "id": "1136168",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1026143",
+                    "id": "986009",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
                     "id": "891849",
@@ -16821,24 +16945,28 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
+                    "id": "1026143",
+                    "rank": "1",
+                    "description": "You can unlock character cards to use in battle!"
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
                     "id": "1213275",
                     "rank": "1",
                     "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1026139",
-                    "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
                 }
             ]
         },
@@ -25549,19 +25677,9 @@ export default {
                     "description": "You can unlock a character-themed Yoshi pattern."
                 },
                 {
-                    "id": "1021489",
+                    "id": "1348071",
                     "rank": "1",
-                    "description": "You can earn extra moolah in-game!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "1",
-                    "description": "You can play Scratch Bonus and earn Mario Party Points."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1081363",
@@ -25569,9 +25687,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1275928",
+                    "id": "1026451",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
                     "id": "892923",
@@ -25579,9 +25697,9 @@ export default {
                     "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1213275",
+                    "id": "1275928",
                     "rank": "1",
-                    "description": "You can receive a selection of fragments."
+                    "description": "You can unlock a special item!"
                 },
                 {
                     "id": "1109483",
@@ -25589,9 +25707,9 @@ export default {
                     "description": "You can get in-game coins!"
                 },
                 {
-                    "id": "1101346",
+                    "id": "1213275",
                     "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                    "description": "You can receive a selection of fragments."
                 },
                 {
                     "id": "1081362",
@@ -25599,9 +25717,9 @@ export default {
                     "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1136169",
+                    "id": "1101346",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
                 },
                 {
                     "id": "1231536",
@@ -25609,9 +25727,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1136172",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can find Secret Spots!"
                 },
                 {
                     "id": "986009",
@@ -25619,9 +25737,9 @@ export default {
                     "description": "You can unlock gameplay highlights from select NES and Super NES titles."
                 },
                 {
-                    "id": "1275927",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1233956",
@@ -25629,9 +25747,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1348071",
+                    "id": "1275927",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can get an extra life once per day in Minigame Island!"
                 },
                 {
                     "id": "1025970",
@@ -25639,9 +25757,9 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1348072",
+                    "id": "1175329",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1225809",
@@ -25649,14 +25767,33 @@ export default {
                     "description": "You can get Game Tickets to use at the Arcade!"
                 },
                 {
-                    "id": "1325999",
+                    "id": "1348072",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
-                    "id": "1054663",
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "1101292",
                     "rank": "1",
-                    "description": "You can unlock a special item!"
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
                     "id": "1175315",
@@ -25669,39 +25806,38 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
+                    "id": "1388641",
+                    "description": "You can unlock Shiny Stickers."
+                },
+                {
                     "id": "1086374",
                     "rank": "1",
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1173609",
+                    "id": "1021489",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can earn extra moolah in-game!"
                 },
                 {
-                    "id": "1091342",
+                    "id": "1054663",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock a special item!"
                 },
                 {
-                    "id": "893260",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1101292",
+                    "id": "892779",
                     "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                    "description": "You can play Scratch Bonus and earn Mario Party Points."
                 },
                 {
                     "id": "1175211",
                     "rank": "1",
                     "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
                 }
             ]
         },
@@ -33291,257 +33427,6 @@ export default {
             ]
         },
         {
-            "id": "1239440",
-            "name": "Peach",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_PeachWedding_image500w.jpg",
-            "dateRelease": "2017-10-27T00:00:00Z",
-            "collection": "Super Mario Collection",
-            "gameSeries": [
-                "super_mario"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "892704",
-                    "rank": "2",
-                    "description": "After using an amiibo, when Mario grabs a Mystery Mushroom he takes on the amiibo character's appearance, complete with character-specific animations and sound effects."
-                },
-                {
-                    "id": "1233954",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "3",
-                    "description": "You can receive a wedding outfit and receive a Life-Up Heart"
-                },
-                {
-                    "id": "1114009",
-                    "rank": "4",
-                    "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
-                },
-                {
-                    "id": "1313750",
-                    "rank": "3",
-                    "description": "You can unlock special costumes!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "3",
-                    "description": "You can instantly unlock the stages based on Super Mario Odyssey by scanning one of these amiibo."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "3",
-                    "description": "You can instantly unlock the stages based on Super Mario Odyssey by scanning one of these amiibo."
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1054663",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "1348073",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "892537",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1025884",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs and get a special advantage in battle!"
-                },
-                {
-                    "id": "1225809",
-                    "rank": "2",
-                    "description": "You can unlock special character-themed outfits for your Mii characters!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "2",
-                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
-                },
-                {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "2",
-                    "description": "You can unlock a character-themed Yoshi pattern."
-                },
-                {
-                    "id": "1101346",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "2",
-                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
-                },
-                {
-                    "id": "1275928",
-                    "rank": "2",
-                    "description": "You can unlock a special character-themed item!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "2",
-                    "description": "You can unlock figures or earn extra moolah in-game!"
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "1026139",
-                    "rank": "1",
-                    "description": "You can train your amiibo as a doubles partner!"
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "954437",
-                    "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1026143",
-                    "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "864849",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
-                    "id": "765384",
-                    "rank": "1",
-                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "864329",
-                    "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1136168",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
-                }
-            ]
-        },
-        {
             "id": "1239439",
             "name": "Bowser",
             "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_BowserWedding_image500w.jpg",
@@ -33903,9 +33788,263 @@ export default {
                     "description": "You can unlock a special character-themed item!"
                 },
                 {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1026139",
+                    "rank": "1",
+                    "description": "You can train your amiibo as a doubles partner!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
                     "id": "1136168",
                     "rank": "1",
                     "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1231536",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "864329",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1348382",
+                    "description": "You can use amiibo to give Luigi a helping hand on his adventure."
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1275927",
+                    "rank": "1",
+                    "description": "You can get an extra life once per day in Minigame Island!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "954437",
+                    "rank": "1",
+                    "description": "You can unlock a character-themed aircraft skin."
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "864849",
+                    "rank": "1",
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                },
+                {
+                    "id": "765384",
+                    "rank": "1",
+                    "description": "If you tap an amiibo to the Wii U GamePad, you'll unlock a Mii racing suit based on that character's look!"
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "1026143",
+                    "rank": "1",
+                    "description": "You can unlock character cards to use in battle!"
+                }
+            ]
+        },
+        {
+            "id": "1239440",
+            "name": "Peach",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_SuperMarioSeries_PeachWedding_image500w.jpg",
+            "dateRelease": "2017-10-27T00:00:00Z",
+            "collection": "Super Mario Collection",
+            "gameSeries": [
+                "super_mario"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "892704",
+                    "rank": "2",
+                    "description": "After using an amiibo, when Mario grabs a Mystery Mushroom he takes on the amiibo character's appearance, complete with character-specific animations and sound effects."
+                },
+                {
+                    "id": "1233954",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "3",
+                    "description": "You can receive a wedding outfit and receive a Life-Up Heart"
+                },
+                {
+                    "id": "1114009",
+                    "rank": "4",
+                    "description": "Your amiibo can join you as an ally character in Toad Scramble. In other modes, you can play as the amiibo character, receive special Dice Blocks or get other bonuses!"
+                },
+                {
+                    "id": "1313750",
+                    "rank": "3",
+                    "description": "You can unlock special costumes!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "3",
+                    "description": "You can instantly unlock the stages based on Super Mario Odyssey by scanning one of these amiibo."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "3",
+                    "description": "You can instantly unlock the stages based on Super Mario Odyssey by scanning one of these amiibo."
+                },
+                {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "1348073",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "892537",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1025884",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs and get a special advantage in battle!"
+                },
+                {
+                    "id": "1225809",
+                    "rank": "2",
+                    "description": "You can unlock special character-themed outfits for your Mii characters!"
+                },
+                {
+                    "id": "892779",
+                    "rank": "2",
+                    "description": "You can unlock amiibo Party mode, save Tokens to amiibo, customise boards in amiibo Party, and more!"
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "2",
+                    "description": "You can unlock a character-themed Yoshi pattern."
+                },
+                {
+                    "id": "1101346",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1101292",
+                    "rank": "2",
+                    "description": "You can play as a Mini Toy and unlock levels to match the character!"
+                },
+                {
+                    "id": "1275928",
+                    "rank": "2",
+                    "description": "You can unlock a special character-themed item!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "2",
+                    "description": "You can unlock figures or earn extra moolah in-game!"
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
                 },
                 {
                     "id": "1175211",
@@ -33918,9 +34057,9 @@ export default {
                     "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
-                    "id": "1081363",
+                    "id": "1136172",
                     "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
+                    "description": "You can unlock in-game collectible cards!"
                 },
                 {
                     "id": "1026139",
@@ -33928,23 +34067,24 @@ export default {
                     "description": "You can train your amiibo as a doubles partner!"
                 },
                 {
-                    "id": "893260",
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1173609",
                     "rank": "1",
                     "description": "You can get a selection of items to help you on your adventure!"
                 },
                 {
-                    "id": "1175315",
+                    "id": "1136169",
                     "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
+                    "description": "You can find Secret Spots!"
                 },
                 {
-                    "id": "1325999",
+                    "id": "892923",
                     "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
+                    "description": "You can boost your supply of 1-Ups."
                 },
                 {
                     "id": "1081362",
@@ -33962,9 +34102,9 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "864329",
+                    "id": "954437",
                     "rank": "1",
-                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
+                    "description": "You can unlock a character-themed aircraft skin."
                 },
                 {
                     "id": "1233956",
@@ -33972,9 +34112,9 @@ export default {
                     "description": "You can unlock one Illustration Piece and additional items."
                 },
                 {
-                    "id": "1091342",
+                    "id": "1026143",
                     "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
+                    "description": "You can unlock character cards to use in battle!"
                 },
                 {
                     "id": "1025970",
@@ -33982,19 +34122,19 @@ export default {
                     "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "1136169",
+                    "id": "1091342",
                     "rank": "1",
-                    "description": "You can find Secret Spots!"
+                    "description": "You can get a Copy Ability for Kirby!"
                 },
                 {
-                    "id": "1275927",
-                    "rank": "1",
-                    "description": "You can get an extra life once per day in Minigame Island!"
-                },
-                {
-                    "id": "1173609",
+                    "id": "893260",
                     "rank": "1",
                     "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
                 },
                 {
                     "id": "1109483",
@@ -34022,31 +34162,31 @@ export default {
                     "description": "You can get extra items."
                 },
                 {
-                    "id": "1026143",
+                    "id": "864329",
                     "rank": "1",
-                    "description": "You can unlock character cards to use in battle!"
+                    "description": "You can bring your amiibo into the game as a powerful fighter that grows and evolves over time."
                 },
                 {
-                    "id": "954437",
+                    "id": "1325999",
                     "rank": "1",
-                    "description": "You can unlock a character-themed aircraft skin."
+                    "description": "You can get extra items, weapons and more."
                 },
                 {
-                    "id": "892923",
+                    "id": "1136168",
                     "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
+                    "description": "You can unlock special puzzles in-game!"
                 },
                 {
-                    "id": "1136172",
+                    "id": "1275927",
                     "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
+                    "description": "You can get an extra life once per day in Minigame Island!"
                 }
             ]
         },
         {
-            "id": "1239431",
-            "name": "Daruk",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Daruk_image500w.jpg",
+            "id": "1239432",
+            "name": "Mipha",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Mipha_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -34230,9 +34370,9 @@ export default {
             ]
         },
         {
-            "id": "1239432",
-            "name": "Mipha",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Mipha_image500w.jpg",
+            "id": "1239431",
+            "name": "Daruk",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_Amiibo_TheLegendOfZeldaBreathOfTheWild_Daruk_image500w.jpg",
             "dateRelease": "2017-11-10T00:00:00Z",
             "collection": "The Legend of Zelda Collection",
             "gameSeries": [
@@ -35382,6 +35522,780 @@ export default {
             ]
         },
         {
+            "id": "1401278",
+            "number": "ATAA",
+            "name": "Solaire of Astora",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_DarkSoulsRemastered_Amiibo_SolaireOfAstora_image500w.jpg",
+            "dateRelease": "2018-10-19T00:00:00Z",
+            "collection": "Other",
+            "gameSeries": [
+                "other"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "1025884",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs and get a special advantage in battle!"
+                },
+                {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "1",
+                    "description": "You can earn extra moolah in-game!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "892779",
+                    "rank": "1",
+                    "description": "You can play Scratch Bonus and earn Mario Party Points."
+                },
+                {
+                    "id": "892537",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "1081363",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1081362",
+                    "rank": "1",
+                    "description": "You can unlock special puzzles in-game!"
+                },
+                {
+                    "id": "1101346",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1348073",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1231536",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1325790",
+                    "rank": "1",
+                    "description": "You can perform the \"Praise the Sun\" gesture at any time."
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                }
+            ]
+        },
+        {
+            "id": "1401276",
+            "number": "AEAP",
+            "name": "Octoling girl",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingGirl_image500w.jpg",
+            "dateRelease": "2018-11-09T00:00:00Z",
+            "collection": "Splatoon Collection",
+            "gameSeries": [
+                "splatoon"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "1173295",
+                    "rank": "3",
+                    "description": "Stay tuned for amiibo compatibility information!"
+                },
+                {
+                    "id": "1025884",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs and get a special advantage in battle!"
+                },
+                {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "892537",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "892779",
+                    "rank": "1",
+                    "description": "You can play Scratch Bonus and earn Mario Party Points."
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1101346",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1348073",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "1",
+                    "description": "You can earn extra moolah in-game!"
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                }
+            ]
+        },
+        {
+            "id": "1401275",
+            "number": "AEAQ",
+            "name": "Octoling boy",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingBoy_image500w.jpg",
+            "dateRelease": "2018-11-09T00:00:00Z",
+            "collection": "Splatoon Collection",
+            "gameSeries": [
+                "splatoon"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "1173295",
+                    "rank": "3",
+                    "description": "Stay tuned for amiibo compatibility information!"
+                },
+                {
+                    "id": "1025884",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs and get a special advantage in battle!"
+                },
+                {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "892537",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "892779",
+                    "rank": "1",
+                    "description": "You can play Scratch Bonus and earn Mario Party Points."
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1101346",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1348073",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "1",
+                    "description": "You can earn extra moolah in-game!"
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                }
+            ]
+        },
+        {
+            "id": "1401277",
+            "number": "AEAR",
+            "name": "Octoling Octopus",
+            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingOctopus_image500w.jpg",
+            "dateRelease": "2018-11-09T00:00:00Z",
+            "collection": "Splatoon Collection",
+            "gameSeries": [
+                "splatoon"
+            ],
+            "compatibleGames": [
+                {
+                    "id": "1173295",
+                    "rank": "3",
+                    "description": "Stay tuned for amiibo compatibility information!"
+                },
+                {
+                    "id": "1025884",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs and get a special advantage in battle!"
+                },
+                {
+                    "id": "1125616",
+                    "rank": "2",
+                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
+                },
+                {
+                    "id": "1173281",
+                    "rank": "2",
+                    "description": "You can unlock a Mii Suit based on that character's look!"
+                },
+                {
+                    "id": "1091342",
+                    "rank": "1",
+                    "description": "You can get a Copy Ability for Kirby!"
+                },
+                {
+                    "id": "1136171",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "1175211",
+                    "rank": "1",
+                    "description": "You can summon a monster to assist you in battle."
+                },
+                {
+                    "id": "1026451",
+                    "rank": "1",
+                    "description": "You can get coins or rings to use at the Item Stand!"
+                },
+                {
+                    "id": "1348072",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "892537",
+                    "rank": "1",
+                    "description": "You can unlock a Yoshi pattern."
+                },
+                {
+                    "id": "892779",
+                    "rank": "1",
+                    "description": "You can play Scratch Bonus and earn Mario Party Points."
+                },
+                {
+                    "id": "1101292",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "892923",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1213275",
+                    "rank": "1",
+                    "description": "You can receive a selection of fragments."
+                },
+                {
+                    "id": "1175315",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1101346",
+                    "rank": "1",
+                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
+                },
+                {
+                    "id": "1348073",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1136169",
+                    "rank": "1",
+                    "description": "You can find Secret Spots!"
+                },
+                {
+                    "id": "1173332",
+                    "rank": "1",
+                    "description": "You can reveal a Power Moon's location."
+                },
+                {
+                    "id": "986009",
+                    "rank": "1",
+                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
+                },
+                {
+                    "id": "1233956",
+                    "rank": "1",
+                    "description": "You can unlock one Illustration Piece and additional items."
+                },
+                {
+                    "id": "1175329",
+                    "rank": "1",
+                    "description": "You can receive a random amount of gold or rare materials."
+                },
+                {
+                    "id": "1025970",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1348071",
+                    "rank": "1",
+                    "description": "You can boost your supply of 1-Ups."
+                },
+                {
+                    "id": "1225809",
+                    "rank": "1",
+                    "description": "You can get Game Tickets to use at the Arcade!"
+                },
+                {
+                    "id": "1109483",
+                    "rank": "1",
+                    "description": "You can get in-game coins!"
+                },
+                {
+                    "id": "893260",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "891849",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1086374",
+                    "rank": "1",
+                    "description": "You can get extra items."
+                },
+                {
+                    "id": "1313750",
+                    "description": "You can obtain in-game currency, items or crafting materials."
+                },
+                {
+                    "id": "1173609",
+                    "rank": "1",
+                    "description": "You can get a selection of items to help you on your adventure!"
+                },
+                {
+                    "id": "1054663",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1325999",
+                    "rank": "1",
+                    "description": "You can get extra items, weapons and more."
+                },
+                {
+                    "id": "1275928",
+                    "rank": "1",
+                    "description": "You can unlock a special item!"
+                },
+                {
+                    "id": "1021489",
+                    "rank": "1",
+                    "description": "You can earn extra moolah in-game!"
+                },
+                {
+                    "id": "1136172",
+                    "rank": "1",
+                    "description": "You can unlock in-game collectible cards!"
+                }
+            ]
+        },
+        {
             "id": "1404360",
             "number": "AACV",
             "name": "Wolf",
@@ -35959,780 +36873,6 @@ export default {
                     "id": "1348072",
                     "rank": "1",
                     "description": "You can boost your supply of 1-Ups."
-                }
-            ]
-        },
-        {
-            "id": "1401276",
-            "number": "AEAP",
-            "name": "Octoling girl",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingGirl_image500w.jpg",
-            "dateRelease": "2050-12-31T00:00:00Z",
-            "collection": "Splatoon Collection",
-            "gameSeries": [
-                "splatoon"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "1173295",
-                    "rank": "3",
-                    "description": "Stay tuned for amiibo compatibility information!"
-                },
-                {
-                    "id": "1025884",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs and get a special advantage in battle!"
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "892537",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "892779",
-                    "rank": "1",
-                    "description": "You can play Scratch Bonus and earn Mario Party Points."
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1101346",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1348073",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "1",
-                    "description": "You can earn extra moolah in-game!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                }
-            ]
-        },
-        {
-            "id": "1401275",
-            "number": "AEAQ",
-            "name": "Octoling boy",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingBoy_image500w.jpg",
-            "dateRelease": "2050-12-31T00:00:00Z",
-            "collection": "Splatoon Collection",
-            "gameSeries": [
-                "splatoon"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "1173295",
-                    "rank": "3",
-                    "description": "Stay tuned for amiibo compatibility information!"
-                },
-                {
-                    "id": "1025884",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs and get a special advantage in battle!"
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "892537",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "892779",
-                    "rank": "1",
-                    "description": "You can play Scratch Bonus and earn Mario Party Points."
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1101346",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1348073",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "1",
-                    "description": "You can earn extra moolah in-game!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                }
-            ]
-        },
-        {
-            "id": "1401277",
-            "number": "AEAR",
-            "name": "Octoling Octopus",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_Splatoon2_Amiibo_OctolingOctopus_image500w.jpg",
-            "dateRelease": "2050-12-31T00:00:00Z",
-            "collection": "Splatoon Collection",
-            "gameSeries": [
-                "splatoon"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "1173295",
-                    "rank": "3",
-                    "description": "Stay tuned for amiibo compatibility information!"
-                },
-                {
-                    "id": "1025884",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs and get a special advantage in battle!"
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1173281",
-                    "rank": "2",
-                    "description": "You can unlock a Mii Suit based on that character's look!"
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "892537",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "892779",
-                    "rank": "1",
-                    "description": "You can play Scratch Bonus and earn Mario Party Points."
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1101346",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1348073",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "1",
-                    "description": "You can earn extra moolah in-game!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                }
-            ]
-        },
-        {
-            "id": "1401278",
-            "number": "ATAA",
-            "name": "Solaire of Astora",
-            "figureImageUrl": "https://cdn01.nintendo-europe.com/media/images/05_packshots/amiibo_1/CI_NSwitch_DarkSoulsRemastered_Amiibo_SolaireOfAstora_image500w.jpg",
-            "dateRelease": "2050-12-31T00:00:00Z",
-            "collection": "Other",
-            "gameSeries": [
-                "other"
-            ],
-            "compatibleGames": [
-                {
-                    "id": "1025884",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs and get a special advantage in battle!"
-                },
-                {
-                    "id": "1125616",
-                    "rank": "2",
-                    "description": "You can unlock paint jobs for your Mech in Blast Ball!"
-                },
-                {
-                    "id": "1021489",
-                    "rank": "1",
-                    "description": "You can earn extra moolah in-game!"
-                },
-                {
-                    "id": "1136171",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "1175211",
-                    "rank": "1",
-                    "description": "You can summon a monster to assist you in battle."
-                },
-                {
-                    "id": "1026451",
-                    "rank": "1",
-                    "description": "You can get coins or rings to use at the Item Stand!"
-                },
-                {
-                    "id": "1348072",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1109483",
-                    "rank": "1",
-                    "description": "You can get in-game coins!"
-                },
-                {
-                    "id": "892779",
-                    "rank": "1",
-                    "description": "You can play Scratch Bonus and earn Mario Party Points."
-                },
-                {
-                    "id": "892537",
-                    "rank": "1",
-                    "description": "You can unlock a Yoshi pattern."
-                },
-                {
-                    "id": "1081363",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1101292",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "892923",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1213275",
-                    "rank": "1",
-                    "description": "You can receive a selection of fragments."
-                },
-                {
-                    "id": "1081362",
-                    "rank": "1",
-                    "description": "You can unlock special puzzles in-game!"
-                },
-                {
-                    "id": "1101346",
-                    "rank": "1",
-                    "description": "You can play 12 basic levels as the toy robot Mini Spek!"
-                },
-                {
-                    "id": "1348073",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1136169",
-                    "rank": "1",
-                    "description": "You can find Secret Spots!"
-                },
-                {
-                    "id": "1231536",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1054663",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1173332",
-                    "rank": "1",
-                    "description": "You can reveal a Power Moon's location."
-                },
-                {
-                    "id": "1091342",
-                    "rank": "1",
-                    "description": "You can get a Copy Ability for Kirby!"
-                },
-                {
-                    "id": "1233956",
-                    "rank": "1",
-                    "description": "You can unlock one Illustration Piece and additional items."
-                },
-                {
-                    "id": "1348071",
-                    "rank": "1",
-                    "description": "You can boost your supply of 1-Ups."
-                },
-                {
-                    "id": "1025970",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1275928",
-                    "rank": "1",
-                    "description": "You can unlock a special item!"
-                },
-                {
-                    "id": "1225809",
-                    "rank": "1",
-                    "description": "You can get Game Tickets to use at the Arcade!"
-                },
-                {
-                    "id": "1325999",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1325790",
-                    "rank": "1",
-                    "description": "You can perform the \"Praise the Sun\" gesture at any time."
-                },
-                {
-                    "id": "891849",
-                    "rank": "1",
-                    "description": "You can get extra items, weapons and more."
-                },
-                {
-                    "id": "1086374",
-                    "rank": "1",
-                    "description": "You can get extra items."
-                },
-                {
-                    "id": "1313750",
-                    "description": "You can obtain in-game currency, items or crafting materials."
-                },
-                {
-                    "id": "1173609",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1136172",
-                    "rank": "1",
-                    "description": "You can unlock in-game collectible cards!"
-                },
-                {
-                    "id": "893260",
-                    "rank": "1",
-                    "description": "You can get a selection of items to help you on your adventure!"
-                },
-                {
-                    "id": "1175315",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
-                },
-                {
-                    "id": "986009",
-                    "rank": "1",
-                    "description": "You can unlock gameplay highlights from select NES and Super NES titles."
-                },
-                {
-                    "id": "1175329",
-                    "rank": "1",
-                    "description": "You can receive a random amount of gold or rare materials."
                 }
             ]
         }

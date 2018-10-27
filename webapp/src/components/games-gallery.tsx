@@ -64,7 +64,7 @@ const Game: React.StatelessComponent<GameProps> = ({
 }) => (
     <Link to={`/games/${id}`} style={styleGame}>
         <div style={styleGameCovercontainer}>
-            <Img style={styleGameCover} src={cover} offset={200} />
+            <Img style={styleGameCover} src={cover} />
         </div>
         <div style={styleDescription}>
             <div>
