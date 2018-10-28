@@ -6682,10 +6682,12 @@ react-error-overlay@^4.0.1:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.1.tgz#417addb0814a90f3a7082eacba7cee588d00da89"
   integrity sha512-xXUbDAZkU08aAkjtUvldqbvI04ogv+a1XdHxvYuHPYKIVk/42BIOD0zSKTHAWV4+gDy3yGm283z2072rA2gdtw==
 
-react-lazy-img@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-0.0.4.tgz#8967185ca05429fcf67c261e9a8569819b6aaa98"
-  integrity sha512-ZJcEFpfoOz4Q5A8ieICkt88wS9iAx6/tBmVeIK/beD3WLXvD+PdnZlJ/wh7M+cVP0No4YdbqIsTklOyLy75Q0w==
+react-lazy-img@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-0.0.5.tgz#65b279dc803b6191c01825be707d4e044df8e07a"
+  integrity sha512-j+qmKDOwnNmxoHEJoHqGZWzHq9mtaDudN5P5AlZ8OMyVMIU8VzFJVpI+nU2/BrJvvJmrb7KzOUyT0rDzqwk7FQ==
+  dependencies:
+    requestidlecallback-polyfill "^1.0.1"
 
 react-router-dom@^4.3.1:
   version "4.3.1"
@@ -7022,6 +7024,11 @@ request@^2.79.0, request@^2.87.0:
     tough-cookie "~2.4.3"
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
+
+requestidlecallback-polyfill@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/requestidlecallback-polyfill/-/requestidlecallback-polyfill-1.0.1.tgz#aa1cb3be94a5ee82d3e29a3a89aa4b7be75de0d7"
+  integrity sha512-ER/dr+O22Xmu88w3gYKz0It90t7UOpFv/rhpikYSW0CO8jQsaEHQHg1Wacs7VZLTLu1+RI39RXETivnsTWQCKg==
 
 require-directory@^2.1.1:
   version "2.1.1"
