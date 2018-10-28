@@ -32,7 +32,7 @@ const styleName: React.CSSProperties = {
 const Amiibo: React.StatelessComponent<Amiibo> = ({ name, id }) => (
     <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
-            <Img src={getAmiiboImage(id)} style={styleImg} />
+            <Img src={getAmiiboImage(id)} style={styleImg} alt={name} />
             <div style={styleName}>{cut(name, 40)}</div>
         </Link>
     </div>

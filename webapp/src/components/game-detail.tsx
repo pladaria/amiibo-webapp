@@ -85,6 +85,7 @@ const AmiiboItem: React.StatelessComponent<AmiiboProps> = ({
                 <Img
                     style={{ width: 75, height: 84, marginTop: -8 }}
                     src={imageUrl}
+                    alt={name}
                 />
             </div>
             <div style={styleAmiiboDescription}>
@@ -129,7 +130,11 @@ class GameDetail extends React.Component<Props, State> {
             <>
                 <BackButton onGoBack={onGoBack} />
                 <div style={styleGameContainer}>
-                    <img style={styleGameImage} src={getGameImage(game.id)} />
+                    <img
+                        style={styleGameImage}
+                        src={getGameImage(game.id)}
+                        alt={game.name}
+                    />
                 </div>
                 <Card>
                     <div style={{ padding: 16 }}>

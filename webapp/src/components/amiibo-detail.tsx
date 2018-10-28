@@ -94,7 +94,7 @@ const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
     return (
         <Link to={`/games/${id}`} style={styleGame} key={id}>
             <div style={styleGameCoverContainer}>
-                <Img style={styleGameCover} src={getGameImage(id)} />
+                <Img style={styleGameCover} src={getGameImage(id)} alt={name} />
             </div>
             <div style={styleGameDescription}>
                 <div>
@@ -138,6 +138,7 @@ class AmiiboDetail extends React.Component<Props, State> {
                         <img
                             style={styleFigureImage}
                             src={getAmiiboImage(amiibo.id)}
+                            alt={amiibo.name}
                         />
                     </div>
                     <h1 style={styleAmiiboName}>{amiibo.name}</h1>
