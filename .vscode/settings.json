@@ -1,6 +1,7 @@
 {
     "search.exclude": {
         "**/node_modules": true,
-        "**/docs": true
+        "**/docs": true,
+        "**/dump": true
     }
 }

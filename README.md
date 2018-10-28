@@ -1,7 +1,15 @@
-# amiibo-webapp
+# amiibo.org webapp
 
-Shows a Nintendo Amiibo gallery and compatible games
+Nintendo Amiibo gallery with information about compatible games
 
-Visit at [amiibo.org](https://amiibo.org).
+Visit [amiibo.org](https://amiibo.org). Best viewed using a mobile device!
 
-Best viewed using a mobile device
+# Legal
+
+Nintendo and Amiibo are trademarks of Nintendo Co.
+
+All trademarks, logos and images are the property of their respective owners
+
+# License for the code
+
+MIT
