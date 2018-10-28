@@ -6682,10 +6682,10 @@ react-error-overlay@^4.0.1:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.1.tgz#417addb0814a90f3a7082eacba7cee588d00da89"
   integrity sha512-xXUbDAZkU08aAkjtUvldqbvI04ogv+a1XdHxvYuHPYKIVk/42BIOD0zSKTHAWV4+gDy3yGm283z2072rA2gdtw==
 
-react-lazy-img@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-0.0.5.tgz#65b279dc803b6191c01825be707d4e044df8e07a"
-  integrity sha512-j+qmKDOwnNmxoHEJoHqGZWzHq9mtaDudN5P5AlZ8OMyVMIU8VzFJVpI+nU2/BrJvvJmrb7KzOUyT0rDzqwk7FQ==
+react-lazy-img@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-1.0.0.tgz#efacfacd591623c1c9624a3fbb36f79c90ea15ec"
+  integrity sha512-0gRT391EOBtmEqnr/+HXJF20mh/LLypt6mK9REHhNQXx8/NFSRrLYRkkAGSp718BXgYhmn1kbH7mGK4UYvWIRA==
   dependencies:
     requestidlecallback-polyfill "^1.0.1"
 
