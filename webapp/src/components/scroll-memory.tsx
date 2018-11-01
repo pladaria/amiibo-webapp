@@ -1,62 +1,55 @@
 import * as React from 'react';
 import { withRouter, RouteComponentProps } from 'react-router';
-import { UnregisterCallback } from 'history';
 
-type SavedLocation = { path: string; scroll: [number, number] };
+type Location = { path: string; scroll: [number, number] };
 
-class ScrollMemory extends React.Component<RouteComponentProps> {
-    unregister: UnregisterCallback;
-    locations: SavedLocation[] = [];
-    index = 0;
+const ScrollMemory: React.SFC<RouteComponentProps> = ({
+    location,
+    history,
+}) => {
+    const ref = React.useRef({ index: 0, locations: [] as Location[] }).current;
 
-    componentDidMount() {
-        this.locations.push({
-            path: this.props.location.pathname,
-            scroll: [0, 0],
-        });
+    const saveScroll = () => {
+        ref.locations[ref.index].scroll = [window.scrollX, window.scrollY];
+    };
 
-        this.unregister = this.props.history.listen((location, action) => {
-            const path = location.pathname;
-            if (
-                this.index > 0 &&
-                this.locations[this.index - 1].path === path &&
-                action !== 'PUSH'
-            ) {
-                this.index--;
-            } else if (
-                this.locations.length > this.index + 1 &&
-                this.locations[this.index + 1].path === path &&
-                action !== 'PUSH'
-            ) {
-                this.index++;
-            } else {
-                this.locations = this.locations.slice(0, this.index + 1);
-                this.locations.push({ path, scroll: [0, 0] });
-                this.index++;
-            }
-            this.restoreScroll();
-        });
-
-        window.addEventListener('scroll', this.saveScroll);
-    }
-
-    componentWillUnmount() {
-        this.unregister();
-        window.removeEventListener('scroll', this.saveScroll);
-    }
-
-    restoreScroll = () => {
-        const [x, y] = this.locations[this.index].scroll;
+    const restoreScroll = () => {
+        const [x, y] = ref.locations[ref.index].scroll;
         window.scrollTo(x, y);
     };
 
-    saveScroll = () => {
-        this.locations[this.index].scroll = [window.scrollX, window.scrollY];
-    };
+    React.useEffect(() => {
+        ref.locations.push({ path: location.pathname, scroll: [0, 0] });
+        window.addEventListener('scroll', saveScroll);
+        const unlistenHistory = history.listen((location, action) => {
+            const path = location.pathname;
+            if (
+                ref.index > 0 &&
+                ref.locations[ref.index - 1].path === path &&
+                action !== 'PUSH'
+            ) {
+                ref.index--;
+            } else if (
+                ref.locations.length > ref.index + 1 &&
+                ref.locations[ref.index + 1].path === path &&
+                action !== 'PUSH'
+            ) {
+                ref.index++;
+            } else {
+                ref.locations = ref.locations.slice(0, ref.index + 1);
+                ref.locations.push({ path, scroll: [0, 0] });
+                ref.index++;
+            }
+            restoreScroll();
+        });
 
-    render() {
-        return null;
-    }
-}
+        return () => {
+            window.removeEventListener('scroll', saveScroll);
+            unlistenHistory();
+        };
+    });
+
+    return null;
+};
 
 export default withRouter(ScrollMemory);
