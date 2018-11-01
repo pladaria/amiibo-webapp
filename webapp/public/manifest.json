@@ -1,6 +1,7 @@
 {
     "short_name": "amiibo.org",
     "name": "amiibo.org",
+    "description": "amiibo figures and compatible games gallery",
     "icons": [
         {
             "src": "app-icon.png",

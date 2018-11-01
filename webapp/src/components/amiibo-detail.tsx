@@ -112,46 +112,32 @@ interface Props {
     onGoBack: () => void;
 }
 
-interface State {
-    amiibo?: Amiibo;
-}
+const AmiiboDetail: React.StatelessComponent<Props> = ({ id, onGoBack }) => {
+    const amiibo = getAmiibo(id);
 
-class AmiiboDetail extends React.Component<Props, State> {
-    state = {} as State;
-
-    static getDerivedStateFromProps = (props: Props): State => ({
-        amiibo: getAmiibo(props.id),
-    });
-
-    render() {
-        if (!this.state.amiibo) {
-            return <Redirect to="/amiibos" />;
-        }
-
-        const { amiibo } = this.state;
-        const { onGoBack } = this.props;
-        return (
-            <>
-                <BackButton onGoBack={onGoBack} />
-                <div style={styleAmiiboContainer}>
-                    <div style={styleFigureContainer}>
-                        <img
-                            style={styleFigureImage}
-                            src={getAmiiboImage(amiibo.id)}
-                            alt={amiibo.name}
-                        />
-                    </div>
-                    <h1 style={styleAmiiboName}>{amiibo.name}</h1>
-                </div>
-                <Card>
-                    <div style={styleCompatibleGamesHeader}>
-                        Compatible games
-                    </div>
-                    {amiibo.compatibleGames.map(Game)}
-                </Card>
-            </>
-        );
+    if (!amiibo) {
+        return <Redirect to="/amiibos" />;
     }
-}
+
+    return (
+        <>
+            <BackButton onGoBack={onGoBack} />
+            <div style={styleAmiiboContainer}>
+                <div style={styleFigureContainer}>
+                    <img
+                        style={styleFigureImage}
+                        src={getAmiiboImage(amiibo.id)}
+                        alt={amiibo.name}
+                    />
+                </div>
+                <h1 style={styleAmiiboName}>{amiibo.name}</h1>
+            </div>
+            <Card>
+                <div style={styleCompatibleGamesHeader}>Compatible games</div>
+                {amiibo.compatibleGames.map(Game)}
+            </Card>
+        </>
+    );
+};
 
 export default AmiiboDetail;
