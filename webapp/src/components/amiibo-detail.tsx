@@ -2,7 +2,6 @@ import * as React from 'react';
 import {
     getAmiibo,
     getGame,
-    Amiibo,
     getAmiiboImage,
     getGameImage,
 } from '../data/amiibos';
