@@ -84,7 +84,7 @@ interface GameProps {
     description: string;
 }
 
-const Game: React.StatelessComponent<GameProps> = ({ id, description }) => {
+const Game: React.SFC<GameProps> = ({ id, description }) => {
     const game = getGame(id);
     if (!game) {
         return null;
@@ -111,7 +111,7 @@ interface Props {
     onGoBack: () => void;
 }
 
-const AmiiboDetail: React.StatelessComponent<Props> = ({ id, onGoBack }) => {
+const AmiiboDetail: React.SFC<Props> = ({ id, onGoBack }) => {
     const amiibo = getAmiibo(id);
 
     if (!amiibo) {

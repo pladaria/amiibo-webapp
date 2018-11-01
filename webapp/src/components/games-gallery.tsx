@@ -55,7 +55,7 @@ interface GameProps {
     categories: string[];
 }
 
-const Game: React.StatelessComponent<GameProps> = ({
+const Game: React.SFC<GameProps> = ({
     id,
     name,
     cover,
@@ -80,7 +80,7 @@ const Game: React.StatelessComponent<GameProps> = ({
     </Link>
 );
 
-const GamesGallery: React.StatelessComponent = () => (
+const GamesGallery: React.SFC = () => (
     <Card>
         {getGames().map(({ id, name, dateRelease, categories, system }) => (
             <Game

@@ -33,7 +33,7 @@ const styleTabSelected = {
     borderBottom: '2px solid white',
 };
 
-export const Tabs: React.StatelessComponent = ({ children }) => (
+export const Tabs: React.SFC = ({ children }) => (
     <div style={styleTabs}>{children}</div>
 );
 interface TabProps {
@@ -41,7 +41,7 @@ interface TabProps {
     title: string;
 }
 
-export const Tab: React.StatelessComponent<TabProps> = ({ path, title }) => (
+export const Tab: React.SFC<TabProps> = ({ path, title }) => (
     <NavLink replace to={path} style={styleTab} activeStyle={styleTabSelected}>
         {title}
     </NavLink>
@@ -56,10 +56,7 @@ const getTabContentStyle = (match: match<{ id: string }>) =>
         display: match && !match.params.id ? '' : 'none',
     } as React.CSSProperties);
 
-export const TabContent: React.StatelessComponent<TabContentProps> = ({
-    path,
-    children,
-}) => (
+export const TabContent: React.SFC<TabContentProps> = ({ path, children }) => (
     <Route
         path={path}
         children={({ match }) => (

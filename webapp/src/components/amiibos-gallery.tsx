@@ -29,7 +29,7 @@ const styleName: React.CSSProperties = {
     textAlign: 'center',
 };
 
-const Amiibo: React.StatelessComponent<Amiibo> = ({ name, id }) => (
+const Amiibo: React.SFC<Amiibo> = ({ name, id }) => (
     <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
             <Img src={getAmiiboImage(id)} style={styleImg} alt={name} />
@@ -41,7 +41,7 @@ const Amiibo: React.StatelessComponent<Amiibo> = ({ name, id }) => (
 const getTitle = (text: string, count: number) =>
     `${text || 'Other'} (${count})`;
 
-const AmiibosGallery: React.StatelessComponent = () => (
+const AmiibosGallery: React.SFC = () => (
     <>
         {getAmiibosGroupedByCollection().map(([group, amiibos]) => (
             <Carousel key={group} title={getTitle(group, amiibos.length)}>

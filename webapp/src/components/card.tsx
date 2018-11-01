@@ -8,8 +8,6 @@ const style = {
     overflow: 'hidden',
 };
 
-const Card: React.StatelessComponent = ({ children }) => (
-    <div style={style}>{children}</div>
-);
+const Card: React.SFC = ({ children }) => <div style={style}>{children}</div>;
 
 export default Card;

@@ -18,7 +18,7 @@ interface Props {
     title: string;
 }
 
-const Carousel: React.StatelessComponent<Props> = ({ title, children }) => (
+const Carousel: React.SFC<Props> = ({ title, children }) => (
     <Card>
         <h2 style={styleTitle}>{title}</h2>
         <div style={styleCarousel}>{children}</div>

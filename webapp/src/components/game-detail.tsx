@@ -72,7 +72,7 @@ interface AmiiboProps {
     description: string;
 }
 
-const AmiiboItem: React.StatelessComponent<AmiiboProps> = ({
+const AmiiboItem: React.SFC<AmiiboProps> = ({
     id,
     name,
     imageUrl,

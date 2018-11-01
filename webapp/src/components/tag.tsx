@@ -8,8 +8,6 @@ const style: React.CSSProperties = {
     fontSize: 11,
 };
 
-const Tag: React.StatelessComponent = ({ children }) => (
-    <span style={style}>{children}</span>
-);
+const Tag: React.SFC = ({ children }) => <span style={style}>{children}</span>;
 
 export default Tag;

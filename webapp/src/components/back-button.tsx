@@ -23,7 +23,7 @@ interface Props {
     onGoBack: () => void;
 }
 
-const BackButton: React.StatelessComponent<Props> = ({ onGoBack }) => (
+const BackButton: React.SFC<Props> = ({ onGoBack }) => (
     <div style={styleContainer}>
         <button style={styleButton} onClick={onGoBack} />
     </div>

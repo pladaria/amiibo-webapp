@@ -3,9 +3,7 @@ import * as React from 'react';
 declare module 'react' {
     // React 16.6
 
-    function memo<Props>(
-        component: React.StatelessComponent<Props>
-    ): React.StatelessComponent<Props>;
+    function memo<Props>(component: React.SFC<Props>): React.SFC<Props>;
 
     function lazy<P, Component extends React.ComponentType<P>>(
         importFn: () => Promise<Component | { default: Component }>

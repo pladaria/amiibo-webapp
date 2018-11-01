@@ -7,7 +7,7 @@ import AmiiboDetail from './components/amiibo-detail';
 import { Route } from 'react-router-dom';
 import GameDetail from './components/game-detail';
 
-const App: React.StatelessComponent = () => (
+const App: React.SFC = () => (
     <>
         <Route
             path="/(amiibos|games)"
