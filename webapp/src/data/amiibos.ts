@@ -10,9 +10,18 @@ export const getAmiibo = (id: string) =>
 
 export const getGame = (id: string) => data.games.find(game => game.id === id);
 
-export const getAmiibosGroupedByCollection = () => {
+export const getAmiibosGroupedByCollection = (filter: string = '') => {
     const groups = new Map<string, Amiibo[]>();
     data.amiibos.forEach(amiibo => {
+        if (filter) {
+            if (
+                !amiibo.name.toLowerCase().includes(filter) &&
+                !amiibo.collection.toLowerCase().includes(filter) &&
+                !amiibo.gameSeries.some(s => s.toLowerCase().includes(filter))
+            ) {
+                return;
+            }
+        }
         let collection = amiibo.collection;
 
         // blacklist for small groups

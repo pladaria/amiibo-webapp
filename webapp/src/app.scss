@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+* {
+    box-sizing: inherit;
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+}
+a,
+input {
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    text-decoration: none;
+}
+body {
+    background: #eeeeee;
+}
+h1,
+h2 {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+}
+@import '@material/react-button/index';
+@import '@material/react-text-field/index';
+@import '@material/react-material-icon/index';
+
+// overrides
+// @import '../node_modules/@material/textfield/mixins';
+
+// .text-input {
+//     @include mdc-text-field-fill-color(pink);
+// }
+// .text-input:active {
+//     @include mdc-text-field-fill-color(red);
+// }
+// .text-input:focus {
+//     @include mdc-text-field-fill-color(yellow);
+// }

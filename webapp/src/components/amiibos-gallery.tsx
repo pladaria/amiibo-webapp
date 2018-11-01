@@ -8,6 +8,12 @@ import {
 import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
+// @ts-ignore
+import TextField, { Input } from '@material/react-text-field';
+// @ts-ignore
+import Icon from '@material/react-material-icon';
+// @ts-ignore
+import Button from '@material/react-button';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,
@@ -41,14 +47,49 @@ const Amiibo: React.SFC<Amiibo> = ({ name, id }) => (
 const getTitle = (text: string, count: number) =>
     `${text || 'Other'} (${count})`;
 
-const AmiibosGallery: React.SFC = () => (
-    <>
-        {getAmiibosGroupedByCollection().map(([group, amiibos]) => (
-            <Carousel key={group} title={getTitle(group, amiibos.length)}>
-                {amiibos.map(Amiibo)}
-            </Carousel>
-        ))}
-    </>
-);
+const AmiibosGallery: React.SFC = () => {
+    const [filter, setFilter] = React.useState('');
+    const handleFilterChange = (event: React.FormEvent<HTMLInputElement>) => {
+        setFilter(event.currentTarget.value);
+    };
+    const handleFilterClear = () => {
+        setFilter('');
+    };
+
+    return (
+        <>
+            <div style={{ padding: 8 }}>
+                <TextField
+                    label="Quick search"
+                    style={{ width: '100%' }}
+                    leadingIcon={<Icon icon="search" />}
+                    trailingIcon={
+                        filter ? (
+                            <Icon
+                                icon="close"
+                                style={{
+                                    cursor: 'pointer',
+                                    pointerEvents: 'all',
+                                    padding: 8,
+                                    transform: 'translate(8px, 8px)',
+                                }}
+                                onClick={handleFilterClear}
+                            />
+                        ) : (
+                            undefined
+                        )
+                    }
+                >
+                    <Input value={filter} onChange={handleFilterChange} />
+                </TextField>
+            </div>
+            {getAmiibosGroupedByCollection(filter).map(([group, amiibos]) => (
+                <Carousel key={group} title={getTitle(group, amiibos.length)}>
+                    {amiibos.map(Amiibo)}
+                </Carousel>
+            ))}
+        </>
+    );
+};
 
 export default AmiibosGallery;

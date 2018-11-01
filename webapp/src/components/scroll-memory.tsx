@@ -15,12 +15,14 @@ const ScrollMemory: React.SFC<RouteComponentProps> = ({
 
     const restoreScroll = () => {
         const [x, y] = ref.locations[ref.index].scroll;
+        console.log('restore scroll', ref.index, '-', x, y, ref.locations);
         requestAnimationFrame(() => {
             window.scrollTo(x, y);
         });
     };
 
     React.useEffect(() => {
+        console.log('use effect');
         ref.locations.push({ path: location.pathname, scroll: [0, 0] });
         window.addEventListener('scroll', handleScroll);
         const unlistenHistory = history.listen((location, action) => {
