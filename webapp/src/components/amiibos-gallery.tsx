@@ -12,8 +12,6 @@ import Img from 'react-lazy-img';
 import TextField, { Input } from '@material/react-text-field';
 // @ts-ignore
 import Icon from '@material/react-material-icon';
-// @ts-ignore
-import Button from '@material/react-button';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,

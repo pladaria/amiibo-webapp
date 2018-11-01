@@ -14,10 +14,11 @@ export const getAmiibosGroupedByCollection = (filter: string = '') => {
     const groups = new Map<string, Amiibo[]>();
     data.amiibos.forEach(amiibo => {
         if (filter) {
+            const f = filter.toLowerCase();
             if (
-                !amiibo.name.toLowerCase().includes(filter) &&
-                !amiibo.collection.toLowerCase().includes(filter) &&
-                !amiibo.gameSeries.some(s => s.toLowerCase().includes(filter))
+                !amiibo.name.toLowerCase().includes(f) &&
+                !amiibo.collection.toLowerCase().includes(f) &&
+                !amiibo.gameSeries.some(s => s.toLowerCase().includes(f))
             ) {
                 return;
             }

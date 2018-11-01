@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material/react-button": "^0.6.1",
     "@material/react-material-icon": "^0.6.1",
     "@material/react-text-field": "^0.6.1",
     "intersection-observer": "^0.5.1",
