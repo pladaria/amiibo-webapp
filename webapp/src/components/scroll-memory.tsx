@@ -9,18 +9,20 @@ const ScrollMemory: React.SFC<RouteComponentProps> = ({
 }) => {
     const ref = React.useRef({ index: 0, locations: [] as Location[] }).current;
 
-    const saveScroll = () => {
+    const handleScroll = () => {
         ref.locations[ref.index].scroll = [window.scrollX, window.scrollY];
     };
 
     const restoreScroll = () => {
         const [x, y] = ref.locations[ref.index].scroll;
-        window.scrollTo(x, y);
+        requestAnimationFrame(() => {
+            window.scrollTo(x, y);
+        });
     };
 
     React.useEffect(() => {
         ref.locations.push({ path: location.pathname, scroll: [0, 0] });
-        window.addEventListener('scroll', saveScroll);
+        window.addEventListener('scroll', handleScroll);
         const unlistenHistory = history.listen((location, action) => {
             const path = location.pathname;
             if (
@@ -44,10 +46,10 @@ const ScrollMemory: React.SFC<RouteComponentProps> = ({
         });
 
         return () => {
-            window.removeEventListener('scroll', saveScroll);
+            window.removeEventListener('scroll', handleScroll);
             unlistenHistory();
         };
-    });
+    }, []);
 
     return null;
 };

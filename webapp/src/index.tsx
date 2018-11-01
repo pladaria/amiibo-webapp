@@ -3,14 +3,14 @@ import 'pwacompat/pwacompat.min.js';
 import './index.css';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import App from './app';
 import registerServiceWorker from './registerServiceWorker';
 import ScrollMemory from './components/scroll-memory';
 import Analytics from './components/analytics';
 
 ReactDOM.render(
-    <HashRouter>
+    <BrowserRouter>
         <>
             <Analytics />
             <ScrollMemory />
@@ -19,7 +19,7 @@ ReactDOM.render(
                 <Route render={() => <Redirect to="/amiibos" />} />
             </Switch>
         </>
-    </HashRouter>,
+    </BrowserRouter>,
     document.getElementById('root')
 );
 
