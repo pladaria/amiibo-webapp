@@ -2,8 +2,6 @@ import * as React from 'react';
 import {
     getAmiibosByGame,
     getGame,
-    Game,
-    Amiibo,
     getGameImage,
     getAmiiboImage,
 } from '../data/amiibos';
@@ -59,7 +57,9 @@ const styleCompatibleAmiibosHeader: React.CSSProperties = {
 };
 
 const styleGameImage: React.CSSProperties = {
-    width: '100%',
+    width: '100vw',
+    height: '100vw',
+    maxHeight: 500,
     maxWidth: 500,
     display: 'block',
 };
@@ -104,78 +104,61 @@ interface Props {
     onGoBack: () => void;
 }
 
-interface State {
-    game?: Game;
-    amiibos: Amiibo[];
-}
+const GameDetail: React.SFC<Props> = ({ id, onGoBack }) => {
+    const game = getGame(id);
+    const amiibos = getAmiibosByGame(id);
 
-class GameDetail extends React.Component<Props, State> {
-    state = {
-        amiibos: [],
-    } as State;
-
-    static getDerivedStateFromProps = (props: Props): State => ({
-        game: getGame(props.id),
-        amiibos: getAmiibosByGame(props.id),
-    });
-
-    render() {
-        if (!this.state.game) {
-            return <Redirect to="/games" />;
-        }
-
-        const { game, amiibos } = this.state;
-        const { onGoBack } = this.props;
-        return (
-            <>
-                <BackButton onGoBack={onGoBack} />
-                <div style={styleGameContainer}>
-                    <img
-                        style={styleGameImage}
-                        src={getGameImage(game.id)}
-                        alt={game.name}
-                    />
-                </div>
-                <Card>
-                    <div style={{ padding: 16 }}>
-                        <div
-                            style={{
-                                fontSize: 24,
-                                fontWeight: 500,
-                            }}
-                        >
-                            {game.name}
-                        </div>
-                        <div style={{ margin: '8px 0' }}>{game.system}</div>
-                        {game.categories.map(c => (
-                            <Tag key={c}>{c}</Tag>
-                        ))}
-                    </div>
-                </Card>
-                <Card>
-                    <div style={styleCompatibleAmiibosHeader}>
-                        Compatible amiibos
-                    </div>
-                    {amiibos.map(
-                        ({ id, name, collection, compatibleGames }) => (
-                            <AmiiboItem
-                                id={id}
-                                key={id}
-                                name={name}
-                                imageUrl={getAmiiboImage(id)}
-                                collection={collection}
-                                description={
-                                    compatibleGames.find(
-                                        game => game.id === this.props.id
-                                    )!.description
-                                }
-                            />
-                        )
-                    )}
-                </Card>
-            </>
-        );
+    if (!game) {
+        return <Redirect to="/games" />;
     }
-}
+    return (
+        <>
+            <BackButton onGoBack={onGoBack} />
+            <div style={styleGameContainer}>
+                <img
+                    style={styleGameImage}
+                    src={getGameImage(game.id)}
+                    alt={game.name}
+                />
+            </div>
+            <Card>
+                <div style={{ padding: 16 }}>
+                    <div
+                        style={{
+                            fontSize: 24,
+                            fontWeight: 500,
+                        }}
+                    >
+                        {game.name}
+                    </div>
+                    <div style={{ margin: '8px 0' }}>{game.system}</div>
+                    {game.categories.map(c => (
+                        <Tag key={c}>{c}</Tag>
+                    ))}
+                </div>
+            </Card>
+            <Card>
+                <div style={styleCompatibleAmiibosHeader}>
+                    Compatible amiibos
+                </div>
+                {amiibos.map(
+                    ({ id: amiiboId, name, collection, compatibleGames }) => (
+                        <AmiiboItem
+                            id={amiiboId}
+                            key={amiiboId}
+                            name={name}
+                            imageUrl={getAmiiboImage(amiiboId)}
+                            collection={collection}
+                            description={
+                                compatibleGames.find(game => game.id === id)!
+                                    .description
+                            }
+                        />
+                    )
+                )}
+            </Card>
+        </>
+    );
+};
 
 export default GameDetail;
