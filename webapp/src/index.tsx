@@ -5,7 +5,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import App from './app';
-import registerServiceWorker from './registerServiceWorker';
+import * as serviceWorker from './serviceWorker';
 import ScrollMemory from './components/scroll-memory';
 import Analytics from './components/analytics';
 
@@ -23,4 +23,4 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-registerServiceWorker();
+serviceWorker.register();

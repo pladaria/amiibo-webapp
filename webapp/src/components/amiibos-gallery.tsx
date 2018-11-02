@@ -33,7 +33,7 @@ const styleName: React.CSSProperties = {
     textAlign: 'center',
 };
 
-const Amiibo: React.SFC<Amiibo> = ({ name, id }) => (
+const AmiiboItem: React.SFC<Amiibo> = ({ name, id }) => (
     <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
             <Img src={getAmiiboImage(id)} style={styleImg} alt={name} />
@@ -83,7 +83,7 @@ const AmiibosGallery: React.SFC = () => {
             </div>
             {getAmiibosGroupedByCollection(filter).map(([group, amiibos]) => (
                 <Carousel key={group} title={getTitle(group, amiibos.length)}>
-                    {amiibos.map(Amiibo)}
+                    {amiibos.map(AmiiboItem)}
                 </Carousel>
             ))}
         </>
