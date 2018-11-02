@@ -10,74 +10,75 @@ import Card from './card';
 import { Link } from 'react-router-dom';
 import BackButton from './back-button';
 import Img from 'react-lazy-img';
+import styled from 'styled-components/macro';
 
-const styleGame: React.CSSProperties = {
-    padding: 16,
-    display: 'flex',
-    borderBottom: '1px solid #ddd',
-    overflow: 'hidden',
-};
+const AmiiboContainer = styled.div`
+    background: white;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+`;
 
-const styleGameTitle: React.CSSProperties = {
-    fontSize: 16,
-    marginBottom: 4,
-    whiteSpace: 'nowrap',
-    textOverflow: 'ellipsis',
-    overflow: 'hidden',
-};
+const GameLink = styled(Link)`
+    padding: 16px;
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+`;
 
-const styleGameCover: React.CSSProperties = {
-    width: 75,
-    height: 75,
-    display: 'inline-block',
-};
+const GameTitle = styled.h2`
+    font-size: 16px;
+    margin-bottom: 4px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+`;
 
-const styleGameCoverContainer: React.CSSProperties = {
-    flexShrink: 0,
-    width: 75,
-    height: 75,
-    marginRight: 16,
-    display: 'inline-block',
-};
+const GameCover = styled.div`
+    flex-shrink: 0;
+    width: 75px;
+    height: 75px;
+    margin-right: 16px;
+    display: inline-block;
+`;
 
-const styleGameDescription: React.CSSProperties = {
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'space-between',
-    flexShrink: 1,
-    flexGrow: 1,
-    overflow: 'hidden',
-    fontSize: 13,
-};
+const GameCoverImg = styled(Img)`
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+`;
 
-const styleFigureContainer: React.CSSProperties = {
-    height: 400,
-};
+const GameDescription = styled.div`
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-shrink: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    font-size: 13px;
+`;
 
-const styleAmiiboContainer: React.CSSProperties = {
-    background: 'white',
-    boxShadow: '0px 0px 5px 0px rgba(0,0,0,0.75)',
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-};
+const FigureContainer = styled.div`
+    height: 400px;
+`;
 
-const styleCompatibleGamesHeader: React.CSSProperties = {
-    margin: 16,
-    color: '#444',
-};
+const FigureImg = styled.img`
+    width: 360px;
+    margin-top: -8px;
+    display: block;
+`;
 
-const styleFigureImage: React.CSSProperties = {
-    width: 360,
-    marginTop: -8,
-    display: 'block',
-};
+const FigureName = styled.h1`
+    font-size: 24px;
+    margin-bottom: 16px;
+    text-align: center;
+`;
 
-const styleAmiiboName: React.CSSProperties = {
-    fontSize: 24,
-    marginBottom: 16,
-    textAlign: 'center',
-};
+const CompatibleGamesHeader = styled.div`
+    margin: 16px;
+    color: #444;
+`;
 
 interface GameProps {
     id: string;
@@ -91,18 +92,18 @@ const Game: React.SFC<GameProps> = ({ id, description }) => {
     }
     const { name, system } = game;
     return (
-        <Link to={`/games/${id}`} style={styleGame} key={id}>
-            <div style={styleGameCoverContainer}>
-                <Img style={styleGameCover} src={getGameImage(id)} alt={name} />
-            </div>
-            <div style={styleGameDescription}>
+        <GameLink to={`/games/${id}`} key={id}>
+            <GameCover>
+                <GameCoverImg src={getGameImage(id)} alt={name} />
+            </GameCover>
+            <GameDescription>
                 <div>
-                    <div>{system}</div>
-                    <h2 style={styleGameTitle}>{name}</h2>
+                    {system}
+                    <GameTitle>{name}</GameTitle>
                 </div>
-                <div>{description}</div>
-            </div>
-        </Link>
+                {description}
+            </GameDescription>
+        </GameLink>
     );
 };
 
@@ -121,18 +122,17 @@ const AmiiboDetail: React.SFC<Props> = ({ id, onGoBack }) => {
     return (
         <>
             <BackButton onGoBack={onGoBack} />
-            <div style={styleAmiiboContainer}>
-                <div style={styleFigureContainer}>
-                    <img
-                        style={styleFigureImage}
+            <AmiiboContainer>
+                <FigureContainer>
+                    <FigureImg
                         src={getAmiiboImage(amiibo.id)}
                         alt={amiibo.name}
                     />
-                </div>
-                <h1 style={styleAmiiboName}>{amiibo.name}</h1>
-            </div>
+                </FigureContainer>
+                <FigureName>{amiibo.name}</FigureName>
+            </AmiiboContainer>
             <Card>
-                <div style={styleCompatibleGamesHeader}>Compatible games</div>
+                <CompatibleGamesHeader>Compatible games</CompatibleGamesHeader>
                 {amiibo.compatibleGames.map(Game)}
             </Card>
         </>

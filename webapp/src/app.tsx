@@ -1,5 +1,5 @@
 import * as React from 'react';
-import './app.css';
+import './app.scss';
 import { Tabs, Tab, TabContent } from './components/tabs';
 import AmiibosGallery from './components/amiibos-gallery';
 import GamesGallery from './components/games-gallery';
