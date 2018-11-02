@@ -1,14 +1,10 @@
 {
-  "name": "webapp2",
+  "name": "webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material/react-material-icon": "^0.6.1",
     "@material/react-text-field": "^0.6.1",
-    "@types/jest": "23.3.9",
-    "@types/node": "10.12.2",
-    "@types/react": "16.4.18",
-    "@types/react-dom": "16.0.9",
     "intersection-observer": "^0.5.1",
     "pwacompat": "^2.0.7",
     "react": "^16.7.0-alpha",
@@ -16,14 +12,14 @@
     "react-lazy-img": "^1.0.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1",
-    "typescript": "3.1.6"
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postbuild": "rm -rf ../docs && mkdir -p ../docs && cp -rv ./build/* ../docs && echo 'amiibo.org' > ../docs/CNAME "
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,6 +31,11 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "typescript": "3.1.6",
+    "@types/jest": "23.3.9",
+    "@types/node": "10.12.2",
+    "@types/react": "16.4.18",
+    "@types/react-dom": "16.0.9",
     "@types/google.analytics": "^0.0.39",
     "@types/react-router": "^4.4.0",
     "@types/react-router-dom": "^4.3.1"
