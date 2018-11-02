@@ -4,47 +4,48 @@ import { getGames, getGameImage } from '../data/amiibos';
 import { Link } from 'react-router-dom';
 import Tag from './tag';
 import Img from 'react-lazy-img';
+import styled from 'styled-components/macro';
 
-const styleGame: React.CSSProperties = {
-    padding: 16,
-    display: 'flex',
-    borderBottom: '1px solid #ddd',
-    overflow: 'hidden',
-};
+const GameLink = styled(Link)`
+    padding: 16px;
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+`;
 
-const styleTitle: React.CSSProperties = {
-    fontSize: 16,
-    marginBottom: 4,
-    whiteSpace: 'nowrap',
-    textOverflow: 'ellipsis',
-    overflow: 'hidden',
-};
+const GameTitle = styled.h2`
+    font-size: 16px;
+    margin-bottom: 4px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+`;
 
-const styleGameCovercontainer: React.CSSProperties = {
-    flexShrink: 0,
-    width: 75,
-    height: 75,
-    marginRight: 16,
-};
+const GameCoverContainer = styled.div`
+    flex-shrink: 0;
+    width: 75px;
+    height: 75px;
+    margin-right: 16px;
+`;
 
-const styleGameCover: React.CSSProperties = {
-    width: 75,
-    height: 75,
-};
+const GameCoverImg = styled(Img)`
+    width: 75px;
+    height: 75px;
+`;
 
-const styleDescription: React.CSSProperties = {
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'space-between',
-    flexShrink: 1,
-    flexGrow: 1,
-    overflow: 'hidden',
-    fontSize: 13,
-};
+const GameDescription = styled.div`
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-shrink: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    font-size: 13px;
+`;
 
-const styleCategories: React.CSSProperties = {
-    marginBottom: 2,
-};
+const GameCategories = styled.div`
+    margin-bottom: 2px;
+`;
 
 interface GameProps {
     id: string;
@@ -62,22 +63,22 @@ const Game: React.SFC<GameProps> = ({
     categories,
     system,
 }) => (
-    <Link to={`/games/${id}`} style={styleGame}>
-        <div style={styleGameCovercontainer}>
-            <Img style={styleGameCover} src={cover} alt={name} />
-        </div>
-        <div style={styleDescription}>
+    <GameLink to={`/games/${id}`}>
+        <GameCoverContainer>
+            <GameCoverImg src={cover} alt={name} />
+        </GameCoverContainer>
+        <GameDescription>
             <div>
-                <div>{system}</div>
-                <h2 style={styleTitle}>{name}</h2>
+                {system}
+                <GameTitle>{name}</GameTitle>
             </div>
-            <div style={styleCategories}>
+            <GameCategories>
                 {categories.map(c => (
                     <Tag key={c}>{c}</Tag>
                 ))}
-            </div>
-        </div>
-    </Link>
+            </GameCategories>
+        </GameDescription>
+    </GameLink>
 );
 
 const GamesGallery: React.SFC = () => (

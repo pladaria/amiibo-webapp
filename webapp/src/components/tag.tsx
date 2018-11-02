@@ -1,13 +1,11 @@
-import * as React from 'react';
+import styled from 'styled-components/macro';
 
-const style: React.CSSProperties = {
-    background: '#eee',
-    padding: '2px 8px',
-    marginRight: 8,
-    borderRadius: 16,
-    fontSize: 11,
-};
-
-const Tag: React.SFC = ({ children }) => <span style={style}>{children}</span>;
+const Tag = styled.span`
+    background: #eee;
+    padding: 2px 8px;
+    margin-right: 8px;
+    border-radius: 16px;
+    font-size: 11px;
+`;
 
 export default Tag;

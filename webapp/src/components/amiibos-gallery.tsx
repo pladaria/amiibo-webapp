@@ -58,7 +58,7 @@ const AmiibosGallery: React.SFC = () => {
         <>
             <div style={{ padding: 8 }}>
                 <TextField
-                    label="Quick search"
+                    label="Filter"
                     style={{ width: '100%' }}
                     leadingIcon={<Icon icon="search" />}
                     trailingIcon={

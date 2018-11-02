@@ -22,7 +22,6 @@ const ScrollMemory: React.SFC<RouteComponentProps> = ({
     };
 
     React.useEffect(() => {
-        console.log('use effect');
         ref.locations.push({ path: location.pathname, scroll: [0, 0] });
         window.addEventListener('scroll', handleScroll);
         const unlistenHistory = history.listen((location, action) => {
