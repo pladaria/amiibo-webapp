@@ -15,7 +15,6 @@ const ScrollMemory: React.SFC<RouteComponentProps> = ({
 
     const restoreScroll = () => {
         const [x, y] = ref.locations[ref.index].scroll;
-        console.log('restore scroll', ref.index, '-', x, y, ref.locations);
         requestAnimationFrame(() => {
             window.scrollTo(x, y);
         });
