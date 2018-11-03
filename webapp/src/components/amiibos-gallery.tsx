@@ -12,6 +12,7 @@ import Img from 'react-lazy-img';
 import TextField, { Input } from '@material/react-text-field';
 // @ts-ignore
 import Icon from '@material/react-material-icon';
+import Filter from './filter';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,
@@ -56,30 +57,19 @@ const AmiibosGallery: React.SFC = () => {
 
     return (
         <>
-            <div style={{ padding: 8 }}>
-                <TextField
+            <div
+                style={{
+                    padding: 8,
+                    background: '#fff',
+                    boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+                }}
+            >
+                <Filter
+                    onChange={handleFilterChange}
+                    onClear={handleFilterClear}
+                    value={filter}
                     label="Filter"
-                    style={{ width: '100%' }}
-                    leadingIcon={<Icon icon="search" />}
-                    trailingIcon={
-                        filter ? (
-                            <Icon
-                                icon="close"
-                                style={{
-                                    cursor: 'pointer',
-                                    pointerEvents: 'all',
-                                    padding: 8,
-                                    transform: 'translate(8px, 8px)',
-                                }}
-                                onClick={handleFilterClear}
-                            />
-                        ) : (
-                            undefined
-                        )
-                    }
-                >
-                    <Input value={filter} onChange={handleFilterChange} />
-                </TextField>
+                />
             </div>
             {getAmiibosGroupedByCollection(filter).map(([group, amiibos]) => (
                 <Carousel key={group} title={getTitle(group, amiibos.length)}>
