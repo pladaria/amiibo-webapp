@@ -8,10 +8,6 @@ import {
 import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
-// @ts-ignore
-import TextField, { Input } from '@material/react-text-field';
-// @ts-ignore
-import Icon from '@material/react-material-icon';
 import Filter from './filter';
 
 const styleAmiiboContainer: React.CSSProperties = {

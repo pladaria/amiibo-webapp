@@ -8283,10 +8283,10 @@ react-is@^16.6.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.6.0.tgz#456645144581a6e99f6816ae2bd24ee94bdd0c01"
   integrity sha512-q8U7k0Fi7oxF1HvQgyBjPwDXeMplEsArnKt2iYhuIF86+GBbgLHdAmokL3XUFjTd7Q363OSNG55FOGUdONVn1g==
 
-react-lazy-img@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-1.0.1.tgz#64dc9c42277f4b804760307580c97f5ced17a5e7"
-  integrity sha512-wTfg7T2x0vtmhtlRozNa6+W2nva3mobSz68FRLMQAcbUFN3un86JRxHUiNKisFDlIIjJcpfjXjIhUhjbTDwswQ==
+react-lazy-img@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-lazy-img/-/react-lazy-img-1.0.2.tgz#d81d3564a3cfca9263084c0ed3f983d62762dd80"
+  integrity sha512-6evmGPaiWIZYjwVZ50Ybpf/5kWOWqt3OGPd0EXjzvwrabLWi670SRROwnPiLa5r4pdnBeUErHLFDjMo1Q4dM1w==
   dependencies:
     requestidlecallback-polyfill "^1.0.1"
 
