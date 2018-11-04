@@ -10,6 +10,7 @@ import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
 import { useFilter } from './filter';
 import styled from 'styled-components';
+import Panel from './panel';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,
@@ -31,13 +32,6 @@ const styleName: React.CSSProperties = {
     textAlign: 'center',
 };
 
-const FilterContainer = styled.div`
-    padding: 8px;
-    background: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    position: relative;
-`;
-
 const AmiiboItem: React.SFC<Amiibo> = ({ name, id }) => (
     <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
@@ -55,7 +49,7 @@ const AmiibosGallery: React.SFC = () => {
 
     return (
         <>
-            <FilterContainer>{filterElement}</FilterContainer>
+            <Panel>{filterElement}</Panel>
             {getAmiibosGroupedByCollection(filter).map(([group, amiibos]) => (
                 <Carousel key={group} title={getTitle(group, amiibos.length)}>
                     {amiibos.map(AmiiboItem)}

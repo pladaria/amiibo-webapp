@@ -5,6 +5,8 @@ import { Link } from 'react-router-dom';
 import Tag from './tag';
 import Img from 'react-lazy-img';
 import styled from 'styled-components/macro';
+import Panel from './panel';
+import { useFilter } from './filter';
 
 const GameLink = styled(Link)`
     padding: 16px;
@@ -81,20 +83,28 @@ const Game: React.SFC<GameProps> = ({
     </GameLink>
 );
 
-const GamesGallery: React.SFC = () => (
-    <Card>
-        {getGames().map(({ id, name, dateRelease, categories, system }) => (
-            <Game
-                id={id}
-                key={id}
-                name={name}
-                cover={getGameImage(id)}
-                date={dateRelease}
-                categories={categories}
-                system={system}
-            />
-        ))}
-    </Card>
-);
+const GamesGallery: React.SFC = () => {
+    const [filter, filterElement] = useFilter('');
+    return (
+        <>
+            <Panel>{filterElement}</Panel>
+            <Card>
+                {getGames(filter).map(
+                    ({ id, name, dateRelease, categories, system }) => (
+                        <Game
+                            id={id}
+                            key={id}
+                            name={name}
+                            cover={getGameImage(id)}
+                            date={dateRelease}
+                            categories={categories}
+                            system={system}
+                        />
+                    )
+                )}
+            </Card>
+        </>
+    );
+};
 
 export default GamesGallery;

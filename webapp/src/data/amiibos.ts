@@ -67,8 +67,18 @@ export const getAmiibosByGame = (id: string) =>
         amiibo.compatibleGames.some(game => game.id === id)
     );
 
-export const getGames = () =>
-    [...data.games].sort((a, b) => (a.dateRelease < b.dateRelease ? 1 : -1));
+export const getGames = (filter?: string) => {
+    let games = [...data.games];
+    if (filter) {
+        const f = filter.toLowerCase();
+        games = games.filter(
+            g =>
+                g.name.toLowerCase().includes(f) ||
+                g.gameSeries.some(gs => gs.toLowerCase().includes(f))
+        );
+    }
+    return games.sort((a, b) => (a.dateRelease < b.dateRelease ? 1 : -1));
+};
 
 export const getGameImage = (id: string) => `/images/game/${id}-500w.jpg`;
 

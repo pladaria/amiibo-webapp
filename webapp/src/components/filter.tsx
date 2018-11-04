@@ -25,6 +25,10 @@ const TrailingIcon = styled(Icon)`
     cursor: pointer;
 `;
 
+const InputWrapper = styled.div`
+    position: relative;
+`;
+
 interface Props {
     label: string;
     value: string;
@@ -33,7 +37,7 @@ interface Props {
 }
 
 const Filter: React.SFC<Props> = ({ label, value, onChange, onClear }) => (
-    <div style={{ position: 'relative' }}>
+    <InputWrapper>
         <Input
             placeholder={label}
             value={value}
@@ -46,7 +50,7 @@ const Filter: React.SFC<Props> = ({ label, value, onChange, onClear }) => (
         />
         <LeadingIcon icon="search" />
         {value && <TrailingIcon icon="close" onClick={onClear} />}
-    </div>
+    </InputWrapper>
 );
 
 export const useFilter = (
