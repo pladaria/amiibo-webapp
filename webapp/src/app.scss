@@ -12,6 +12,7 @@ input {
     -webkit-tap-highlight-color: transparent;
     outline: none;
     text-decoration: none;
+    appearance: none;
 }
 body {
     background: #eeeeee;
@@ -22,5 +23,3 @@ h2 {
     margin: 0;
     font-weight: 500;
 }
-@import '@material/react-text-field/index';
-@import '@material/react-material-icon/index';

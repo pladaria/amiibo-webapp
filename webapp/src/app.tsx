@@ -8,7 +8,7 @@ import { Route } from 'react-router-dom';
 import GameDetail from './components/game-detail';
 
 const App: React.SFC = () => (
-    <>
+    <div>
         <Route
             path="/(amiibos|games)"
             exact
@@ -37,7 +37,7 @@ const App: React.SFC = () => (
                 <GameDetail id={match.params.id} onGoBack={history.goBack} />
             )}
         />
-    </>
+    </div>
 );
 
 export default App;

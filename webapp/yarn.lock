@@ -801,73 +801,12 @@
   resolved "https://registry.yarnpkg.com/@material/base/-/base-0.40.1.tgz#a0d8e19cee98dae0f96dbf0887a14b3f7acd2aac"
   integrity sha512-vrbOK8hONVCYgURQ9h7nkXvMdYnZVVNmAfFFijF8fbWQdwnoPcNTdqV6RoQlhBEqHYHQqLNfdUDlznAPKLclGQ==
 
-"@material/floating-label@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/floating-label/-/floating-label-0.40.1.tgz#1f025e414fde754d6d1ac57757b4da207ed01fa0"
-  integrity sha512-b8/Wj4qfqOSJRSoQ1X7EC2lQc2hF0IGPXIbGpanZYe0c3wnhRXdSYd4kUnDw6rHgKn2IfnOEZkzOetODkftWDw==
-  dependencies:
-    "@material/animation" "^0.40.1"
-    "@material/base" "^0.40.1"
-    "@material/rtl" "^0.40.1"
-    "@material/theme" "^0.40.1"
-    "@material/typography" "^0.40.1"
-
-"@material/line-ripple@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/line-ripple/-/line-ripple-0.40.1.tgz#b31193544348c8dbc698a75f62a84630557ac093"
-  integrity sha512-S4Iq9qtxAF0ViwGfl+Dkb/dDd9EdJx/MpzA0/Lq51XvxWoJJvLfEEvX9j+V41ZhPd9FzqocTtUCCAw7Cov5mEw==
-  dependencies:
-    "@material/animation" "^0.40.1"
-    "@material/base" "^0.40.1"
-    "@material/theme" "^0.40.1"
-
-"@material/notched-outline@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/notched-outline/-/notched-outline-0.40.1.tgz#544ee4f06adcd9294885c08a488d2657e7d65f0b"
-  integrity sha512-b3V6/G7TW1P21Frw3JxB6Hc6k7MbrmPSynGuVUPLmuX+eSUm6GhxOy0rK4UzlBZumDnyyJDw+2HvJd1BYoOgeg==
-  dependencies:
-    "@material/animation" "^0.40.1"
-    "@material/base" "^0.40.1"
-    "@material/rtl" "^0.40.1"
-    "@material/shape" "^0.40.1"
-    "@material/theme" "^0.40.1"
-
-"@material/react-floating-label@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@material/react-floating-label/-/react-floating-label-0.6.1.tgz#0c89bdc7f915489e6ba82bc15d169aba4ba28e87"
-  integrity sha512-hY7Lp30YbgXc0PwKswgZcLZ33yeIXbVzeiBm82SklNqiA+sRCTDm3dDzdZcuqEYxYvZtLNgy92Wl+jWtGE4G2w==
-  dependencies:
-    "@material/floating-label" "^0.40.1"
-    classnames "^2.2.5"
-    prop-types "^15.6.1"
-    react "^16.4.2"
-
-"@material/react-line-ripple@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@material/react-line-ripple/-/react-line-ripple-0.6.1.tgz#1fa1b553450d57f821424db75c8deb6ad13f9d69"
-  integrity sha512-hU0nClvSVzxSL1DHf8RV+C4IbxSosFRYQoOzzgtl2pSwj3wzBFButdw2K9Lj/wj2AhBuG1GSZALylQw9KGZEmg==
-  dependencies:
-    "@material/line-ripple" "^0.40.1"
-    classnames "^2.2.5"
-    prop-types "^15.6.1"
-    react "^16.4.2"
-
 "@material/react-material-icon@^0.6.1":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@material/react-material-icon/-/react-material-icon-0.6.1.tgz#aa0485c692c57d40b1d43c8f8963264964bf701a"
   integrity sha512-b8qax9K+7fudAJLS2pIaefLU8oKpGwMIt9RZE2c95nszkVC573ZaCS+Xx/gRJcnCKDXqNvbwB1D6MwfayzIRFA==
   dependencies:
     "@material/react-ripple" "^0.6.1"
-    classnames "^2.2.5"
-    prop-types "^15.6.1"
-    react "^16.4.2"
-
-"@material/react-notched-outline@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@material/react-notched-outline/-/react-notched-outline-0.6.1.tgz#aee942fa619b7deb9634b904eaadba2d98cbf6e3"
-  integrity sha512-ZReRmFaUT7qev3kKlZ72/7A+fb85axqfmtmDQPS/l0I10S0jQYxJsJrVZMuDVxR4JGR1chtlHTb3hH0HIQd+yQ==
-  dependencies:
-    "@material/notched-outline" "^0.40.1"
     classnames "^2.2.5"
     prop-types "^15.6.1"
     react "^16.4.2"
@@ -882,19 +821,6 @@
     prop-types "^15.6.1"
     react "^16.4.2"
 
-"@material/react-text-field@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@material/react-text-field/-/react-text-field-0.6.1.tgz#79f74fbebf20f63cdf87c8b64d62b77a6f6a8ab7"
-  integrity sha512-M9t+eLN5dy0lWHWDVAOIM6ipOrvkMWjN/l+DmnTjCq/iYdahPIEkY1CzammolNv1zyazFkLQpya7X8pe9mGYpQ==
-  dependencies:
-    "@material/react-floating-label" "^0.6.1"
-    "@material/react-line-ripple" "^0.6.1"
-    "@material/react-notched-outline" "^0.6.1"
-    "@material/textfield" "^0.40.1"
-    classnames "^2.2.5"
-    prop-types "^15.6.1"
-    react "^16.4.2"
-
 "@material/ripple@^0.40.1":
   version "0.40.1"
   resolved "https://registry.yarnpkg.com/@material/ripple/-/ripple-0.40.1.tgz#57cbc689303b48282229cb9b62556af7442e852a"
@@ -904,41 +830,10 @@
     "@material/base" "^0.40.1"
     "@material/theme" "^0.40.1"
 
-"@material/rtl@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/rtl/-/rtl-0.40.1.tgz#5b0d973e3c6f8e2ea3656c06ada37ba2fedfa206"
-  integrity sha512-Pk6Iw1/KrhWZoZtkDsPMDUW0bm7Z1zeXb3MTQRCFmjf1wU5cRxgOTtuoZLcJqlcKGppLAzJL/TJV3E7KEiuL0A==
-
-"@material/shape@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/shape/-/shape-0.40.1.tgz#bd4224902896c3d45fab353d788fe6c4866483a8"
-  integrity sha512-o1pw5+s/jWqsKbUAkCCaEcB8XLqJ4FlZhYfSvxZ88WRw9zoWOt9iQMMP82wLWhUX1DSzpNRI8BAD7aNLK6yRlA==
-
-"@material/textfield@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/textfield/-/textfield-0.40.1.tgz#6ea17eb248e9777c08856858367ccec7d1a0d916"
-  integrity sha512-fxQoXUZEwX3tL/61s2qP2REpSCnK+8m2AabDh4OVYMd5DDUQlihZhQgv73mqrsYveLWeTi/KebL6GcjP5BAKiw==
-  dependencies:
-    "@material/animation" "^0.40.1"
-    "@material/base" "^0.40.1"
-    "@material/floating-label" "^0.40.1"
-    "@material/line-ripple" "^0.40.1"
-    "@material/notched-outline" "^0.40.1"
-    "@material/ripple" "^0.40.1"
-    "@material/rtl" "^0.40.1"
-    "@material/shape" "^0.40.1"
-    "@material/theme" "^0.40.1"
-    "@material/typography" "^0.40.1"
-
 "@material/theme@^0.40.1":
   version "0.40.1"
   resolved "https://registry.yarnpkg.com/@material/theme/-/theme-0.40.1.tgz#3cc3f1bf87ee9581df03e347a1979e53ae617221"
   integrity sha512-cH1CsGIDisEQ2oroZhLTypV0Ir00x3WIwFXnPo7qv3832tuIDkZY623U3rUax6KNPz4Hh1j0tNpTwgrNZwvwWA==
-
-"@material/typography@^0.40.1":
-  version "0.40.1"
-  resolved "https://registry.yarnpkg.com/@material/typography/-/typography-0.40.1.tgz#68ecb767f7c54ca2f4053cccdd1c4a0198e60f9b"
-  integrity sha512-LkW2tAsId8zGKxGA5VIFXV/D1h4vCHQIuALRMaDpHbNGffgr2ubtJNvCh2EQkm19MTv4igVLEjn1Svh0dXcTpA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"

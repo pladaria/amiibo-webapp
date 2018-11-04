@@ -8,7 +8,8 @@ import {
 import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
-import Filter from './filter';
+import { useFilter } from './filter';
+import styled from 'styled-components';
 
 const styleAmiiboContainer: React.CSSProperties = {
     width: 150,
@@ -30,6 +31,13 @@ const styleName: React.CSSProperties = {
     textAlign: 'center',
 };
 
+const FilterContainer = styled.div`
+    padding: 8px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+`;
+
 const AmiiboItem: React.SFC<Amiibo> = ({ name, id }) => (
     <div style={styleAmiiboContainer} key={id}>
         <Link style={{ display: 'block' }} to={`/amiibos/${id}`}>
@@ -43,30 +51,11 @@ const getTitle = (text: string, count: number) =>
     `${text || 'Other'} (${count})`;
 
 const AmiibosGallery: React.SFC = () => {
-    const [filter, setFilter] = React.useState('');
-    const handleFilterChange = (event: React.FormEvent<HTMLInputElement>) => {
-        setFilter(event.currentTarget.value);
-    };
-    const handleFilterClear = () => {
-        setFilter('');
-    };
+    const [filter, filterElement] = useFilter('');
 
     return (
         <>
-            <div
-                style={{
-                    padding: 8,
-                    background: '#fff',
-                    boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
-                }}
-            >
-                <Filter
-                    onChange={handleFilterChange}
-                    onClear={handleFilterClear}
-                    value={filter}
-                    label="Filter"
-                />
-            </div>
+            <FilterContainer>{filterElement}</FilterContainer>
             {getAmiibosGroupedByCollection(filter).map(([group, amiibos]) => (
                 <Carousel key={group} title={getTitle(group, amiibos.length)}>
                     {amiibos.map(AmiiboItem)}

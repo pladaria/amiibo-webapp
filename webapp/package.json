@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@material/react-material-icon": "^0.6.1",
-    "@material/react-text-field": "^0.6.1",
     "@types/styled-components": "^4.0.3",
     "intersection-observer": "^0.5.1",
     "pwacompat": "^2.0.7",
