@@ -1,7 +1,7 @@
 import * as React from 'react';
 // @ts-ignore
 import Icon from '@material/react-material-icon';
-import styled from 'styled-components';
+import styled from 'styled-components/macro';
 
 const Input = styled.input`
     width: 100%;

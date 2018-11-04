@@ -9,7 +9,7 @@ import { cut } from '../utils/string';
 import { Link } from 'react-router-dom';
 import Img from 'react-lazy-img';
 import { useFilter } from './filter';
-import styled from 'styled-components';
+import styled from 'styled-components/macro';
 import Panel from './panel';
 
 const styleAmiiboContainer: React.CSSProperties = {
