@@ -23,5 +23,4 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-console.log('sw reg');
 serviceWorker.register();
